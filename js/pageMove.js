@@ -40,6 +40,10 @@ function moveGroupIdentity() {
 	location.href = "sub_html/groupIdentity/groupIdentity.html";
 }
 
+function moveSandIdentity() {
+	location.href = "sandwichIdentity.html";
+}
+
 function onMouseOverAbout() {
 	document.getElementById("aboutTxt").style.marginRight = '0px';
 	document.getElementById("aboutTxtHidden").style.display = 'inline';

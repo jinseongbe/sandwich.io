@@ -1,0 +1,44 @@
+html{
+    margin: 0;
+    /* background: #FFFFFF; */
+    /* background: #000000; */
+    border-width: 0px;
+    border-style: none;
+
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */   
+}
+
+
+html::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera*/
+}
+
+body{
+    border-width: 0px;
+    border-style: none;
+
+    margin: 0;
+    background-color: black;
+}
+
+#bodyContainer{
+    display: flex;
+    justify-content: center;
+    border:none;
+    border-right:0px; 
+    border-top:0px;
+    border-left:0px; 
+    border-bottom:0px;
+    
+}
+
+.img1{
+    width: 1500px;
+    border-right:0px; 
+    border-top:0px;
+    border-left:0px; 
+    border-bottom:0px;
+
+    
+}

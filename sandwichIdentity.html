@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/sandwichIdentityStyle.css">
+    <link rel="stylesheet" href="css/navigationStyle.css">
+    <script type="text/javascript" src="js/pageMove.js"></script>                
+</head>
+
+
+<body>
+    <nav>
+        <div class="navContainer">
+            <div id="aboutContiner" onclick="moveAbout()" onmouseover="onMouseOverAbout()" onmouseout="onMouseOutAbout()"> 
+                <span id="aboutTxt">SANDWICH(</span>
+                <span id="aboutTxtHidden">ABOUT</span>
+                <span>)SANDWICH</span>
+            </div>
+            <img id="mainImg" onclick="moveHome()" src="img/nav_img/Asset 1.svg">
+            <div id="indexTxt" onclick="moveIngredient()">INGREDIENT</div>
+        </div>
+    </nav>    
+    
+    <div id="bodyContainer">
+
+        <img class="img1" src="img/temp_sand_identity.png">
+
+    </div>
+
+</body>
+
+</html>
+
