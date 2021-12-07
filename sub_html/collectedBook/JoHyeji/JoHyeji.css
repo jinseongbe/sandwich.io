@@ -1,0 +1,30 @@
+/* 조혜지_CollectedBook */
+#canvas{
+position: relative;
+width: 1400px;
+height: 2262px;
+
+background: #FFFFFF;
+}
+
+/* THUMB_Collectedbook */
+.img1{
+position: absolute;
+width: 1320px;
+height: 924px;
+left: 40px;
+top: 652px;
+
+/* background: url(THUMB_Collectedbook.png); */
+}
+
+/* 2_Collectedbook */
+.img2{
+position: absolute;
+width: 985px;
+height: 562px;
+left: 375px;
+top: 1600px;
+
+/* background: url(2_Collectedbook.png); */
+}

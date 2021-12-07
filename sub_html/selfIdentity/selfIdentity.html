@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="../../css/detailStyle_test.css">
+        <link rel="stylesheet" href="../../css/navigationStyle.css">
+        <script type="text/javascript" src="../../js/pageMoveUp.js"></script>                
+        <script type="text/javascript" src="../../js/iframeChange.js"></script>   
+        <script> let sub = "selfIdentity"</script>            
+    </head>
+
+    <body>
+        <nav>
+            <div class="navContainer">
+                <div id="aboutContiner" onclick="moveAbout()" onmouseover="onMouseOverAbout()" onmouseout="onMouseOutAbout()"> 
+                    <span id="aboutTxt">SANDWICH(</span>
+                    <span id="aboutTxtHidden">ABOUT</span>
+                    <span>)SANDWICH</span>
+                </div>
+                <img id="mainImg" onclick="moveHome()" src="../../img/nav_img/Asset 1.svg">
+                <div id="indexTxt" onclick="moveIngredient()">INGREDIENT</div>
+            </div>
+        </nav>    
+
+
+        <div id="bodyContainer">
+            <div id="sideBarContainer">
+                <div id="category" onclick="changeUrlToCategory(sub)" >Self Identity</div>
+                <div id="nameContainer">
+                    <div class="name" onclick="changeUrlTo(sub, 'KangJieun')">Kang Jieun</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'KimMinji')">Kim Minji</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'KangSoyeon')">Kang Soyeon</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'KimYeeun')">Kim Yeeun</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'KimJoeun')">Kim Joeun</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'KimHyunjung')">Kim Hyunjung</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'MoonHaneol')">Moon Haneol</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'ParkJuhye')">Park Juhye</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'ParkJinsung')">Park Jinsung</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'SeongSeulgi')">Seong Seulgi</div>
+                    <!-- <div class="name" onclick="changeUrlTo(sub, 'SongHyeju')">Song Hyeju</div>  -->
+                    <div class="name" onclick="changeUrlTo(sub, 'WangJinru')">Wang Jinru</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'YiDongho')">Yi Dongho</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'LeeBohyeon')">Lee Bohyeon</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'LeeJungeun')">Lee Jungeun</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'JungSeyoun')">Jung Seyoun</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'JeongHaneul')">Jeong Haneul</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'JoHyeji')">Jo Hyeji</div>
+                    <div class="name" onclick="changeUrlTo(sub, 'HongEunjin')">Hong Eunjin</div>
+                    <!-- <div class="name" onclick="changeUrlTo(sub, 'HwangboNahyun')">Hwangbo Nahyun</div> -->
+                    <div class="name" onclick="changeUrlTo(sub, 'HwangJuwon')">Hwang Juwon</div>
+                </div>
+                <div id="instagramContainer">
+                    <div id="arrow">--&gt;<span id="space"></span>--&gt;</div>
+                    <a id="instagramLink" href="https://www.instagram.com/uos_sandwich/" target="_blank">@uos_sandwich</a>
+                </div>
+            </div>
+            <iframe id="detailPage" src="selfIdentityMain.html"></iframe>
+            
+        </div>
+
+    
+
+
+    </body>
+</html>

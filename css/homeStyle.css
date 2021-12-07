@@ -1,0 +1,223 @@
+@font-face {
+    font-family: 'Futura_PT_Medium';
+    src: url(font/FuturaPT/FuturaPT-Medium.eot) format("embedded-opentype"),
+    url(font/FuturaPT/FuturaPT-Medium.ttf) format("truetype"),
+    url(font/FuturaPT/FuturaPT-Medium.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'NexonLv2Gothic_Medium';
+    src: url(font/NexonLv2Gothic/NEXON-Lv2-Gothic-Medium.ttf) format("truetype"),
+    url(font/NexonLv2Gothic/NEXON-Lv2-Gothic-Medium.woff) format("woff");
+}
+
+html::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera*/
+}
+
+#bodyContainer{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center; 
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+    overflow: hidden;
+}
+
+/* sandwich */
+#sandwichContainer{
+    margin-left: 80px;
+    margin-right: 80px;
+    width: 520px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    cursor: url(../img/cursor.png) 16 16, auto;
+}
+
+#topBread{
+    position: relative;
+    padding: 3px;
+    width: 514px;
+}
+
+#orange{
+    padding: 3px;
+    position: relative;
+    width: 484px;
+    top: 10px;
+}
+
+#red{
+    padding: 3px;
+    position: relative;
+    width: 427px;
+    top: 5px;
+}
+
+#yellowishGreen{
+    padding: 3px;
+    position: relative;
+    width: 526px;
+    top: -19px;
+}
+
+
+#yellow{
+    padding: 3px;
+    position: relative;
+    width: 533px;
+    top: -20px;
+}
+
+#green{
+    padding: 3px;
+    position: relative;
+    width: 484px;
+    top: -30px;
+}
+
+#pink{
+    padding: 3px;
+    position: relative;
+    width: 493px;
+    top: -48px;
+}
+
+#bottomBread{
+    padding: 3px;
+    position: relative;
+    width: 514px;
+    top: -50px;
+}
+
+/* detail info */
+#infoContainer1{
+    margin-left: 15px;
+}
+
+#sand_Container{
+    visibility: hidden;
+    position: relative;
+    top: 84px;
+}
+#map_Container{
+    visibility: hidden;
+    position: relative;
+    top: 28px;
+}
+#shape_Container{
+    visibility: hidden;
+    position: relative;
+    top: -25px;
+}
+#vege_Container{
+    visibility: hidden;
+    position: relative;
+    top: -303px;
+}
+#group_Container{
+    visibility: hidden;
+    position: relative;
+    top: -273px;
+}
+#exhi_Container{
+    visibility: hidden;
+    position: relative;
+    top: -180px;
+}
+#coll_Container{
+    visibility: hidden;
+    position: relative;
+    top: -111px;
+}
+#self_Container{
+    visibility: hidden;
+    position: relative;
+    top: -130px;
+}
+
+
+
+
+.title{
+    font-family: 'Futura_PT_Medium';
+    margin: 0;
+    font-size: 23pt;
+}
+
+#sand_title{
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#map_title{
+    color: #EE8118;
+}
+#shape_title{
+    color: #6DB659;
+}
+#vege_title{
+    color: #FFDE05;
+}
+#group_title{
+    color: #EB89B6;
+}
+#exhi_title{
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#coll_title{
+    color: #E33012;
+}
+#self_title{
+    color: #007136;
+}
+
+
+.shapeImg{
+    margin-left: 20px;
+    height: 20px;
+}
+
+
+.detail_txt{
+    font-family: 'NexonLv2Gothic_Medium';
+    font-size: 12pt;
+    width: 400px;
+    line-height: 18pt;
+    padding: 20px;
+    background-color: white;
+}
+
+#sand_txt{
+    border: 2pt solid black;
+}
+#map_txt{
+    border: 2pt solid #EE8118;
+}
+#shape_txt{
+    border: 2pt solid #6DB659;
+}
+#vege_txt{
+    border: 2pt solid #FFDE05;
+}
+#group_txt{
+    border: 2pt solid #EB89B6;
+}
+#exhi_txt{
+    border: 2pt solid black;
+}
+#coll_txt{
+    border: 2pt solid #E33012;
+    width: 410px;
+}
+#self_txt{
+    border: 2pt solid #007136;
+    width: 415px;
+}

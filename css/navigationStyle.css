@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'NexonLv2Gothic_Medium';
+    src: url(font/NexonLv2Gothic/NEXON-Lv2-Gothic-Medium.ttf) format("truetype"),
+    url(font/NexonLv2Gothic/NEXON-Lv2-Gothic-Medium.woff) format("woff");
+}
+
+body, html {
+    margin: 0;
+}
+
+nav {
+    margin: 0;
+    height: 100%;
+    top: 0;
+    position: sticky; 
+    background-color: white;
+    z-index: 100; 
+}
+
+#navHome{
+    margin: 0;
+    height: 100%;
+    top: 0;
+    background-color: white;
+    z-index: 100;
+}
+
+.navContainer{
+    font-family: 'NexonLv2Gothic_Medium';
+    font-size: 22pt;
+    display: flex;
+    width: 100vw;
+    /* justify-content: space-between; */
+    justify-content: space-between;
+    border-bottom: solid 0.75px black;
+    align-items: center;
+}
+
+#aboutContiner{
+    cursor: pointer;
+    padding: 14px;
+}
+
+#aboutTxt{
+    margin-right: 50px;
+}
+
+#mainImg{
+    cursor: pointer;
+    position: relative;
+    left: -29.5px;
+    width: 59px;
+}
+
+#indexTxt{
+    cursor: pointer;
+    padding: 14px;
+    margin-left: 175px;
+}
+
+#aboutTxtHidden{
+    display: none;
+}

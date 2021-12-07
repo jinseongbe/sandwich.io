@@ -1,0 +1,21 @@
+/* 조혜지_MappingTime */
+#canvas{
+position: relative;
+width: 1400px;
+height: 2618px;
+
+background: #FFFFFF;
+}
+
+
+
+/* THUMB_MappingTime 1 */
+.img1{
+position: absolute;
+width: 1320px;
+height: 1867px;
+left: 40px;
+top: 651px;
+
+/* background: url(THUMB_MappingTime.png); */
+}

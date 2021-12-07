@@ -1,0 +1,55 @@
+/* 강지은 Mapping Time */
+#canvas{
+position: relative;
+width: 1400px;
+height: 3247px;
+
+background: #FFFFFF;
+
+}
+
+/* 1 */
+.img1{
+position: absolute;
+width: 1320px;
+height: 933.24px;
+left: 40px;
+top: 625px;
+
+background: url(1.png);
+
+}
+/* 2 */
+.img2{
+position: absolute;
+width: 1320px;
+height: 737.22px;
+left: 40px;
+top: 1578px;
+
+background: url(2.png);
+
+}
+/* 3 */
+.img3{
+position: absolute;
+width: 650px;
+height: 812.17px;
+left: 40px;
+top: 2335px;
+
+background: url(3.jpg);
+}
+
+/* 4 */
+.img4{
+position: absolute;
+width: 650px;
+height: 487.5px;
+left: 710px;
+top: 2335px;
+
+background: url(4.jpg);
+
+}
+

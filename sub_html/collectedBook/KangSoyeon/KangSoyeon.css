@@ -1,0 +1,36 @@
+/* 강소연 Collected Book */
+#canvas{
+position: relative;
+width: 1400px;
+height: 2339px;
+
+background: #FFFFFF;
+}
+
+
+
+ 
+
+
+
+/* THUMB_collected book */
+.img1{
+position: absolute;
+width: 1320px;
+height: 818.4px;
+left: 40px;
+top: 596px;
+
+/* background: url(THUMB_collected book.png); */
+}
+
+/* Asset 11최소규정 */
+.img2{
+position: absolute;
+width: 1320px;
+height: 805.02px;
+left: 40px;
+top: 1434px;
+
+/* background: url(Asset 11최소규정.png); */
+}

@@ -1,0 +1,103 @@
+/* 홍은진_컬렉티드북 */
+#canvas{
+position: relative;
+width: 1400px;
+height: 6085px;
+
+background: #000000;
+}
+ 
+
+/* K */
+#temp1{
+position: absolute;
+width: 42px;
+height: 85px;
+left: 40px;
+top: 120px;
+
+font-family: 'Futura_PT_Demi';
+font-style: normal;
+font-weight: normal;
+font-size: 66px;
+line-height: 85px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+
+/* - 디자인 */
+#temp2{
+position: absolute;
+width: 185px;
+height: 61px;
+left: 91px;
+top: 132px;
+
+font-family: "NexonLv2Gothic_Bold";
+font-style: normal;
+font-weight: bold;
+font-size: 54px;
+line-height: 61px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* collected 1 1 */
+.img1{
+position: absolute;
+width: 985px;
+height: 985px;
+left: 375px;
+top: 652px;
+
+/* background: url(collected 1.png); */
+
+}
+/* collected 2 */
+.img2{
+position: absolute;
+width: 985px;
+height: 985px;
+left: 40px;
+top: 1657px;
+
+/* background: url(collected 2.png); */
+}
+
+/* collected 4 */
+.img3{
+position: absolute;
+width: 985px;
+height: 985px;
+left: 375px;
+top: 3995px;
+
+/* background: url(collected 4.png); */
+}
+
+/* collected 5 */
+.img4{
+position: absolute;
+width: 985px;
+height: 985px;
+left: 40px;
+top: 5000px;
+
+/* background: url(collected 5.png); */
+}
+
+/* collected 3 */
+.img5{
+position: absolute;
+width: 1315px;
+height: 1315px;
+left: 43px;
+top: 2660px;
+
+/* background: url(collected 3.png); */
+}

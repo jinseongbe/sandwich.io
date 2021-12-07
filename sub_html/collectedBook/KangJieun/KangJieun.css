@@ -1,0 +1,77 @@
+/* 강지은 Collected Book */
+#canvas{
+position: relative;
+width: 1400px;
+height: 5086px;
+
+background: #FFFFFF;
+}
+
+
+/* 1 */
+.img1{
+position: absolute;
+width: 650px;
+height: 870.02px;
+left: 40px;
+top: 648px;
+
+background: url(1.png);
+
+}
+/* 2 */
+.img2{
+position: absolute;
+width: 650px;
+height: 864.5px;
+left: 710px;
+top: 648px;
+
+background: url(2.png);
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 1320px;
+height: 738.54px;
+left: 40px;
+top: 1538px;
+
+background: url(3.png);
+
+}
+/* 4 */
+.img4{
+position: absolute;
+width: 1320px;
+height: 966.9px;
+left: 40px;
+top: 2297px;
+
+background: url(4.png);
+}
+
+/* 5 */
+.img5{
+position: absolute;
+width: 1320px;
+height: 491.7px;
+left: 40px;
+top: 3284px;
+
+background: url(5.png);
+
+}
+/* Rectangle 256 */
+.img6{
+position: absolute;
+width: 650px;
+height: 1190px;
+left: 40px;
+top: 3796px;
+
+background: #C4C4C4;
+}
+
+

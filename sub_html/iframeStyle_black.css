@@ -1,0 +1,252 @@
+@font-face {
+font-family: 'Futura_PT_Medium';
+src: url(../css/font/FuturaPT/FuturaPT-MediumObl.eot) format("embedded-opentype"),
+url(../css/font/FuturaPT/FuturaPT-Medium.ttf) format("truetype"),
+url(../css/font/FuturaPT/FuturaPT-Medium.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'Futura_PT_Demi';
+    src: url(../css/font/FuturaPT/FuturaPT-Demi.eot) format("embedded-opentype"),
+    url(../css/font/FuturaPT/FuturaPT-Demi.ttf) format("truetype"),
+    url(../css/font/FuturaPT/FuturaPT-Demi.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'NexonLv2Gothic_Regular';
+    src: url(../css/font/NexonLv2Gothic/NEXON-Lv2-Gothic.ttf) format("truetype"),
+    url(../css/font/NexonLv2Gothic/NEXON-Lv2-Gothic.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'NexonLv2Gothic_Medium';
+    src: url(../css/font/NexonLv2Gothic/NEXON-Lv2-Gothic-Medium.ttf) format("truetype"),
+    url(../css/font/NexonLv2Gothic/NEXON-Lv2-Gothic-Medium.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'NexonLv2Gothic_Bold';
+    src: url(../css/font/NexonLv2Gothic/NEXON\ Lv2\ Gothic\ Bold.ttf) format("truetype"),
+    url(../css/font/NexonLv2Gothic/NEXON\ Lv2\ Gothic\ Bold.woff) format("woff");
+}
+
+
+
+html{
+    margin: 0;
+    position: relative;
+    width: 1400px;
+    /* background: #FFFFFF; */
+    /* background: white; */
+
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */   
+}
+
+
+html::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera*/
+}
+
+
+/* Contact */
+.contact{
+    position: absolute;
+    width: 82px;
+    height: 35px;
+    left: 710px;
+    top: 310px;
+    
+    font-family: 'NexonLv2Gothic_Medium';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: white;
+}
+
+
+
+.instagramID{
+    position: absolute;
+    width: 324px;
+    height: 23px;
+    left: 894px;
+    top: 309px;
+    
+    font-family: 'NexonLv2Gothic_Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    
+    color: white;
+}
+
+
+/* Designer */
+.designer{
+    position: absolute;
+    width: 91px;
+    height: 35px;
+    left: 710px;
+    top: 283px;
+    
+    font-family: 'NexonLv2Gothic_Medium';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: white;
+}
+
+
+/* Mapping Time */
+.projectName{
+    position: absolute;
+    width: 200px;
+    height: 23px;
+    left: 223px;
+    top: 283px;
+    
+    font-family: 'NexonLv2Gothic_Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    
+    color: white;
+}
+
+
+.studentName{
+    position: absolute;
+    width: 289px;
+    height: 23px;
+    left: 894px;
+    top: 283px;
+    
+    font-family: 'NexonLv2Gothic_Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    
+    color: white;
+}
+
+
+.mainTitle{
+    position: absolute;
+    width: 1000px;
+    height: 85px;
+    left: 41px;
+    top: 121px;
+    
+    font-family: "Futura_PT_Demi";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 66px;
+    line-height: 85px;
+    /* identical to box height */
+    
+    color: white;
+}
+
+.mainTitle_han{
+    position: absolute;
+    width: 250px;
+    height: 61px;
+    left: 40px;
+    top: 120px;
+    
+    font-family: "NexonLv2Gothic_Bold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 61px;
+    /* identical to box height */
+    
+    color: white;
+}
+
+
+
+.category{
+    position: absolute;
+    width: 87px;
+    height: 23px;
+    left: 41px;
+    top: 309px;
+
+    font-family: 'NexonLv2Gothic_Medium';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: white;
+}
+
+
+
+.categoryTxt{
+    position: absolute;
+    width: 11px;
+    height: 23px;
+    left: 223px;
+    top: 309px;
+
+    font-family: 'NexonLv2Gothic_Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: white;
+}
+
+
+
+.project{
+    position: absolute;
+    width: 69px;
+    height: 23px;
+    left: 41px;
+    top: 283px;
+
+    font-family: 'NexonLv2Gothic_Medium';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: white;
+}
+
+
+
+.explain{
+    position: absolute;
+    width: 843px;
+    height: 82px;
+    left: 40px;
+    top: 412px;
+
+    font-family: 'NexonLv2Gothic_Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+
+    color: white;
+}

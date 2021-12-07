@@ -1,0 +1,16 @@
+body, html {
+    margin: 0;
+}
+
+#bodyContainer {
+    display: flex;
+    background-color: #66B354;
+    /* height: ; */
+    justify-content: center;
+}
+
+#imgSection{
+    width: 727px;
+    height: 100%;
+    margin-bottom: 200px;
+}

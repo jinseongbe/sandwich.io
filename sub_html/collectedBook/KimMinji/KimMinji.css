@@ -1,0 +1,42 @@
+/* 김민지_Collected Book */
+#canvas{
+position: relative;
+width: 1400px;
+height: 5215px;
+
+background: #FFFFFF;
+
+}
+
+/* 콜렉티드북 1 */
+.img2{
+position: absolute;
+width: 1000px;
+height: 1509px;
+left: 40px;
+top: 652px;
+
+/* background: url(콜렉티드북.png); */
+}
+
+/* 콜렉티드북(1) 1 */
+.img3{
+position: absolute;
+width: 650px;
+height: 2063px;
+left: 375px;
+top: 3052px;
+
+/* background: url(콜렉티드북(1).png); */
+}
+
+/* THUMB_콜렉티드북 1 */
+.img4{
+position: absolute;
+width: 983px;
+height: 730px;
+left: 376px;
+top: 2241px;
+
+/* background: url(THUMB_콜렉티드북.png); */
+}

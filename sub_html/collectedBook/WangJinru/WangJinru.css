@@ -1,0 +1,26 @@
+/* 왕근여_CollectedBook */
+#canvas{
+position: relative;
+width: 1400px;
+height: 1742px;
+
+background: #FFFFFF;
+}
+
+
+
+
+/* 콜렉티드북_왕근여 1 */
+.img1{
+position: absolute;
+width: 1320px;
+height: 990px;
+left: 40px;
+top: 652px;
+
+background: url(콜렉티드북_왕근여.png);
+}
+
+#chinese{
+    width: 300px;
+}

@@ -1,0 +1,24 @@
+/* 강소연 Mapping Time */
+#canvas{
+position: relative;
+width: 1400px;
+height: 1438px;
+
+background: #FFFFFF;
+
+}
+
+
+
+
+
+/* THUMB_mapping time 1 */
+.img1{
+position: absolute;
+width: 1320px;
+height: 742px;
+left: 40px;
+top: 596px;
+
+/* background: url(THUMB_mapping time.png); */
+}

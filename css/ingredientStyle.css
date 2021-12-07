@@ -1,0 +1,283 @@
+
+
+@font-face {
+    font-family: 'Futura_PT_Medium';
+    src: url(font/FuturaPT/FuturaPT-Medium.eot) format("embedded-opentype"),
+    url(font/FuturaPT/FuturaPT-Medium.ttf) format("truetype"),
+    url(font/FuturaPT/FuturaPT-Medium.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'NexonLv2Gothic_Medium';
+    src: url(font/NexonLv2Gothic/NEXON-Lv2-Gothic-Medium.ttf) format("truetype"),
+    url(font/NexonLv2Gothic/NEXON-Lv2-Gothic-Medium.woff) format("woff");
+}
+
+body, html{
+    margin: 0;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+html::-webkit-scrollbar {
+display: none; /* Chrome, Safari, Opera*/
+}
+
+#nameBar {
+    font-family: 'NexonLv2Gothic_Medium';
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    font-size: 19px;
+    color: white
+}
+
+
+.nameMenuBarImage{
+    margin-top: 80px;
+    width: 260px;
+}
+
+#mainArea{
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    grid-template-rows: auto;
+}
+
+.name{
+    display: inline;
+    margin-left: 18px;
+}
+
+.pos{
+    position: absolute;
+}
+
+#imageArea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.eachLine{
+    cursor: url(../img/cursor.png) 16 16, auto;
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    height: 25px;
+    padding: 7px;
+    border-bottom: 1px solid white;
+}
+
+#dishContainer{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.container{
+    position: absolute;
+    top: 230px;
+}
+
+#base{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+#dish{
+    position: relative;
+    width: 650px;
+    /* top: 200px; */
+}
+
+#cutlery1{
+    visibility: hidden;
+    height: 520px;
+    margin: 100px;
+}
+
+#cutlery2{
+    height: 520px;
+    margin: 100px;
+}
+
+#bread{
+    position: relative;
+    width: 457px;
+    top: 100px;
+}
+
+
+.toppings{
+    visibility: hidden;
+    position: relative;
+    width: 370px; 
+    top: 200px;
+}
+
+.toppings_mini {
+    visibility: hidden;
+    margin-left: 10px;
+    width: 18px;
+    padding-top: 2px;
+}
+
+#KS_{
+
+} 
+#KJi_{
+
+}
+#KM_{
+
+}
+#KY_{
+
+} 
+#KJo_{
+
+}
+#KH_{
+
+} 
+#MH_{
+
+} 
+#PJu_{
+
+}
+#PJin_{
+
+}
+#SS_{
+
+} 
+#SH_{
+
+} 
+#WJ_{
+
+} 
+#YD_{
+
+}
+#YB_{
+
+}
+#LJ_{
+
+}
+#SY_{
+
+}
+#JHa_{
+
+}
+#JHe_{
+
+}
+#HE_{
+
+}
+#HB_{
+
+}
+#HJu_{
+
+}
+
+
+#KS{
+} 
+#KJi{
+}
+#KM{
+
+}
+#KY{
+
+} 
+#KJo{
+    /* width: 200px; */
+    top: 220px;
+    right: 60px;
+}
+#KH{
+    /* width: 200px; */
+    top: 220px;
+    left: 30px;
+} 
+#MH{
+    width: 200px;
+    top: 420px;
+    left: 60px;
+} 
+#PJu{
+    width: 300px;
+    left: -60px;
+}
+#PJin{
+    width: 200px;
+    top: 420px;
+    left: -60px;
+}
+#SS{
+} 
+#SH{
+    width: 200px;
+    top: 220px;
+    left: -60px;
+} 
+#WJ{
+    top: 220px;
+    left: -60px;
+} 
+#YD{
+    top: 220px;
+    left: -60px;
+}
+#YB{
+    top: 220px;
+    left: 60px;
+}
+#LJ{
+    top: 270px;
+}
+#SY{
+    width: 320px; 
+    top: 220px;
+}
+#JHa{
+    width: 290px; 
+    top: 270px;
+    left: 70px;
+}
+#JHe{
+    width: 290px; 
+    top: 200px;
+}
+#HE{
+    width: 290px; 
+    top: 300px;
+    right: 80px;
+}
+#HB{
+    width: 290px; 
+    top: 300px;
+    left: 80px;
+}
+#HJu{
+    width: 270px; 
+    top: 300px;
+}
+
+
+

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/ingredientStyle.css">
+    <link rel="stylesheet" href="css/navigationStyle.css">
+    <script type="text/javascript" src="js/pageMove.js"></script>                
+    <script type="text/javascript" src="js/ingredients.js"></script>                
+</head>
+
+
+<body>
+    <nav>
+        <div class="navContainer">
+            <div id="aboutContiner" onclick="moveAbout()" onmouseover="onMouseOverAbout()" onmouseout="onMouseOutAbout()"> 
+                <span id="aboutTxt">SANDWICH(</span>
+                <span id="aboutTxtHidden">ABOUT</span>
+                <span>)SANDWICH</span>
+            </div>
+            <img id="mainImg" onclick="moveHome()" src="img/nav_img/Asset 1.svg">
+            <div id="indexTxt" onclick="moveIngredient()">INGREDIENT</div>
+        </div>
+    </nav>    
+
+    <div id=mainArea>
+        <div id="nameBar">
+            <img class="nameMenuBarImage" src="img/ingredients/nameMenuBar.png" alt="이미지 상단바">
+
+            <div class="eachLine" onclick="toggleTopping('KS')">
+                <span class="name">Kan Soyeon</span>
+                <img class="toppings_mini" id="KS_" src="img/ingredients/케찹_강소연.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('KJi')">
+                <span class="name">Kang Jieun</span>
+                <img class="toppings_mini" id="KJi_" src="img/ingredients/꽈리_강지은.png"/>
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('KM')">
+                <span class="name">Kim Minji</span>
+                <img class="toppings_mini" id="KM_" src="img/ingredients/슈팅토마토_김민지.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('KY')">
+                <span class="name">Kim Yeeun</span>
+                <img class="toppings_mini" id="KY_" src="img/ingredients/손 뻗는 비트_김예은.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('KJo')">
+                <span class="name">Kim Joeun</span>
+                <img class="toppings_mini" id="KJo_" src="img/ingredients/옥수수_김조은.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('KH')">
+                <span class="name">Kim Hyunjung</span>
+                <img class="toppings_mini" id="KH_" src="img/ingredients/통통한 파프리카_김현정.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('MH')">
+                <span class="name">Moon Haneol</span>
+                <img class="toppings_mini" id="MH_" src="img/ingredients/올리브_문한얼.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('PJu')">
+                <span class="name">Park Juhye</span>
+                <img class="toppings_mini" id="PJu_" src="img/ingredients/허니버터 칠리맛 새우.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('PJin')">
+                <span class="name">Park Jinsung</span>
+                <img class="toppings_mini" id="PJin_" src="img/ingredients/후추_박진성.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('SS')">
+                <span class="name">Seong Seulgi</span>
+                <img class="toppings_mini" id="SS_" src="img/ingredients/고사리고사리고사리나물_성슬기.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('SH')">
+                <span class="name">Song Hyeju</span>
+                <img class="toppings_mini" id="SH_" src="img/ingredients/콩콩콩_송혜주.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('WJ')">
+                <span class="name">Wang Jinru</span>
+                <img class="toppings_mini" id="WJ_" src="img/ingredients/계란후라이_왕근여.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('YD')">
+                <span class="name">Yi Dongho</span>
+                <img class="toppings_mini" id="YD_" src="img/ingredients/상한 굴_이동호.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('YB')">
+                <span class="name">Lee Bohyeon</span>
+                <img class="toppings_mini" id="YB_" src="img/ingredients/샌드위치 소스_이보현.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('LJ')">
+                <span class="name">Lee Jungeun</span>
+                <img class="toppings_mini" id="LJ_" src="img/ingredients/이요옹_이정은.png">
+            </div>
+
+            <div class="eachLine"  onclick="toggleTopping('SY')">
+                <span class="name">Jung Seyoun</span>
+                <img class="toppings_mini" id="SY_" src="img/ingredients/양파_정세윤.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('JHa')">
+                <span class="name">Jeong Haneul</span>
+                <img class="toppings_mini" id="JHa_" src="img/ingredients/힘들당근_정하늘.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('JHe')">
+                <span class="name">Jo Hyeji</span>
+                <img class="toppings_mini" id="JHe_" src="img/ingredients/양상추_조혜지.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('HE')">
+                <span class="name">Hong Eunjin</span>
+                <img class="toppings_mini" id="HE_" src="img/ingredients/애그쉬폰_홍은진.png">
+            </div>
+
+            <div class="eachLine" onclick="toggleTopping('HB')">
+                <span class="name">Hwangbo Nahyun</span>
+                <img class="toppings_mini" id="HB_" src="img/ingredients/주접 토마토_황보나현.png">
+            </div>
+
+            <div class="eachLine"  onclick="toggleTopping('HJu')">
+                <span class="name">Hwang Juwon</span>
+                <img class="toppings_mini" id="HJu_" src="img/ingredients/신나게 녹아내린 드리즐_황주원.png">
+            </div>
+
+        </div>
+        <div id="imageArea">
+
+            <div id="dishContainer">
+                <div class="container" id="base">
+                    <img id="cutlery1" src="img/ingredients/cutlery.svg">
+                    <img id="dish" src="img/ingredients/dish.svg">
+                    <img id="cutlery2" src="img/ingredients/cutlery.svg">
+                </div>
+                
+                <div class="container"><img id="bread" src="img/ingredients/bread.png"/></div>
+                <div class="container"><img class="toppings" id="KS" src="img/ingredients/케찹_강소연.png"/></div>
+                <div class="container"><img class="toppings" id="KJi" src="img/ingredients/꽈리_강지은.png"/></div>
+                <div class="container"><img class="toppings" id="KM" src="img/ingredients/슈팅토마토_김민지.png"/></div>
+                <div class="container"><img class="toppings" id="KY" src="img/ingredients/손 뻗는 비트_김예은.png"/></div>
+                <div class="container"><img class="toppings" id="KJo" src="img/ingredients/옥수수_김조은.png"/></div>
+                <div class="container"><img class="toppings" id="KH" src="img/ingredients/통통한 파프리카_김현정.png"/></div>
+                <div class="container"><img class="toppings" id="MH" src="img/ingredients/올리브_문한얼.png"/></div>
+                <div class="container"><img class="toppings" id="PJu" src="img/ingredients/허니버터 칠리맛 새우.png"/></div>
+                <div class="container"><img class="toppings" id="PJin" src="img/ingredients/후추_박진성.png"/></div>
+                <div class="container"><img class="toppings" id="SS" src="img/ingredients/고사리고사리고사리나물_성슬기.png"/></div>
+                <div class="container"><img class="toppings" id="SH" src="img/ingredients/콩콩콩_송혜주.png"/></div>
+                <div class="container"><img class="toppings" id="WJ" src="img/ingredients/계란후라이_왕근여.png"/></div>
+                <div class="container"><img class="toppings" id="YD" src="img/ingredients/상한 굴_이동호.png"/></div>
+                <div class="container"><img class="toppings" id="YB" src="img/ingredients/샌드위치 소스_이보현.png"/></div>
+                <div class="container"><img class="toppings" id="LJ" src="img/ingredients/이요옹_이정은.png"/></div>
+                <div class="container"><img class="toppings" id="SY" src="img/ingredients/양파_정세윤.png"/></div>
+                <div class="container"><img class="toppings" id="JHa" src="img/ingredients/힘들당근_정하늘.png"/></div>
+                <div class="container"><img class="toppings" id="JHe" src="img/ingredients/양상추_조혜지.png"/></div>
+                <div class="container"><img class="toppings" id="HE" src="img/ingredients/애그쉬폰_홍은진.png"/></div>
+                <div class="container"><img class="toppings" id="HB" src="img/ingredients/주접 토마토_황보나현.png"/></div>
+                <div class="container"><img class="toppings" id="HJu" src="img/ingredients/신나게 녹아내린 드리즐_황주원.png"/></div>
+
+            </div>
+
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

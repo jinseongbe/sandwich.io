@@ -1,0 +1,81 @@
+/* 송혜주_Collected Book */
+#canvas{
+position: relative;
+width: 1400px;
+height: 2587px;
+
+background: #FFFFFF;
+
+}
+
+
+
+
+
+
+
+/* pasted-image */
+.img1{
+position: absolute;
+width: 650px;
+height: 650px;
+left: 40px;
+top: 652px;
+
+/* background: url(pasted-image.jpg); */
+
+}
+/* IMG_2827 2 */
+.img2{
+position: absolute;
+width: 646px;
+height: 646px;
+left: 710px;
+top: 1322px;
+
+/* background: url(IMG_2827 2.jpg); */
+}
+
+/* pasted-image-2 */
+.img3{
+position: absolute;
+width: 439px;
+height: 439px;
+left: 44px;
+top: 2048px;
+
+/* background: url(pasted-image-2.jpg); */
+}
+
+/* pasted-image-3 */
+.img4{
+position: absolute;
+width: 438px;
+height: 439px;
+left: 483px;
+top: 2048px;
+
+/* background: url(pasted-image-3.jpg); */
+}
+
+/* pasted-image-4 */
+.img5{
+position: absolute;
+width: 439px;
+height: 439px;
+left: 921px;
+top: 2048px;
+
+/* background: url(pasted-image-4.jpg); */
+
+}
+/* pasted-image-5 */
+.img6{
+position: absolute;
+width: 648px;
+height: 648px;
+left: 41px;
+top: 1322px;
+
+/* background: url(pasted-image-5.jpg); */
+}

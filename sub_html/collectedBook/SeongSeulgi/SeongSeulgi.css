@@ -1,0 +1,21 @@
+/* 성슬기_Collected Book */
+#canvas{
+position: relative;
+width: 1400px;
+height: 1730px;
+
+background: #FFFFFF;
+}
+
+/* 2.collected book 1 */
+.img1{
+position: absolute;
+width: 1320px;
+height: 978px;
+left: 40px;
+top: 652px;
+
+/* background: url(2.collected book.png); */
+
+}
+

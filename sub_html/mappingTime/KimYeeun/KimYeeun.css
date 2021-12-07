@@ -1,0 +1,32 @@
+/* 김예은 Mapping Time */
+#canvas{
+position: relative;
+width: 1400px;
+height: 2554px;
+
+background: #000000;
+}
+
+
+
+/* THUMB_Asset 37 */
+.img1{
+position: absolute;
+width: 650px;
+height: 900.65px;
+left: 375px;
+top: 625px;
+
+/* background: url(THUMB_Asset 37.png); */
+
+}
+/* CzbSJT */
+.img2{
+position: absolute;
+width: 1320px;
+height: 908.16px;
+left: 40px;
+top: 1546px;
+
+/* background: url(CzbSJT.png); */
+}

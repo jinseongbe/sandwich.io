@@ -1,0 +1,78 @@
+/* 김조은_MappingTime */
+
+.canvas{position: relative;
+width: 1400px;
+height: 5190px;
+
+background: #FFFFFF;
+}
+
+
+
+/* deco ver 1 */
+.img1{
+position: absolute;
+width: 1092px;
+height: 614px;
+left: 154px;
+top: 4476px;
+
+border: none;
+border-style: none;
+border-width: 0px;
+
+/* background: url(1.jpg); */
+}
+/* FINAL print 3 */
+.img2{
+position: absolute;
+width: 648px;
+height: 916px;
+left: 40px;
+top: 1417px;
+
+/* background: url(2.jpg); */
+}
+
+/* 스크린샷 2021-12-01 오후 11.15 2 */
+.img3{
+    position: absolute;
+    width: 1319px;
+    height: 743px;
+    left: 41px;
+    top: 654px;
+    /* background-image: url(4.jpg); */
+}
+
+/* Rectangle 205 */
+.img4{
+position: absolute;
+width: 648px;
+height: 916px;
+left: 710px;
+top: 1417px;
+
+}
+
+/* 사진_편집_1 1 */
+.img5{
+position: absolute;
+width: 1318px;
+height: 1284px;
+left: 40px;
+top: 2353px;
+
+/* background: url(3.jpg); */
+}
+
+/* Rectangle 207 */
+.img6{
+position: absolute;
+width: 1320px;
+height: 679px;
+left: 40px;
+top: 3717px;
+
+/* background: url(https://youtu.be/jC9XpHZHIb8); */
+}
+

@@ -1,0 +1,79 @@
+/* 김예은 Collected Book */
+#canvas{
+position: relative;
+width: 1400px;
+height: 4730px;
+
+background: #000000;
+}
+
+
+
+
+
+
+/* THUMB_Artboard 4 */
+.img1{
+position: absolute;
+width: 315px;
+height: 650.65px;
+left: 710px;
+top: 624px;
+
+/* background: url(THUMB_Artboard 4.png); */
+}
+
+/* Artboard 4 copy */
+.img2{
+position: absolute;
+width: 650px;
+height: 650.65px;
+left: 375px;
+top: 1295px;
+
+/* background: url(Artboard 4 copy.png); */
+
+}
+/* Artboard 4 copy 2 */
+.img3{
+position: absolute;
+width: 650px;
+height: 650.65px;
+left: 375px;
+top: 1966px;
+
+/* background: url(Artboard 4 copy 2.png); */
+}
+
+/* Artboard 4 copy 3 */
+.img4{
+position: absolute;
+width: 650px;
+height: 650.65px;
+left: 375px;
+top: 2637px;
+
+/* background: url(Artboard 4 copy 3.png); */
+}
+
+/* Artboard 4 copy 4 */
+.img5{
+position: absolute;
+width: 315px;
+height: 650.65px;
+left: 375px;
+top: 3308px;
+
+/* background: url(Artboard 4 copy 4.png); */
+
+}
+/* Artboard 4 copy 5 */
+.img6{
+position: absolute;
+width: 650px;
+height: 650.65px;
+left: 375px;
+top: 3979px;
+
+/* background: url(Artboard 4 copy 5.png); */
+}

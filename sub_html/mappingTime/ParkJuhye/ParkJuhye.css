@@ -1,0 +1,32 @@
+/* 박주혜__MappingTime */
+
+#canvas{
+    position: relative;
+    width: 1524px;
+    height: 3908px;
+
+    background: #FFFFFF;
+}
+
+/* 편집-01 1 */
+.img1{
+position: absolute;
+width: 1080px;
+height: 1570px;
+left: 40px;
+top: 654px;
+
+/* background: url(편집-01.png); */
+}
+
+/* 편집-02 1 */
+
+.img2{
+    position: absolute;
+    width: 1078px;
+    height: 1564px;
+    left: 40px;
+    top: 2244px;
+
+    /* background: url(편집-02.png); */
+}

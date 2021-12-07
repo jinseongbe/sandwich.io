@@ -1,0 +1,21 @@
+/* 이보현_MappingTime */
+#canvas{
+position: relative;
+width: 1400px;
+height: 1575px;
+
+background: #000000;
+}
+
+
+
+/* Rectangle 254 */
+.img1{
+position: absolute;
+width: 1318px;
+height: 823px;
+left: 40px;
+top: 652px;
+
+/* background: #C4C4C4; */
+}

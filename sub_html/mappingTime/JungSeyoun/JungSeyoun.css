@@ -1,0 +1,37 @@
+/* 정세윤 Mapping Time */
+#canvas{
+position: relative;
+width: 1400px;
+height: 1835px;
+
+background: #000000;
+
+}
+
+
+
+
+
+
+
+/* THUMB_mappingtimejj 1 */
+.img1{
+position: absolute;
+width: 650px;
+height: 912.28px;
+left: 40px;
+top: 597px;
+
+/* background: url(THUMB_mappingtimejj.png); */
+}
+
+/* 배경투명 1 */
+.img2{
+position: absolute;
+width: 650px;
+height: 650px;
+left: 709px;
+top: 1085px;
+
+/* background: url(배경투명.png); */
+}

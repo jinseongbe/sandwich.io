@@ -1,0 +1,41 @@
+/* 김현정_Mapping Time */
+#canvas{
+position: relative;
+width: 1400px;
+height: 3607px;
+
+background: #FFFFFF;
+}
+
+/* Artboard 3 1 */
+.img1{
+position: absolute;
+width: 1300px;
+height: 976px;
+left: 40px;
+top: 614px;
+
+/* background: url(Artboard 3.png); */
+}
+
+/* Artboard 4 1 */
+.img2{
+position: absolute;
+width: 1302px;
+height: 976px;
+left: 40px;
+top: 1610px;
+
+/* background: url(Artboard 4.png); */
+}
+/* 영상1 */
+
+.img3{
+    position: absolute;
+    width: 1302px;
+    height: 832px;
+    left: 40px;
+    top: 2666px;
+    
+    /* background: #C4C4C4; */
+}

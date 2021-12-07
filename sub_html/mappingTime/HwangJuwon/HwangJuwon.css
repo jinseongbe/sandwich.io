@@ -1,0 +1,23 @@
+/* 황주원_MappingTime */
+#canvas{
+position: relative;
+width: 1400px;
+height: 2610px;
+
+background: #FFFFFF;
+
+}
+
+
+
+
+/* 황주원 Mappingtime 1 */
+.img1{
+position: absolute;
+width: 1315px;
+height: 1858px;
+left: 43px;
+top: 652px;
+
+/* background: url(황주원 Mappingtime); */
+}

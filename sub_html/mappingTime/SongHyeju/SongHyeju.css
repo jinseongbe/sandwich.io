@@ -1,0 +1,64 @@
+/* 송혜주_MappingTime */
+
+#canvas{position: relative;
+width: 1400px;
+height: 3559px;
+
+background: #FFFFFF;
+}
+
+
+/* mapping 2 */
+.img1{
+position: absolute;
+width: 650px;
+height: 918px;
+left: 710px;
+top: 586px;
+
+/* background: url(mapping 2.png); */
+
+}
+/* mapping1 1 */
+.img2{
+position: absolute;
+width: 647px;
+height: 649px;
+left: 39px;
+top: 1584px;
+
+/* background: url(mapping1.png); */
+}
+
+/* mapping 3 1 */
+.img3{
+position: absolute;
+width: 648px;
+height: 866px;
+left: 712px;
+top: 2066px;
+
+/* background: url(mapping 3.png); */
+}
+
+/* mapping2 1 */
+.img4{
+position: absolute;
+width: 649px;
+height: 650px;
+left: 39px;
+top: 2799px;
+
+/* background: url(mapping2.png); */
+}
+
+/* mapping 1 */
+.img5{
+position: absolute;
+width: 650px;
+height: 919px;
+left: 40px;
+top: 586px;
+
+/* background: url(mapping 1.png); */
+}

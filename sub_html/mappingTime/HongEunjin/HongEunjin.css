@@ -1,0 +1,55 @@
+/* 홍은진_MappingTime */
+#canvas{
+position: relative;
+width: 1400px;
+height: 5190px;
+
+background: #000000;
+}
+
+
+
+
+/* mapping 2 */
+.img1{
+position: absolute;
+width: 985px;
+height: 1750px;
+left: 375px;
+top: 1417px;
+
+/* background: url(mapping 2); */
+}
+
+/* mapping 3 */
+.img2{
+position: absolute;
+width: 1320px;
+height: 743px;
+left: 40px;
+top: 3187px;
+
+/* background: url(mapping 3); */
+}
+
+/* mapping 1 */
+.img3{
+position: absolute;
+width: 1321px;
+height: 743px;
+left: 40px;
+top: 654px;
+
+/* background: url(mapping 1); */
+}
+
+/* mapping 4 */
+.img4{
+position: absolute;
+width: 1321px;
+height: 935px;
+left: 38px;
+top: 3950px;
+
+/* background: url(mapping 4); */
+}

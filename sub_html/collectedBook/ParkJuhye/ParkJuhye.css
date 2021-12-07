@@ -1,0 +1,66 @@
+/* 박주혜_Collected Book */
+#canvas{
+position: relative;
+width: 1400px;
+height: 5474px;
+
+background: #000000;
+
+}
+
+/* 편집-03 1 */
+.img1{
+position: absolute;
+width: 690px;
+height: 792px;
+left: 355px;
+top: 652px;
+
+/* background: url(편집-03.png); */
+}
+
+/* 편집-04 1 */
+.img2{
+position: absolute;
+width: 690px;
+height: 753px;
+left: 355px;
+top: 1524px;
+
+/* background: url(편집-04.png); */
+
+}
+/* 편집-07 1 */
+.img3{
+position: absolute;
+width: 1001px;
+height: 1092px;
+left: 230px;
+top: 3236px;
+
+/* background: url(편집-07.png); */
+}
+
+/* 편집-08 1 */
+.img4{
+position: absolute;
+height: 798px;
+width: 1400px;
+/* left: 1402px; */
+top: 2359px;
+
+/* background: url(편집-08.png); */
+/* transform: rotate(90deg); */
+}
+
+/* 편집-05 1 */
+.img5{
+position: absolute;
+height: 966px;
+width: 1400px;
+left: 0px;
+top: 4474px;
+
+/* background: url(편집-05.png); */
+/* transform: rotate(-90deg); */
+}

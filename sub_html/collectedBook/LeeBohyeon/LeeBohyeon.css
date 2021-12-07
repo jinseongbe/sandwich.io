@@ -1,0 +1,32 @@
+/* 이보현_CollectedBook */
+#canvas{
+position: relative;
+width: 1400px;
+height: 2409px;
+
+background: #000000;
+
+}
+
+
+/* THUMB_콜렉티드북 */
+.img1{
+position: absolute;
+width: 985px;
+height: 788px;
+left: 375px;
+top: 1521px;
+
+/* background: url(THUMB_콜렉티드북.png); */
+}
+
+/* 콜렉티드북2 */
+.img2{
+position: absolute;
+width: 985px;
+height: 789px;
+left: 40px;
+top: 652px;
+
+/* background: url(콜렉티드북2.png); */
+}

@@ -1,0 +1,22 @@
+/* 왕근여_MappingTime */
+#canvas{
+position: relative;
+width: 1400px;
+height: 1685px;
+
+background: #FFFFFF;
+
+}
+
+
+
+/* 시간 지도_왕근여 1 */
+.img1{
+position: absolute;
+width: 1320px;
+height: 933px;
+left: 40px;
+top: 652px;
+
+/* background: url(시간 지도_왕근여.png); */
+}
