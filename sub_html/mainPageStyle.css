@@ -1,0 +1,27 @@
+
+html{
+    margin: 0;
+    position: relative;
+    width: 1400px;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */   
+}
+
+
+html::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera*/
+}
+
+
+
+.randContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+#first{
+    height: 800px;
+}
