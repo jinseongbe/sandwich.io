@@ -2,8 +2,11 @@ html{
     margin: 0;
     /* background: #FFFFFF; */
     /* background: #000000; */
-    border-width: 0px;
-    border-style: none;
+    border:none;
+    border-right:0px; 
+    border-top:0px;
+    border-left:0px; 
+    border-bottom:0px;
 
     -ms-overflow-style: none; /* IE and Edge */
     scrollbar-width: none; /* Firefox */   
@@ -20,6 +23,11 @@ body{
 
     margin: 0;
     background-color: black;
+    border:none;
+    border-right:0px; 
+    border-top:0px;
+    border-left:0px; 
+    border-bottom:0px;
 }
 
 #bodyContainer{
@@ -35,10 +43,9 @@ body{
 
 .img1{
     width: 1500px;
+    border:none;
     border-right:0px; 
     border-top:0px;
     border-left:0px; 
     border-bottom:0px;
-
-    
 }
