@@ -1,8 +1,9 @@
 /* 김현정_Collected Book */
 #canvas{
 position: relative;
-width: 1400px;
-height: 1754px;
+width: 100%;
+padding-bottom: 125.28%;
+/* height: 1754px; */
 
 background: #FFFFFF;
 
@@ -12,32 +13,25 @@ background: #FFFFFF;
 /* Artboard 22 */
 .img1{
 position: absolute;
-width: 653px;
-height: 487px;
-left: 710px;
-top: 670px;
+width: 46.42%;
+left: 50.71%;
+right: 2.64%;
+top: 38.2%;
+bottom: 34.04%;
 
 /* background: url(Artboard 22.png); */
 }
 
-/* 콜렉티드4 1 */
-.img6{
-position: absolute;
-width: 2001px;
-height: 2672px;
-left: 2286px;
-top: 867px;
 
-/* background: url(콜렉티드4.png); */
 
-}
 /* 콜렉티드1 */
 .img2{
 position: absolute;
-width: 315px;
-height: 420px;
-left: 41px;
-top: 1234px;
+width: 22.5%;
+left: 2.93%;
+right: 74.57%;
+top: 70.35%;
+bottom: 5.7%;
 
 /* background: url(콜렉티드1.png); */
 }
@@ -45,21 +39,23 @@ top: 1234px;
 /* 콜렉티드2 */
 .img3{
 position: absolute;
-width: 314px;
-height: 419px;
-left: 376px;
-top: 1235px;
-
+width: 22.5%;
+left: 26.86%;
+right: 50.71%;
+top: 70.41%;
+bottom: 5.7%;
 /* background: url(콜렉티드2.png); */
 }
 
 /* 콜렉티드3 */
 .img4{
 position: absolute;
-width: 314px;
-height: 419px;
-left: 711px;
-top: 1235px;
+width: 22.5%;
+left: 50.79%;
+right: 26.79%;
+top: 70.41%;
+bottom: 5.7%;
+
 
 /* background: url(콜렉티드3.png); */
 }
@@ -67,10 +63,12 @@ top: 1235px;
 /* Artboard 20 */
 .img5{
 position: absolute;
-width: 651px;
-height: 485px;
-left: 39px;
-top: 669px;
+width: 46.42%;
+left: 2.79%;
+right: 50.71%;
+top: 38.14%;
+bottom: 34.21%;
+
 
 /* background: url(Artboard 20.png); */
 }
@@ -78,10 +76,11 @@ top: 669px;
 /* 콜렉티드4 2 */
 .img6{
 position: absolute;
-width: 313px;
-height: 418px;
-left: 1047px;
-top: 1236px;
+width: 22.5%;
+left: 74.79%;
+right: 2.86%;
+top: 70.47%;
+bottom: 5.7%;
 
 /* background: url(콜렉티드4.png); */
 }

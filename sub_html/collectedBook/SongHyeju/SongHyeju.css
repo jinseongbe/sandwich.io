@@ -1,8 +1,9 @@
 /* 송혜주_Collected Book */
 #canvas{
 position: relative;
-width: 1400px;
-height: 2587px;
+width: 100%;
+padding-bottom: 184.78%;
+/* height: 2587px; */
 
 background: #FFFFFF;
 
@@ -10,17 +11,14 @@ background: #FFFFFF;
 
 
 
-
-
-
-
 /* pasted-image */
 .img1{
 position: absolute;
-width: 650px;
-height: 650px;
-left: 40px;
-top: 652px;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 25.2%;
+bottom: 49.67%;
 
 /* background: url(pasted-image.jpg); */
 
@@ -28,32 +26,33 @@ top: 652px;
 /* IMG_2827 2 */
 .img2{
 position: absolute;
-width: 646px;
-height: 646px;
-left: 710px;
-top: 1322px;
-
+width: 46.42%;
+left: 50.71%;
+right: 3.14%;
+top: 51.1%;
+bottom: 23.93%;
 /* background: url(IMG_2827 2.jpg); */
 }
 
 /* pasted-image-2 */
 .img3{
 position: absolute;
-width: 439px;
-height: 439px;
-left: 44px;
-top: 2048px;
-
+width: 31.35%;
+left: 3.14%;
+right: 65.5%;
+top: 79.17%;
+bottom: 3.87%;
 /* background: url(pasted-image-2.jpg); */
 }
 
 /* pasted-image-3 */
 .img4{
 position: absolute;
-width: 438px;
-height: 439px;
-left: 483px;
-top: 2048px;
+width: 31.35%;
+left: 34.5%;
+right: 34.21%;
+top: 79.17%;
+bottom: 3.87%;
 
 /* background: url(pasted-image-3.jpg); */
 }
@@ -61,10 +60,11 @@ top: 2048px;
 /* pasted-image-4 */
 .img5{
 position: absolute;
-width: 439px;
-height: 439px;
-left: 921px;
-top: 2048px;
+width: 31.35%;
+left: 65.79%;
+right: 2.86%;
+top: 79.17%;
+bottom: 3.87%;
 
 /* background: url(pasted-image-4.jpg); */
 
@@ -72,10 +72,12 @@ top: 2048px;
 /* pasted-image-5 */
 .img6{
 position: absolute;
-width: 648px;
-height: 648px;
-left: 41px;
-top: 1322px;
+width: 46.42%;
+left: 2.93%;
+right: 50.79%;
+top: 51.1%;
+bottom: 23.85%;
+
 
 /* background: url(pasted-image-5.jpg); */
 }

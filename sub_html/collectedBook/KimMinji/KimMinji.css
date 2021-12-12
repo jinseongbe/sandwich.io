@@ -1,8 +1,9 @@
 /* 김민지_Collected Book */
 #canvas{
 position: relative;
-width: 1400px;
-height: 5215px;
+width: 100%;
+padding-bottom: 372.5%;
+/* height: 5215px; */
 
 background: #FFFFFF;
 
@@ -11,21 +12,22 @@ background: #FFFFFF;
 /* 콜렉티드북 1 */
 .img2{
 position: absolute;
-width: 1000px;
-height: 1509px;
-left: 40px;
-top: 652px;
-
+width: 70.35%;
+left: 2.86%;
+right: 25.71%;
+top: 12.5%;
+bottom: 58.56%;
 /* background: url(콜렉티드북.png); */
 }
 
 /* 콜렉티드북(1) 1 */
 .img3{
 position: absolute;
-width: 650px;
-height: 2063px;
-left: 375px;
-top: 3052px;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 58.52%;
+bottom: 1.92%;
 
 /* background: url(콜렉티드북(1).png); */
 }
@@ -33,10 +35,10 @@ top: 3052px;
 /* THUMB_콜렉티드북 1 */
 .img4{
 position: absolute;
-width: 983px;
-height: 730px;
-left: 376px;
-top: 2241px;
-
+width: 70.35%;
+left: 26.86%;
+right: 2.93%;
+top: 42.97%;
+bottom: 43.03%;
 /* background: url(THUMB_콜렉티드북.png); */
 }
