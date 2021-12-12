@@ -1,0 +1,62 @@
+/* 김민지_Group Identity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 218.42%;
+/* height: 3058px; */
+
+background: #FFFFFF;
+
+}
+
+
+/* 대지 20 1 */
+.img1{
+position: absolute;
+width: 71.42%;
+left: 14.29%;
+right: 14.29%;
+top: 42.81%;
+bottom: 28.02%;
+
+
+/* background: url(대지 20.png); */
+
+}
+/* 대지 22 1 */
+.img2{
+position: absolute;
+width: 46.42%;
+left: 50.43%;
+right: 2.86%;
+top: 24.82%;
+bottom: 56.12%;
+
+/* background: url(대지 22.png); */
+}
+
+/* 대지 23 1 */
+.img3{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 78.19%;
+bottom: 3.27%;
+
+
+/* background: url(대지 23.png); */
+}
+
+/* THUMB_그룹브랜딩 1 */
+.img4{
+position: absolute;
+width: 46.42%;
+left: 2.93%;
+right: 50.64%;
+top: 26.59%;
+bottom: 59.71%;
+
+
+/* background: url(THUMB_그룹브랜딩.png); */
+}

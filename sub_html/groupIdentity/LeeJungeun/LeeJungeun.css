@@ -1,0 +1,48 @@
+/* 이정은_Group Identity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 168.64%;
+/* height: 2361px; */
+
+background: #FFFFFF;
+}
+
+
+/* THUMB_Group branding */
+.img1{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 27.7%;
+bottom: 60.48%;
+
+/* background: url(THUMB_Group branding.png); */
+
+}
+
+/* flag */
+.img2{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 25.64%;
+top: 42.91%;
+bottom: 28.8%;
+
+/* background: url(flag.png); */
+
+}
+
+/* insta */
+.img3{
+position: absolute;
+width: 46.42%;
+left: 3.14%;
+right: 50.71%;
+top: 74.59%;
+bottom: 4.24%;
+
+/* background: url(insta.png); */
+}

@@ -185,13 +185,8 @@ body{
     position: absolute;
     width: 1000px;
     height: 61px;
-    /* left: 40px; */
+    left: 40px;
     top: 120px;
-
-    left: 2.62%;
-    right: 68.04%;
-    /* top: 3.1%;
-    bottom: 94.73%; */
     
     font-family: "NexonLv2Gothic_Bold";
     font-style: normal;

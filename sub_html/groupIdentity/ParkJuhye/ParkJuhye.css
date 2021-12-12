@@ -1,0 +1,37 @@
+/* 박주혜_Group Identity */
+#canvas{
+position: relative;
+
+width: 100%;
+padding-bottom: 171.21%;
+/* height: 2397px; */
+
+background: #FFFFFF;
+
+
+}
+
+/* 편집2-23 1 */
+.img1{
+
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 3.07%;
+top: 27.28%;
+bottom: 40.01%;
+
+/* background: url(편집2-23.png); */
+}
+
+/* 편집2-21 1 */
+.img2{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 63.33%;
+bottom: 4.17%;
+
+/* background: url(편집2-21.png); */
+}
