@@ -1,8 +1,10 @@
 /* 이보현_MappingTime */
 #canvas{
 position: relative;
-width: 1400px;
-height: 1575px;
+width: 100%;
+padding-bottom: 112.5%;
+/* width: 1400px;
+height: 1575px; */
 
 background: #000000;
 }
@@ -12,10 +14,13 @@ background: #000000;
 /* Rectangle 254 */
 .img1{
 position: absolute;
-width: 1318px;
-height: 823px;
-left: 40px;
-top: 652px;
+width: 94.28%;
+height: 52.25%;
+left: 2.86%;
+right: 3%;
+top: 41.4%;
+bottom: 6.35%;
 
 /* background: #C4C4C4; */
 }
+

@@ -1,66 +1,78 @@
 /* 김조은_MappingTime */
 
-.canvas{position: relative;
-width: 1400px;
-height: 5190px;
+#canvas{
+    margin: 0;
+    position: relative; 
+    width: 100%;
+    padding-bottom: 370.14%; 
+    /* width: 1400px; */
+    /* height: 5190px; */
 
-background: #FFFFFF;
+    background: #FFFFFF;
 }
+
 
 
 
 /* deco ver 1 */
 .img1{
 position: absolute;
-width: 1092px;
-height: 614px;
-left: 154px;
-top: 4476px;
-
-border: none;
-border-style: none;
-border-width: 0px;
-
+width: 78%;
+left: 11%;
+right: 11%;
+top: 86.24%;
+bottom: 1.93%;
+/* width: 100%; */
 /* background: url(1.jpg); */
 }
+
+
 /* FINAL print 3 */
 .img2{
 position: absolute;
-width: 648px;
-height: 916px;
-left: 40px;
-top: 1417px;
-
+width: 46.42%;
+left: 2.86%;
+right: 50.86%;
+top: 27.3%;
+bottom: 55.05%;
+/* width: 100%; */
 /* background: url(2.jpg); */
 }
 
 /* 스크린샷 2021-12-01 오후 11.15 2 */
 .img3{
     position: absolute;
-    width: 1319px;
-    height: 743px;
-    left: 41px;
-    top: 654px;
+    width: 94.28%;
+    left: 2.93%;
+    right: 2.86%;
+    top: 12.6%;
+    bottom: 73.08%;
+    /* width: 100%; */
+    
     /* background-image: url(4.jpg); */
 }
 
 /* Rectangle 205 */
 .img4{
 position: absolute;
-width: 648px;
-height: 916px;
-left: 710px;
-top: 1417px;
+width: 46.42%;
+left: 50.71%;
+right: 3%;
+top: 27.3%;
+bottom: 55.05%;
+/* width: 100%; */
 
 }
 
 /* 사진_편집_1 1 */
 .img5{
 position: absolute;
-width: 1318px;
-height: 1284px;
-left: 40px;
-top: 2353px;
+width: 94.28%;
+left: 2.86%;
+right: 3%;
+top: 45.34%;
+bottom: 29.92%;
+/* width: 100%; */
 
 /* background: url(3.jpg); */
 }
@@ -68,10 +80,13 @@ top: 2353px;
 /* Rectangle 207 */
 .img6{
 position: absolute;
-width: 1320px;
-height: 679px;
-left: 40px;
-top: 3717px;
+width: 94.28%;
+height: 13.07%;
+left: 2.86%;
+right: 2.86%;
+top: 71.62%;
+bottom: 15.3%;
+/* width: 100%; */
 
 /* background: url(https://youtu.be/jC9XpHZHIb8); */
 }

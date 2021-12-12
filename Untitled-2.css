@@ -8,12 +8,10 @@
 
 /* 1700_EXHIBITION&INSTALLATION  */
 
-
 #bodyContainer{
     position: relative;
     width: 100%;
     padding-bottom: 972.76%;
-    /* max-width: 1700px; */
     /* width: 1700px;
     height: 16537px; */
     margin: 0 auto;
@@ -26,10 +24,8 @@
     position: absolute;
     width: 348px;
     height: 85px;
-    left: 2.12%;
-    right: 77.41%;
-    top: 0.73%;
-    bottom: 98.75%;
+    left: 36px;
+    top: 121px;
     
     font-family: 'Futura_PT_Demi';
     font-style: normal;
@@ -47,10 +43,8 @@
     position: absolute;
     width: 428px;
     height: 85px;
-    left: 2.12%;
-    right: 72.71%;
-    top: 55.94%;
-    bottom: 43.55%;
+    left: 36px;
+    top: 9250px;
     
     font-family: 'Futura_PT_Demi';
     font-style: normal;
@@ -67,10 +61,8 @@
     position: absolute;
     width: 964px;
     height: 724px;
-    left: 2.35%;
-    right: 40.94%;
-    top: 81.7%;
-    bottom: 13.93%;
+    left: 40px;
+    top: 13459px;
 
     background: url(../img/exhibition_img/IMG_4383.jpg);
 }
@@ -81,10 +73,8 @@
     position: absolute;
     width: 724px;
     height: 541px;
-    left: 40.94%;
-    right: 16.47%;
-    top: 67.38%;
-    bottom: 29.35%;
+    left: 696px;
+    top: 11143px;
     
 
 background: url(../img/exhibition_img/IMG_4388.jpg);
@@ -95,10 +85,8 @@ background: url(../img/exhibition_img/IMG_4388.jpg);
     position: absolute;
     width: 710px;
     height: 395px;
-    left: 16.18%;
-    right: 42.06%;
-    top: 65.26%;
-    bottom: 32.35%;
+    left: 275px;
+    top: 10792px;
 background: url(..img/exhibition_img/IMG_4355.jpg);
 }
 
@@ -111,11 +99,8 @@ background: url(..img/exhibition_img/IMG_4355.jpg);
 position: absolute;
 width: 639px;
 height: 479px;
-left: 58.94%;
-right: 3.47%;
-top: 52.4%;
-bottom: 44.7%;
-
+left: 1002px;
+top: 8666px;
 
 background: url(../img/exhibition_img/IMG_4987.jpg);
 }
@@ -127,10 +112,9 @@ background: url(../img/exhibition_img/IMG_4987.jpg);
     position: absolute;
     width: 960px;
     height: 722px;
-    left: 21.53%;
-    right: 22%;
-    top: 29.46%;
-    bottom: 66.17%;
+    left: 366px;
+    top: 4872px;
+
     background: url(../img/exhibition_img/IMG_4985.jpg);
 }
 
@@ -139,10 +123,8 @@ background: url(../img/exhibition_img/IMG_4987.jpg);
     position: absolute;
     width: 820px;
     height: 615px;
-    left: 40.82%;
-right: 10.94%;
-top: 36.09%;
-bottom: 60.19%;
+    left: 694px;
+    top: 5968px;
 
     background: url(../img/exhibition_img/IMG_4979.jpg);
 }
@@ -152,10 +134,8 @@ bottom: 60.19%;
     position: absolute;
     width: 636px;
     height: 541px;
-    left: 2.35%;
-right: 60.24%;
-top: 94.34%;
-bottom: 2.39%;
+    left: 40px;
+    top: 15601px;
 
 background: url(../img/exhibition_img/IMG_2908.jpg);
 }
@@ -165,11 +145,8 @@ background: url(../img/exhibition_img/IMG_2908.jpg);
     position: absolute;
     width: 460px;
     height: 498px;
-    left: 70.24%;
-right: 2.71%;
-top: 40.13%;
-bottom: 56.86%;
-
+    left: 1194px;
+    top: 6636px;
 
 background: url(../img/exhibition_img/IMG_4996.jpg);
 }
@@ -179,11 +156,8 @@ background: url(../img/exhibition_img/IMG_4996.jpg);
     position: absolute;
     width: 798px;
     height: 598px;
-    left: 2.24%;
-right: 50.82%;
-top: 16.76%;
-bottom: 79.62%;
-
+    left: 38px;
+    top: 2772px;
 
 background: url(../img/exhibition_img/IMG_4993.jpg);
 }
@@ -193,10 +167,8 @@ background: url(../img/exhibition_img/IMG_4993.jpg);
     position: absolute;
     width: 636px;
     height: 477px;
-    left: 2.24%;
-right: 60.35%;
-top: 3.24%;
-bottom: 93.88%;
+    left: 38px;
+    top: 535px;
 
 background: url(../img/exhibition_img/IMG_4994.jpg);
 }
@@ -206,10 +178,9 @@ background: url(../img/exhibition_img/IMG_4994.jpg);
     position: absolute;
     width: 492px;
     height: 578px;
-    left: 2.24%;
-right: 68.82%;
-top: 7.37%;
-bottom: 89.13%;
+    left: 38px;
+    top: 1219px;
+
 background: url(../img/exhibition_img/IMG_4424.jpg);
 }
 
@@ -218,10 +189,8 @@ background: url(../img/exhibition_img/IMG_4424.jpg);
     position: absolute;
     width: 597px;
     height: 449px;
-    left: 60.12%;
-right: 4.76%;
-top: 32.96%;
-bottom: 64.33%;
+    left: 1022px;
+    top: 5450px;
 
 background: url(../img/exhibition_img/IMG_5001.jpg);
 }
@@ -231,10 +200,8 @@ background: url(../img/exhibition_img/IMG_5001.jpg);
     position: absolute;
     width: 802px;
     height: 603px;
-    left: 50.47%;
-right: 2.35%;
-top: 1.83%;
-bottom: 94.52%;
+    left: 858px;
+    top: 303px;
     
 
 background: url(../img/exhibition_img/IMG_4989.jpg);
@@ -245,10 +212,8 @@ background: url(../img/exhibition_img/IMG_4989.jpg);
     position: absolute;
     width: 308px;
     height: 377px;
-    left: 21.53%;
-right: 60.35%;
-top: 11.97%;
-bottom: 85.75%;
+    left: 366px;
+    top: 1980px;
 
 background: url(../img/exhibition_img/IMG_4442.jpg);
 }
@@ -258,10 +223,8 @@ background: url(../img/exhibition_img/IMG_4442.jpg);
     position: absolute;
     width: 403px;
     height: 538px;
-    left: 7.47%;
-right: 68.82%;
-top: 77.89%;
-bottom: 18.85%;
+    left: 127px;
+    top: 12881px;
 
 background: url(../img/exhibition_img/IMG_4917.jpg);
 }
@@ -271,10 +234,8 @@ background: url(../img/exhibition_img/IMG_4917.jpg);
     position: absolute;
     width: 705px;
     height: 530px;
-    left: 56.24%;
-right: 2.29%;
-top: 71.19%;
-bottom: 25.6%;
+    left: 956px;
+    top: 11773px;
 
 background: url(../img/exhibition_img/IMG_4915.jpg);
 }
@@ -284,10 +245,8 @@ background: url(../img/exhibition_img/IMG_4915.jpg);
     position: absolute;
     width: 323px;
     height: 448px;
-    left: 41.24%;
-right: 39.76%;
-top: 5.24%;
-bottom: 92.05%;
+    left: 701px;
+    top: 867px;
 
 background: url(../img/exhibition_img/IMG_4960.jpg);
 }
@@ -297,10 +256,8 @@ background: url(../img/exhibition_img/IMG_4960.jpg);
     position: absolute;
     width: 648px;
     height: 776px;
-    left: 36.53%;
-    right: 25.35%;
-    top: 75.2%;
-    bottom: 20.11%;
+    left: 621px;
+    top: 12435px;
 
 background: url(../img/exhibition_img/IMG_4363.jpg);
 }
@@ -310,10 +267,8 @@ background: url(../img/exhibition_img/IMG_4363.jpg);
     position: absolute;
     width: 484px;
     height: 363px;
-    left: 28.47%;
-    right: 43.06%;
-    top: 41.88%;
-    bottom: 55.92%;
+    left: 484px;
+    top: 6926px;
 
 background: url(../img/exhibition_img/IMG_4445.jpg);
 }
@@ -323,10 +278,8 @@ background: url(../img/exhibition_img/IMG_4445.jpg);
     position: absolute;
     width: 656px;
     height: 491px;
-    left: 59.06%;
-    right: 2.35%;
-    top: 62.73%;
-    bottom: 34.3%;
+    left: 1004px;
+    top: 10374px;
 
 background: url(../img/exhibition_img/IMG_4934.jpg);
 }
@@ -336,10 +289,8 @@ background: url(../img/exhibition_img/IMG_4934.jpg);
     position: absolute;
     width: 717px;
     height: 538px;
-    left: 18.06%;
-    right: 39.76%;
-    top: 91.49%;
-    bottom: 5.26%;
+    left: 307px;
+    top: 15129px;
 
 background: url(../img/exhibition_img/IMG_4935.jpg);
 }
@@ -349,10 +300,8 @@ background: url(../img/exhibition_img/IMG_4935.jpg);
     position: absolute;
     width: 840px;
     height: 630px;
-    left: 12%;
-    right: 38.59%;
-    top: 57.05%;
-    bottom: 39.14%;
+    left: 204px;
+    top: 9435px;
 
 background: url(../img/exhibition_img/IMG_4939.jpg);
 }
@@ -362,10 +311,8 @@ background: url(../img/exhibition_img/IMG_4939.jpg);
     position: absolute;
     width: 636px;
     height: 470px;
-    left: 2.82%;
-    right: 59.76%;
-    top: 61.22%;
-    bottom: 35.94%;
+    left: 48px;
+    top: 10124px;
 
 background: url(../img/exhibition_img/IMG_4913.jpg);
 }
@@ -375,10 +322,8 @@ background: url(../img/exhibition_img/IMG_4913.jpg);
     position: absolute;
     width: 964px;
     height: 798px;
-    left: 40.82%;
-    right: 2.47%;
-    top: 19.09%;
-    bottom: 76.08%;
+    left: 694px;
+    top: 3157px;
 
 background: url(../img/exhibition_img/IMG_4953.jpg);
 }
@@ -399,10 +344,9 @@ background: url(../img/exhibition_img/IMG_4995.jpg);
     position: absolute;
     width: 957px;
     height: 718px;
-    left: 41.24%;
-    right: 2.47%;
-    top: 8.72%;
-    bottom: 86.94%;
+    left: 701px;
+    top: 1442px;
+
 background: url(../img/exhibition_img/IMG_5004.jpg);
 }
 
@@ -411,11 +355,8 @@ background: url(../img/exhibition_img/IMG_5004.jpg);
     position: absolute;
     width: 472px;
     height: 354px;
-    left: 50.47%;
-    right: 21.76%;
-    top: 15.65%;
-    bottom: 82.21%;
-    
+    left: 858px;
+    top: 2588px;
 
 background: url(../img/exhibition_img/IMG_4453.jpg);
 }
@@ -425,11 +366,8 @@ background: url(../img/exhibition_img/IMG_4453.jpg);
     position: absolute;
     width: 467px;
     height: 351px;
-    left: 69.41%;
-    right: 3.12%;
-    top: 13.71%;
-    bottom: 84.17%;
-    
+    left: 1180px;
+    top: 2267px;
 
 background: url(../img/exhibition_img/IMG_5007.jpg);
 }
@@ -440,10 +378,8 @@ background: url(../img/exhibition_img/IMG_5007.jpg);
     position: absolute;
     width: 572px;
     height: 430px;
-    left: 4.71%;
-    right: 61.65%;
-    top: 22.08%;
-    bottom: 75.32%;
+    left: 80px;
+    top: 3651px;
 
 background: url(../img/exhibition_img/IMG_4973.jpg);
 }
@@ -453,10 +389,8 @@ background: url(../img/exhibition_img/IMG_4973.jpg);
     position: absolute;
     width: 798px;
     height: 598px;
-    left: 2.24%;
-    right: 50.82%;
-    top: 25.33%;
-    bottom: 71.06%;
+    left: 38px;
+    top: 4188px;
 
 background: url(../img/exhibition_img/IMG_4990.jpg);
 }
@@ -466,10 +400,8 @@ background: url(../img/exhibition_img/IMG_4990.jpg);
     position: absolute;
     width: 463px;
     height: 348px;
-    left: 2.24%;
-    right: 70.53%;
-    top: 14.35%;
-    bottom: 83.55%;
+    left: 38px;
+    top: 2373px;
 
 background: url(../img/exhibition_img/IMG_4984.jpg);
 }
@@ -479,10 +411,8 @@ background: url(../img/exhibition_img/IMG_4984.jpg);
     position: absolute;
     width: 472px;
     height: 354px;
-    left: 69.76%;
-    right: 2.47%;
-    top: 26.72%;
-    bottom: 71.14%;
+    left: 1186px;
+    top: 4418px;
 
 background: url(../img/exhibition_img/IMG_4956.jpg);
 }
@@ -493,10 +423,8 @@ background: url(../img/exhibition_img/IMG_4956.jpg);
     position: absolute;
     width: 705px;
     height: 404px;
-    left: 2.24%;
-    right: 56.29%;
-    top: 38.79%;
-    bottom: 58.77%;
+    left: 38px;
+    top: 6414px;
 
 background: url(../img/exhibition_img/IMG_4998.jpg);
 }
@@ -506,10 +434,8 @@ background: url(../img/exhibition_img/IMG_4998.jpg);
     position: absolute;
     width: 984px;
     height: 740px;
-    left: 11.88%;
-    right: 30.24%;
-    top: 47.61%;
-    bottom: 47.91%;
+    left: 202px;
+    top: 7874px;
 
 background: url(../img/exhibition_img/IMG_4986.jpg);
 }
@@ -519,11 +445,8 @@ background: url(../img/exhibition_img/IMG_4986.jpg);
     position: absolute;
     width: 635px;
     height: 475px;
-    left: 2.29%;
-    right: 60.35%;
-    top: 44.63%;
-    bottom: 52.49%;
-    
+    left: 39px;
+    top: 7381px;
 
 background: url(../img/exhibition_img/IMG_4901.jpg);
 }
@@ -533,10 +456,8 @@ background: url(../img/exhibition_img/IMG_4901.jpg);
     position: absolute;
     width: 500px;
     height: 375px;
-    left: 67.76%;
-    right: 2.82%;
-    top: 59.42%;
-    bottom: 38.31%;
+    left: 1152px;
+    top: 9826px;
 
 background: url(../img/exhibition_img/IMG_4358.jpg);
 }
@@ -546,10 +467,8 @@ background: url(../img/exhibition_img/IMG_4358.jpg);
     position: absolute;
     width: 559px;
     height: 419px;
-    left: 64.76%;
-    right: 2.35%;
-    top: 89.92%;
-    bottom: 7.55%;
+    left: 1101px;
+    top: 14870px;
     
     
 
@@ -561,10 +480,9 @@ background: url(../img/exhibition_img/IMG_4908.jpg);
     position: absolute;
     width: 812px;
     height: 609px;
-    left: 49.41%;
-    right: 2.82%;
-    top: 85.78%;
-    bottom: 10.53%;
+    left: 840px;
+    top: 14186px;
+
 background: url(../img/exhibition_img/IMG_4390.jpg);
 }
 
@@ -573,10 +491,8 @@ background: url(../img/exhibition_img/IMG_4390.jpg);
     position: absolute;
     width: 633px;
     height: 475px;
-    left: 60.41%;
-    right: 2.35%;
-    top: 80.43%;
-    bottom: 16.7%;
+    left: 1027px;
+    top: 13300px;
 background: url(../img/exhibition_img/IMG_4932-1.jpg);
 }
 
@@ -585,10 +501,8 @@ background: url(../img/exhibition_img/IMG_4932-1.jpg);
     position: absolute;
     width: 680px;
     height: 510px;
-    left: 6.24%;
-    right: 53.76%;
-    top: 87.39%;
-    bottom: 9.52%;
+    left: 106px;
+    top: 14452px;
 
 background: url(../img/exhibition_img/IMG_4906.jpg);
 }
@@ -599,10 +513,8 @@ background: url(../img/exhibition_img/IMG_4906.jpg);
     position: absolute;
     width: 375px;
     height: 500px;
-    left: 2.35%;
-    right: 75.59%;
-    top: 68.13%;
-    bottom: 28.84%;
+    left: 40px;
+    top: 11267px;
 
 background: url(../img/exhibition_img/IMG_4360.jpg);
 }
@@ -612,8 +524,8 @@ background: url(../img/exhibition_img/IMG_4360.jpg);
     position: absolute;
     width: 788px;
     height: 591px;
-    top: 72.1%;
-    bottom: 24.33%;
+    left: 72px;
+    top: 11923px;
 
 background: url(../img/exhibition_img/IMG_4919.jpg);
 }
@@ -623,11 +535,8 @@ background: url(../img/exhibition_img/IMG_4919.jpg);
     position: absolute;
     width: 289px;
     height: 387px;
-    left: 78.35%;
-    right: 4.65%;
-    top: 76.07%;
-    bottom: 21.59%;
-    
+    left: 1332px;
+    top: 12579px;
 
 background: url(../img/exhibition_img/IMG_4454.jpg);
 }
@@ -637,10 +546,8 @@ background: url(../img/exhibition_img/IMG_4454.jpg);
     position: absolute;
     width: 471px;
     height: 354px;
-    left: 2.41%;
-    right: 69.88%;
-    top: 34.76%;
-    bottom: 63.09%;
+    left: 41px;
+    top: 5749px;
 
 background: url(../img/exhibition_img/IMG_5008.jpg);
 }
@@ -650,11 +557,8 @@ background: url(../img/exhibition_img/IMG_5008.jpg);
     position: absolute;
     width: 902px;
     height: 679px;
-    left: 44.59%;
-    right: 2.35%;
-    top: 95.59%;
-    bottom: 0.31%;
-    
+    left: 758px;
+    top: 15807px;
 background: url(../img/exhibition_img/IMG_4959.jpg);
 }
 
@@ -663,10 +567,8 @@ background: url(../img/exhibition_img/IMG_4959.jpg);
     position: absolute;
     width: 636px;
     height: 479px;
-    left: 51.65%;
-right: 10.94%;
-top: 43.64%;
-bottom: 53.47%;
+    left: 878px;
+    top: 7216px;
     
     background: url(../img/exhibition_img/IMG_4988.jpg);
     }

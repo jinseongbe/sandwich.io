@@ -1,8 +1,11 @@
 /* 김현정_Mapping Time */
 #canvas{
 position: relative;
-width: 1400px;
-height: 3607px;
+
+width: 100%;
+padding-bottom: 257.64%;
+/* width: 1400px;
+height: 3607px; */
 
 background: #FFFFFF;
 }
@@ -10,10 +13,11 @@ background: #FFFFFF;
 /* Artboard 3 1 */
 .img1{
 position: absolute;
-width: 1300px;
-height: 976px;
-left: 40px;
-top: 614px;
+left: 2.86%;
+right: 4.29%;
+top: 17.02%;
+bottom: 55.92%;
+width: 92.85%;
 
 /* background: url(Artboard 3.png); */
 }
@@ -21,10 +25,11 @@ top: 614px;
 /* Artboard 4 1 */
 .img2{
 position: absolute;
-width: 1302px;
-height: 976px;
-left: 40px;
-top: 1610px;
+left: 2.86%;
+right: 4.14%;
+top: 44.64%;
+bottom: 28.31%;
+width: 92.85%;
 
 /* background: url(Artboard 4.png); */
 }
@@ -32,10 +37,12 @@ top: 1610px;
 
 .img3{
     position: absolute;
-    width: 1302px;
-    height: 832px;
-    left: 40px;
-    top: 2666px;
+    left: 2.86%;
+    right: 4.14%;
+    top: 73.91%;
+    bottom: 3.02%;
+    width: 92.85%;
+    height: 23.06%;
     
     /* background: #C4C4C4; */
 }

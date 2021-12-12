@@ -1,8 +1,9 @@
 /* 황주원_MappingTime */
 #canvas{
 position: relative;
-width: 1400px;
-height: 2610px;
+width: 100%;
+padding-bottom: 186.42%;
+/* height: 2610px; */
 
 background: #FFFFFF;
 
@@ -14,10 +15,10 @@ background: #FFFFFF;
 /* 황주원 Mappingtime 1 */
 .img1{
 position: absolute;
-width: 1315px;
-height: 1858px;
-left: 43px;
-top: 652px;
-
+width: 94.28%;
+left: 3.07%;
+right: 3%;
+top: 24.98%;
+bottom: 3.83%;
 /* background: url(황주원 Mappingtime); */
 }

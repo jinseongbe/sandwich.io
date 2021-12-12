@@ -1,8 +1,10 @@
 /* 강지은 Mapping Time */
 #canvas{
 position: relative;
-width: 1400px;
-height: 3247px;
+width: 100%;
+padding-bottom: 231.92%;
+/* width: 1400px;
+height: 3247px; */
 
 background: #FFFFFF;
 
@@ -11,10 +13,13 @@ background: #FFFFFF;
 /* 1 */
 .img1{
 position: absolute;
-width: 1320px;
-height: 933.24px;
-left: 40px;
-top: 625px;
+width: 94.28%;
+
+left: 2.86%;
+right: 2.86%;
+top: 19.25%;
+bottom: 52.01%;
+
 
 background: url(1.png);
 
@@ -22,10 +27,13 @@ background: url(1.png);
 /* 2 */
 .img2{
 position: absolute;
-width: 1320px;
-height: 737.22px;
-left: 40px;
-top: 1578px;
+width: 94.28%;
+
+left: 2.86%;
+right: 2.86%;
+top: 48.6%;
+bottom: 28.7%;
+
 
 background: url(2.png);
 
@@ -33,10 +41,11 @@ background: url(2.png);
 /* 3 */
 .img3{
 position: absolute;
-width: 650px;
-height: 812.17px;
-left: 40px;
-top: 2335px;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 71.91%;
+bottom: 3.07%;
 
 background: url(3.jpg);
 }
@@ -44,10 +53,12 @@ background: url(3.jpg);
 /* 4 */
 .img4{
 position: absolute;
-width: 650px;
-height: 487.5px;
-left: 710px;
-top: 2335px;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 71.91%;
+bottom: 13.07%;
+
 
 background: url(4.jpg);
 

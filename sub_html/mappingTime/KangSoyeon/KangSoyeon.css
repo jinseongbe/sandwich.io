@@ -1,8 +1,11 @@
 /* 강소연 Mapping Time */
 #canvas{
 position: relative;
-width: 1400px;
-height: 1438px;
+width: 100;
+padding-bottom: 102.72%;
+
+/* width: 1400px;
+height: 1438px; */
 
 background: #FFFFFF;
 
@@ -15,10 +18,11 @@ background: #FFFFFF;
 /* THUMB_mapping time 1 */
 .img1{
 position: absolute;
-width: 1320px;
-height: 742px;
-left: 40px;
-top: 596px;
+left: 2.86%;
+right: 2.86%;
+top: 41.45%;
+bottom: 6.95%;
+width: 94.28%;
 
 /* background: url(THUMB_mapping time.png); */
 }

@@ -2,8 +2,10 @@
 
 #canvas{
     position: relative;
-    width: 1524px;
-    height: 3908px;
+    width: 100%;
+    padding-bottom: 256.43%;
+    /* width: 1524px;
+    height: 3908px; */
 
     background: #FFFFFF;
 }
@@ -11,10 +13,16 @@
 /* 편집-01 1 */
 .img1{
 position: absolute;
-width: 1080px;
+/* width: 1080px;
 height: 1570px;
 left: 40px;
-top: 654px;
+top: 654px; */
+
+left: 2.62%;
+right: 26.51%;
+top: 16.73%;
+bottom: 43.09%;
+width: 70%;
 
 /* background: url(편집-01.png); */
 }
@@ -23,10 +31,17 @@ top: 654px;
 
 .img2{
     position: absolute;
-    width: 1078px;
+    /* width: 1078px;
     height: 1564px;
     left: 40px;
-    top: 2244px;
+    top: 2244px; */
+
+    position: absolute;
+left: 2.62%;
+right: 26.64%;
+top: 57.42%;
+bottom: 2.56%;
+width: 70%;
 
     /* background: url(편집-02.png); */
 }

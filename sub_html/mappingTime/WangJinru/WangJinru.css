@@ -1,8 +1,10 @@
 /* 왕근여_MappingTime */
 #canvas{
 position: relative;
-width: 1400px;
-height: 1685px;
+width: 100%;
+padding-bottom: 120.35%;
+/* width: 1400px;
+height: 1685px; */
 
 background: #FFFFFF;
 
@@ -13,10 +15,11 @@ background: #FFFFFF;
 /* 시간 지도_왕근여 1 */
 .img1{
 position: absolute;
-width: 1320px;
-height: 933px;
-left: 40px;
-top: 652px;
+left: 2.86%;
+right: 2.86%;
+top: 38.69%;
+bottom: 5.93%;
+width: 94.28%;
 
 /* background: url(시간 지도_왕근여.png); */
 }

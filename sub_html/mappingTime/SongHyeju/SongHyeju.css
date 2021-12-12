@@ -1,20 +1,24 @@
 /* 송혜주_MappingTime */
 
-#canvas{position: relative;
-width: 1400px;
-height: 3559px;
+#canvas{
+    position: relative;
+    width: 100%;
+    padding-bottom: 254.21%;
 
-background: #FFFFFF;
+    /* width: 1400px;
+    height: 3559px; */
+    background: #FFFFFF;
 }
 
 
 /* mapping 2 */
 .img1{
 position: absolute;
-width: 650px;
-height: 918px;
-left: 710px;
-top: 586px;
+left: 50.71%;
+right: 2.86%;
+top: 16.47%;
+bottom: 57.74%;
+width:46.42%;
 
 /* background: url(mapping 2.png); */
 
@@ -22,10 +26,11 @@ top: 586px;
 /* mapping1 1 */
 .img2{
 position: absolute;
-width: 647px;
-height: 649px;
-left: 39px;
-top: 1584px;
+left: 2.79%;
+right: 51%;
+top: 44.51%;
+bottom: 37.26%;
+width:46.42%;
 
 /* background: url(mapping1.png); */
 }
@@ -33,10 +38,11 @@ top: 1584px;
 /* mapping 3 1 */
 .img3{
 position: absolute;
-width: 648px;
-height: 866px;
-left: 712px;
-top: 2066px;
+left: 50.86%;
+right: 2.86%;
+top: 58.05%;
+bottom: 17.62%;
+width:46.42%;
 
 /* background: url(mapping 3.png); */
 }
@@ -44,10 +50,11 @@ top: 2066px;
 /* mapping2 1 */
 .img4{
 position: absolute;
-width: 649px;
-height: 650px;
-left: 39px;
-top: 2799px;
+left: 2.79%;
+right: 50.86%;
+top: 78.65%;
+bottom: 3.09%;
+width:46.42%;
 
 /* background: url(mapping2.png); */
 }
@@ -55,10 +62,12 @@ top: 2799px;
 /* mapping 1 */
 .img5{
 position: absolute;
-width: 650px;
-height: 919px;
-left: 40px;
-top: 586px;
+left: 2.86%;
+right: 50.71%;
+top: 16.47%;
+bottom: 57.71%;
+width:46.42%;
+
 
 /* background: url(mapping 1.png); */
 }

@@ -29,7 +29,7 @@ nav {
     font-family: 'NexonLv2Gothic_Medium';
     font-size: 22pt;
     display: flex;
-    width: 100vw;
+    width: 100%;
     /* justify-content: space-between; */
     justify-content: space-between;
     border-bottom: solid 0.75px black;

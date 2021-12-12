@@ -1,26 +1,24 @@
 /* 정세윤 Mapping Time */
 #canvas{
 position: relative;
-width: 1400px;
-height: 1835px;
+width: 100%;
+padding-bottom: 131.07%;
+/* width: 1400px;
+height: 1835px; */
 
 background: #000000;
 
 }
 
 
-
-
-
-
-
 /* THUMB_mappingtimejj 1 */
 .img1{
 position: absolute;
-width: 650px;
-height: 912.28px;
-left: 40px;
-top: 597px;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 32.53%;
+bottom: 17.75%;
 
 /* background: url(THUMB_mappingtimejj.png); */
 }
@@ -28,10 +26,12 @@ top: 597px;
 /* 배경투명 1 */
 .img2{
 position: absolute;
-width: 650px;
-height: 650px;
-left: 709px;
-top: 1085px;
+width: 46.42%;
+left: 50.64%;
+right: 2.93%;
+top: 59.13%;
+bottom: 5.45%;
 
 /* background: url(배경투명.png); */
 }
+

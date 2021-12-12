@@ -1,19 +1,24 @@
 /* 성슬기_Mapping Time */
+
 #canvas{
-position: relative;
-width: 1400px;
-height: 2619px;
+    margin: 0;
+    position: relative;
+    padding-bottom: 187.07%;
+    width: 100%;
+    /* width: 1400px;
+    height: 2619px; */
 
-background: #FFFFFF;
-
+    background: #FFFFFF;
 }
+
+
 /* 1.mapping time 1 */
 .img1{
 position: absolute;
-width: 1320px;
-height: 1867px;
-left: 40px;
-top: 652px;
-
-/* background: url(1.mapping time.png); */
+left: 2.86%;
+right: 2.86%;
+top: 24.89%;
+bottom: 3.82%;
+width: 95%;
+/* background: url(1.mapping\ time\ 1.jpg); */
 }

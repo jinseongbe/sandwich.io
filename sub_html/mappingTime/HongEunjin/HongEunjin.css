@@ -1,8 +1,9 @@
 /* 홍은진_MappingTime */
 #canvas{
 position: relative;
-width: 1400px;
-height: 5190px;
+width: 100%;
+padding-bottom: 370.71%;
+/* height: 5190px; */
 
 background: #000000;
 }
@@ -13,10 +14,11 @@ background: #000000;
 /* mapping 2 */
 .img1{
 position: absolute;
-width: 985px;
-height: 1750px;
-left: 375px;
-top: 1417px;
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 27.3%; 
+bottom: 38.98%;
 
 /* background: url(mapping 2); */
 }
@@ -24,10 +26,11 @@ top: 1417px;
 /* mapping 3 */
 .img2{
 position: absolute;
-width: 1320px;
-height: 743px;
-left: 40px;
-top: 3187px;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 61.41%;
+bottom: 24.28%;
 
 /* background: url(mapping 3); */
 }
@@ -35,21 +38,21 @@ top: 3187px;
 /* mapping 1 */
 .img3{
 position: absolute;
-width: 1321px;
-height: 743px;
-left: 40px;
-top: 654px;
-
+width: 94.28%;
+left: 2.86%;
+right: 2.79%;
+top: 12.6%;
+bottom: 73.08%;
 /* background: url(mapping 1); */
 }
 
 /* mapping 4 */
 .img4{
 position: absolute;
-width: 1321px;
-height: 935px;
-left: 38px;
-top: 3950px;
-
+width: 94.28%;
+left: 2.71%;
+right: 2.93%;
+top: 76.11%;
+bottom: 5.88%;
 /* background: url(mapping 4); */
 }

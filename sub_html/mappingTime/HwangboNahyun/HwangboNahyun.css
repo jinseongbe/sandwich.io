@@ -1,8 +1,10 @@
 /* 황보나현_Mapping Time */
 #canvas{
 position: relative;
-width: 1400px;
-height: 4898px;
+width: 100%;
+padding-bottom: 349.85%;
+/* width: 1400px;
+height: 4898px; */
 
 background: #000000;
 }
@@ -15,32 +17,33 @@ background: #000000;
 
 .img1{
 position: absolute;
-width: 985px;
-height: 1322px;
-left: 40px;
-top: 1991px;
-
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 40.65%;
+bottom: 32.36%;
 /* background: url(MappingTime 추가.png); */
 }
 
 /* MappingTime 추가2 */
 .img2{
 position: absolute;
-width: 315px;
-height: 424px;
-left: 375px;
-top: 3393px;
-
+width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 69.27%;
+bottom: 22.07%;
 /* background: url(MappingTime 추가2.png); */
 }
 
 /* MappingTime 추가3 */
 .img3{
 position: absolute;
-width: 316px;
-height: 424px;
-left: 710px;
-top: 3393px;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 69.27%;
+bottom: 22.07%;
 
 /* background: url(MappingTime 추가3.png); */
 }
@@ -48,10 +51,11 @@ top: 3393px;
 /* MappingTime 추가4 */
 .img4{
 position: absolute;
-width: 319px;
-height: 424px;
-left: 1046px;
-top: 3393px;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 69.27%;
+bottom: 22.07%;
 
 /* background: url(MappingTime 추가4.png); */
 }
@@ -59,21 +63,22 @@ top: 3393px;
 /* mmm_English ver */
 .img5{
 position: absolute;
-width: 648px;
-height: 901px;
-left: 710px;
-top: 3897px;
-
+width: 46.42%;
+left: 50.71%;
+right: 3%;
+top: 79.56%;
+bottom: 2.04%;
 /* background: url(mmm_English ver.png); */
 }
 
 /* THUMB_MappingTime */
 .img6{
 position: absolute;
-width: 983px;
-height: 1319px;
-left: 375px;
-top: 652px;
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 13.31%;
+bottom: 59.76%;
 
 /* background: url(THUMB_MappingTime.png); */
 }

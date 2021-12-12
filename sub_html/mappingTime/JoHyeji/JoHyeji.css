@@ -1,8 +1,10 @@
 /* 조혜지_MappingTime */
 #canvas{
 position: relative;
-width: 1400px;
-height: 2618px;
+width: 100%;
+padding-bottom: 187%;
+/* width: 1400px;
+height: 2618px; */
 
 background: #FFFFFF;
 }
@@ -12,10 +14,11 @@ background: #FFFFFF;
 /* THUMB_MappingTime 1 */
 .img1{
 position: absolute;
-width: 1320px;
-height: 1867px;
-left: 40px;
-top: 651px;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 24.87%;
+bottom: 3.82%;
 
 /* background: url(THUMB_MappingTime.png); */
 }
