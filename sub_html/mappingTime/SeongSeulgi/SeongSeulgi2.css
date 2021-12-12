@@ -36,6 +36,7 @@
 html{
     /* background: #FFFFFF; */
     /* background: #000000; */
+    margin: 0;
 
     -ms-overflow-style: none; /* IE and Edge */
     scrollbar-width: none; /* Firefox */   
@@ -45,14 +46,17 @@ html{
 html::-webkit-scrollbar {
     display: none; /* Chrome, Safari, Opera*/
 }
-
+body{
+    margin: 0;
+}
 
 /* 성슬기_Mapping Time */
 
 #canvas{
+    margin: 0;
 position: relative;
 padding-top: 187.07%;
-width: 100%;
+width: 90%;
 /* width: 1400px;
 height: 2619px; */
 
@@ -173,7 +177,7 @@ left: 2.86%;
 right: 65.21%;
 top: 4.58%;
 bottom: 92.17%;
-
+width: fit-content;
 font-family: "Futura_PT_Medium";
 font-style: normal;
 font-weight: normal;
