@@ -225,7 +225,7 @@ body{
 
 .categoryTxt{
     position: absolute;
-    width: 272px;
+    width: fit-content;
     height: 23px;
     /* left: 208px; */
     top: 307px;
@@ -289,6 +289,54 @@ body{
     font-size: 18px;
     line-height: 26px;
     /* or 144% */
+
+    color: #000000;
+}
+
+
+.rawInfo{
+
+    font-family: 'NexonLv2Gothic_Medium';
+    width: fit-content;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    
+    color: #000000;
+}
+
+.categoryDetail{
+    width: fit-content;
+    font-family: 'NexonLv2Gothic_Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+
+    color: #000000;
+}
+
+.subTitle{
+    width: fit-content;
+    font-family: 'Futura_PT_Demi';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 46px;
+
+    color: #000000;
+}
+
+.subTitle_han{
+    width: fit-content;
+    font-family: 'NexonLv2Gothic_Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 29px;
+    line-height: 33px;
+    /* identical to box height */
 
     color: #000000;
 }
