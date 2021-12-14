@@ -1,0 +1,145 @@
+/* 송혜주_Group Identity */
+#canvas{
+    position: relative;
+    width: 100%;
+    padding-bottom: 408.35%;
+
+/* height: 5717px; */
+
+background: #FFFFFF;}
+
+
+
+
+/* 2 */
+
+.img1{position: absolute;
+    width: 46.42%;
+left: 50.71%;
+right: 3%;
+top: 37.06%;
+bottom: 50.17%;
+
+/* background: url(2.png);} */
+}
+
+/* flag2 */
+.img2
+{position: absolute;
+    width: 22.5%;
+left: 50.21%;
+right: 26%;
+top: 79.43%;
+bottom: 11%;
+
+/* background: url(flag2.png);} */
+}
+
+/* flag */
+.img3
+{position: absolute;
+    width: 22.5%;
+left: 74%;
+right: 2.86%;
+top: 75.97%;
+bottom: 14.69%;
+
+/* background: url(flag.png); */
+}
+
+/* sns */
+.img4
+{position: absolute;
+    width: 46.42%;
+left: 2.86%;
+right: 50.93%;
+top: 89%;
+bottom: 1.75%;
+
+/* background: url(sns.png);} */
+}
+
+/* 7 */
+.img5
+{position: absolute;
+    width: 46.42%;
+left: 51%;
+right: 3.07%;
+top: 72.29%;
+bottom: 24.77%;
+
+/* background: url(7.png);} */
+}
+
+/* 1 */
+.img6
+{position: absolute;
+    width: 70.35%;
+left: 3.14%;
+right: 26.79%;
+top: 26.64%;
+bottom: 63.72%;
+
+/* background: url(1.png);} */
+}
+
+/* 3 */
+.img7
+{position: absolute;
+    width: 46.42%;
+left: 3.14%;
+right: 50.71%;
+top: 50.76%;
+bottom: 38.53%;
+
+/* background: url(3.png);} */
+}
+
+/* 4 */
+.img11
+{position: absolute;
+    width: 46.42%;
+left: 51%;
+right: 3.07%;
+top: 50.22%;
+bottom: 37.99%;
+
+/* background: url(4.png);} */
+}
+
+/* 6 */
+.img8
+{position: absolute;
+    width: 22.5%;
+left: 27.14%;
+right: 50.79%;
+top: 66.94%;
+bottom: 27.27%;
+
+/* background: url(6.png);} */
+}
+
+/* 5 */
+.img9{
+    position: absolute;
+    width: 22.5%;
+left: 3.14%;
+right: 74.5%;
+top: 63.01%;
+bottom: 15.97%;
+
+/* background: url(5.png);} */
+}
+
+
+/* poster */
+.img10{
+    position: absolute;
+    width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 11.53%;
+bottom: 74.32%;
+
+/* background: url(poster.png);} */
+}

@@ -1,0 +1,51 @@
+/* 이동호_Group Identity */
+#canvas
+{
+position: relative;
+width: 100%;
+padding-bottom: 194.07%;
+
+/* height: 2717px; */
+
+background: #000000;
+}
+
+
+
+
+/* THUMB_0_Logo */
+.img1
+{position: absolute;
+left: 2.79%;
+right: 3.07%;
+width: 94.28%;
+top: 24%;
+bottom: 46.89%;
+
+/* background: url(THUMB_0_Logo.png); */
+}
+
+/* 1_Banner */
+.img2
+{position: absolute;
+left: 50.36%;
+right: 3.07%;
+width: 46.42%;
+top: 53.85%;
+bottom: 2.94%;
+
+/* background: url(1_Banner.png); */
+}
+
+/* 2_Insta */
+.img3
+{
+position: absolute;
+left: 2.86%;
+right: 50.57%;
+width: 46.42%;
+top: 53.85%;
+bottom: 2.94%;
+
+/* background: url(2_Insta.png); */
+}

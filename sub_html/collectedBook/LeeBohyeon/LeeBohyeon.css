@@ -1,8 +1,9 @@
 /* 이보현_CollectedBook */
 #canvas{
 position: relative;
-width: 1400px;
-height: 2409px;
+width: 100%;
+padding-bottom: 172.07%;
+/* height: 2409px; */
 
 background: #000000;
 
@@ -12,10 +13,13 @@ background: #000000;
 /* THUMB_콜렉티드북 */
 .img1{
 position: absolute;
-width: 985px;
-height: 788px;
-left: 375px;
-top: 1521px;
+/* width: 985px; */
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 63.14%;
+bottom: 4.15%;
+
 
 /* background: url(THUMB_콜렉티드북.png); */
 }
@@ -23,10 +27,12 @@ top: 1521px;
 /* 콜렉티드북2 */
 .img2{
 position: absolute;
-width: 985px;
-height: 789px;
-left: 40px;
-top: 652px;
+/* width: 985px; */
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 27.07%;
+bottom: 40.18%;
 
 /* background: url(콜렉티드북2.png); */
 }

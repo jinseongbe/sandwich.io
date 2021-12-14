@@ -1,0 +1,199 @@
+/* 성슬기_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 706%;
+/* height: 9884px; */
+
+background: #FFFFFF;
+}
+
+/* 43 */
+.img1{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 9.78%;
+bottom: 71.34%;
+
+/* background: url(4.png); */
+
+}
+
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 6.61%;
+bottom: 93.39%;
+
+border: 1px solid #000000;
+}
+
+/* Line 10 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 31.7%;
+bottom: 68.3%;
+
+border: 1px solid #000000;
+}
+
+/* Line 11 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 56.83%;
+bottom: 43.17%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 32.35%;
+bottom: 67.42%;
+}
+
+
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 57.48%;
+bottom: 42.29%;
+}
+
+
+
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 7.25%;
+bottom: 92.51%;
+}
+
+
+
+
+/* 맥시멀리즘이란 지구가 꽃을 피우는 것과 같다고 생각한다. 이런 점에서 고사리가 자라난 모습을 마치 지구가 꽃을 피운 것처럼 연상해 보았다. */
+#d1{
+position: absolute;
+left: 2.86%;
+right: 55.79%;
+top: 32.97%;
+bottom: 66.48%;
+}
+
+
+
+/* 고사리 같은 손이라는 말에서 연상하여 고사리 손으로 귀여움의 정도를 측정하는 시스템을 만들고 테스트지로 디자인하였다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 35.29%;
+top: 58.1%;
+bottom: 41.63%;
+}
+
+
+
+
+/* 나에게 미니멀리즘이란 시적 표현이자 은유적 표현이다. 고사리같은 손이라는 말에서 연상하여 고사리의 구부러진 형태가 태아같다는 생각으로 미니멀 포스터를 디자인하였다. */
+#d3{
+position: absolute;
+left: 2.93%;
+right: 38.07%;
+top: 7.88%;
+bottom: 91.57%;
+}
+
+
+
+/* MAXIMAL POSTER */
+#t1{
+position: absolute;
+left: 2.86%;
+right: 76.43%;
+top: 31.92%;
+bottom: 67.61%;
+}
+
+
+
+/* GENERATIVE SYSTEM */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 73.36%;
+top: 57.05%;
+bottom: 42.48%;
+}
+
+
+
+/* MINIMAL POSTER */
+#t2{
+position: absolute;
+left: 2.93%;
+right: 77%;
+top: 6.83%;
+bottom: 92.71%;
+}
+
+
+
+
+
+
+
+/* 42 */
+.img2{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 34.89%;
+bottom: 46.21%;
+
+/* background: url(4.png); */
+}
+
+/* 10392 */
+.img3{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 60.03%;
+bottom: 20.6%;
+
+/* background: url(4.png); */
+}
+
+/* THUMB_4 */
+.img4{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 79.62%;
+bottom: 1.01%;
+
+/* background: url(THUMB_4.png); */
+}

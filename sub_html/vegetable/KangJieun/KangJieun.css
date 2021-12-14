@@ -1,0 +1,300 @@
+/* 강지은_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 547.35%;
+/* height: 7663px; */
+
+background: #FFFFFF;
+}
+
+
+
+/* Line 5 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 8.52%;
+bottom: 91.48%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 22.5%;
+bottom: 77.2%;
+}
+
+
+/* Poster, Experiment */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 84.21%;
+top: 41.82%;
+bottom: 57.88%;
+}
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 9.36%;
+bottom: 90.34%;
+}
+
+
+
+/* 꽈리의 부식화된 잎맥과 X-RAY의 시각적 유사성을 확장해 포스터로 제작했다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 57.64%;
+top: 23.31%;
+bottom: 76.35%;
+}
+
+
+
+/* 꽈리의 잎맥을 발전시켜 실험을 진행했다. 피실험자는 눈을 가리고 두가지 실험에 참여한다. 눈을 가리고 긴 붓을 든 채 앞으로 걸어가며 긴 선을 그리는 데 이때 긍정 실험에서는 앞에서 도우미가 박수 소리를 내어 피실험자가 곧은 방향으로 갈 수 있게끔 도우지만, 부정 실험은 도우미가 없어 피실험자는 체험 도중 ‘무서워 무서워'와 같은 어휘를 반복한다. 꽈리 포스터는 이 두가지 실험에서 각각 선과 실험 중 들린 소리를 채집해 긍정 포스터 두 개와 부정 포스터 두 개를 제작했다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 14.71%;
+top: 42.63%;
+bottom: 56.3%;
+}
+
+
+
+/* 꽈리 열매, 부식화 된 잎, 꽈리를 부는 손동작을 단순화하여 포스터 연작을 제작했다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 55.36%;
+top: 10.17%;
+bottom: 89.49%;
+}
+
+
+
+
+/* GROUND CHERRY MAXIMAL RESEARCH */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 52%;
+top: 21.95%;
+bottom: 77.45%;
+}
+
+
+
+
+/* BLIND EXPERIMENT */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 75.07%;
+top: 41.28%;
+bottom: 58.12%;
+}
+
+
+
+
+/* GROUND CHERRY MINIMAL RESEARCH */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 52.57%;
+top: 8.81%;
+bottom: 90.59%;
+}
+
+
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 40.99%;
+bottom: 59.01%;
+
+border: 1px solid #000000;
+}
+
+/* Line 7 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 21.66%;
+bottom: 78.34%;
+
+border: 1px solid #000000;
+
+}
+
+
+/* 1 */
+.img1{
+position: absolute;
+width: 22.5%;
+left: 2.93%;
+right: 74.57%;
+top: 11.94%;
+bottom: 82.25%;
+
+/* background: url(1.png); */
+
+}
+
+/* 2 */
+.img2{
+position: absolute;
+width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 11.94%;
+bottom: 82.25%;
+
+/* background: url(2.png); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 11.93%;
+bottom: 82.26%;
+}
+/* background: url(3.jpg); */
+
+
+/* 41 */
+.img4{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 11.93%;
+bottom: 82.26%;
+}
+/* background: url(4.jpg); */
+
+/* maximal */
+.img5{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 25.08%;
+bottom: 62.92%;
+
+/* background: url(maximal.png); */
+}
+
+/* 4 */
+.img6{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 74.42%;
+bottom: 13.57%;
+
+/* background: url(4.png); */
+
+}
+/* 3 */
+.img7{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 74.42%;
+bottom: 13.57%;
+
+/* background: url(3.png); */
+}
+
+/* 2 */
+.img8{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 86.69%;
+bottom: 1.3%;
+
+/* background: url(2.png); */
+}
+
+/* 1 */
+.img9{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 86.69%;
+bottom: 1.3%;
+
+/* background: url(1.png); */
+}
+
+/* .jpg */
+.img10{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 45.11%;
+bottom: 48.83%;
+
+/* background: url(스크린샷 2021-12-05 오후 4.48.png); */
+}
+
+/* 11 */
+.img11{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 57.31%;
+bottom: 36.84%;
+
+/* background: url(스크린샷 2021-12-05 오후 4.49.png); */
+}
+
+/* .png */
+.img12{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 51.43%;
+bottom: 42.95%;
+
+/* background: url(스크린샷 2021-12-05 오후 4.48.png); */
+}
+
+/* 22 */
+.img13{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 63.64%;
+bottom: 26.71%;
+}
+/* background: url(스크린샷 2021-12-05 오후 4.49.png); */

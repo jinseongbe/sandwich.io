@@ -1,0 +1,54 @@
+/* 정세윤 Group Identity */
+#canvas
+{position: relative;
+    width: 100%;
+    padding-bottom: 121.21%;
+
+/* height: 1697px; */
+
+background: #FFFFFF;
+}
+
+
+
+
+/* 시도라는 단어에서 +기호를 첨가, 로고를 만들고 패턴으로 만들었다. 코로나 학번의 첫 오프라인 전시 시도를 응원하는 아이덴티티를 담고있다. */
+
+
+
+
+/* 1 */
+.img1
+{position: absolute;
+left: 2.86%;
+right: 74.64%;
+width: 22.5%;
+top: 36.65%;
+bottom: 44.78%;
+
+/* background: url(Asset 12@4x.png); */
+}
+
+/* 3 */
+.img2
+{position: absolute;
+left: 50.71%;
+right: 2.86%;
+width: 46.42%;
+top: 36.65%;
+bottom: 5.9%;
+
+/* background: url(ㅁㅇ.png); */
+
+}
+/* 2 */
+.img3
+{position: absolute;
+left: 2.86%;
+right: 50.71%;
+width: 46.42%;
+top: 56.39%;
+bottom: 22.84%;
+
+/* background: url(Asset 11@4x.png); */
+}

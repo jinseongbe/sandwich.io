@@ -1,0 +1,49 @@
+/* 강소연 Group Identity */
+#canvas
+{
+    position: relative;
+    width: 100%;
+    padding-bottom: 363.78%;
+
+    /* height: 5093px; */
+
+background: #FFFFFF;
+}
+
+
+
+/* 3 */
+.img1
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 11.7%;
+width: 94.28%;
+bottom: 51.64%;
+
+/* background: url(선언a3 포스터.jpg); */
+}
+
+/* 4 */
+.img2
+{position: absolute;
+left: 2.86%;
+right: 26.79%;
+top: 49.3%;
+width: 70.35%;
+bottom: 21.69%;
+
+/* background: url(깃발.jpg); */
+}
+
+/* 5 */
+.img3
+{position: absolute;
+left: 26.79%;
+right: 2.86%;
+top: 78.7%;
+width: 70.35%;
+bottom: 1.96%;
+
+/* background: url(선언 손 copy.png); */
+}

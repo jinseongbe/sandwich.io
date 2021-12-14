@@ -1,8 +1,9 @@
 /* 김조은_컬렉티드북 */
 #canvas{
 position: relative;
-width: 1400px;
-height: 4857px;
+width: 100%;
+padding-bottom: 346.92%;
+/* height: 4857px; */
 
 background: #000000;
 }
@@ -10,10 +11,11 @@ background: #000000;
 /* 널려있는 전시 인쇄물들 */
 #temp1{
 position: absolute;
-width: 843px;
-height: 19px;
-left: 617px;
-top: 2208px;
+width: fit-content;
+left: 44.07%;
+right: -4.29%;
+top: 45.46%;
+bottom: 54.15%;
 
 font-style: normal;
 font-weight: normal;
@@ -28,11 +30,11 @@ color: #FFFFFF;}
 /* 전시 별 메인그래픽을 활용하여 체계 부여 */
 #temp2{
 position: absolute;
-width: 843px;
-height: 19px;
-left: 617px;
-top: 3893px;
-
+width: fit-content;
+left: 44.07%;
+right: -4.29%;
+top: 80.15%;
+bottom: 19.46%;
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
@@ -44,10 +46,12 @@ color: #FFFFFF;}
 /* 3월- 스위스 취리히 박물관 6월- 르네 마그리트 8월- 2020 아시아프 9월- 할머니 우리 할머니, 언리미티드 에디션 10월- UnfoldX, 100 베스테 플라카테, 국립현대미술관 11월- 팀랩, 제로원, 졸전 */
 #temp3{
 position: absolute;
-width: 843px;
-height: 369px;
-left: 847px;
-top: 2520px;
+/* width: 843px; */
+width: 60.21%;
+left: 60.5%;
+right: -20.71%;
+top: 51.88%;
+bottom: 40.52%;
 
 font-style: normal;
 font-weight: normal;
@@ -63,10 +67,13 @@ color: #FFFFFF;
 /* 스크린샷 2021-12-01 오후 11.20 1 */
 .img1{
     position: absolute;
-    width: 1300px;
-    height: 687px;
-    left: 60px;
-    top: 652px;
+    /* width: 1300px; */
+    width: 94.28%;
+    left: 4.29%;
+    right: 2.86%;
+    top: 13.42%;
+    bottom: 72.43%;
+    
     
     /* background: url(스크린샷 2021-12-01 오후 11.20.png); */
     }
@@ -75,10 +82,13 @@ color: #FFFFFF;
 /* 스크린샷 2021-12-01 오후 11.22 1 */
 .img2{
 position: absolute;
-width: 1014px;
-height: 725px;
-left: 192px;
-top: 1415px;
+/* width: 1014px; */
+width: 72.42%;
+left: 13.71%;
+right: 13.86%;
+top: 29.13%;
+bottom: 55.94%;
+
 
 /* background: url(스크린샷 2021-12-01 오후 11.22.png); */
 }
@@ -86,31 +96,36 @@ top: 1415px;
 /* 스크린샷 2021-12-01 오후 11.27 1 */
 .img3{
 position: absolute;
-width: 663px;
-height: 760px;
-left: 101px;
-top: 2298px;
+/* width: 663px; */
+width: 47.25%;
+left: 7.21%;
+right: 45.43%;
+top: 47.31%;
+bottom: 37.04%;
 
 /* background: url(스크린샷 2021-12-01 오후 11.27.png); */
 }
 /* 스크린샷 2021-12-05 오후 1.57 1 */
 .img4{
 position: absolute;
-width: 1319px;
-height: 742px;
-left: 40px;
-top: 3126px;
-
+/* width: 1319px; */
+width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 64.36%;
+bottom: 20.36%;
 /* background: url(스크린샷 2021-12-05 오후 1.57.png); */
 }
 
 /* 스크린샷 2021-12-01 오후 11.25 1 */
 .img5{
 position: absolute;
-width: 969px;
-height: 855px;
-left: 268px;
-top: 3936px;
+/* width: 969px; */
+width: 69.21%;
+left: 19.14%;
+right: 11.64%;
+top: 81.04%;
+bottom: 1.36%;
 
 /* background: url(스크린샷 2021-12-01 오후 11.25.png); */
 }

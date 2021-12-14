@@ -1,0 +1,85 @@
+/* 정하늘_GroupIdentity */
+#canvas
+{position: relative;
+    width: 100%;
+    padding-bottom: 438.35%;
+
+/* height: 6137px; */
+
+background: #FFFFFF;
+}
+
+
+
+/* thumb */
+.img1
+{position: absolute;
+left: 26.79%;
+right: 26.79%;
+top: 9.08%;
+bottom: 80.32%;
+width: 46.42%;
+
+/* background: url(대표이미지_정하늘.png); */
+}
+
+/* 1 */
+.img2
+{position: absolute;
+left: 3.21%;
+right: 2.86%;
+top: 19.68%;
+width: 94.28%;
+bottom: 65.16%;
+
+/* background: url(개봉박두-발전1.png); */
+opacity: 0.1;
+}
+
+/* 2 */
+.img3
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 35.49%;
+width: 94.28%;
+bottom: 49.31%;
+
+/* background: url(개봉박두3.png); */
+}
+
+/* 3 */
+.img4
+{position: absolute;
+left: 3.21%;
+right: 2.86%;
+top: 51.28%;
+width: 94.28%;
+bottom: 33.57%;
+
+/* background: url(개봉박두-발전1.png); */
+}
+
+/* 4 */
+.img5
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+width: 94.28%;
+top: 70.03%;
+bottom: 14.75%;
+
+/* background: url(개봉박두-패턴.png); */
+}
+
+/* sns */
+.img6
+{position: absolute;
+left: 26.79%;
+right: 26.79%;
+top: 87.34%;
+bottom: 1.63%;
+width: 46.42%;
+
+/* background: url(개봉박두-sns.png); */
+}

@@ -1,24 +1,22 @@
 /* 김예은 Collected Book */
 #canvas{
 position: relative;
-width: 1400px;
-height: 4730px;
+width: 100%;
+padding-bottom: 337.85%;
+/* height: 4730px; */
 
 background: #000000;
 }
 
-
-
-
-
-
 /* THUMB_Artboard 4 */
 .img1{
 position: absolute;
-width: 315px;
-height: 650.65px;
-left: 710px;
-top: 624px;
+/* width: 315px; */
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 13.19%;
+bottom: 73.05%;
 
 /* background: url(THUMB_Artboard 4.png); */
 }
@@ -26,10 +24,12 @@ top: 624px;
 /* Artboard 4 copy */
 .img2{
 position: absolute;
-width: 650px;
-height: 650.65px;
-left: 375px;
-top: 1295px;
+/* width: 650px;/ */
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 27.38%;
+bottom: 58.87%;
 
 /* background: url(Artboard 4 copy.png); */
 
@@ -37,10 +37,12 @@ top: 1295px;
 /* Artboard 4 copy 2 */
 .img3{
 position: absolute;
-width: 650px;
-height: 650.65px;
-left: 375px;
-top: 1966px;
+/* width: 650px; */
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 41.56%;
+bottom: 44.68%;
 
 /* background: url(Artboard 4 copy 2.png); */
 }
@@ -48,10 +50,12 @@ top: 1966px;
 /* Artboard 4 copy 3 */
 .img4{
 position: absolute;
-width: 650px;
-height: 650.65px;
-left: 375px;
-top: 2637px;
+/* width: 650px; */
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 55.75%;
+bottom: 30.49%;
 
 /* background: url(Artboard 4 copy 3.png); */
 }
@@ -59,10 +63,12 @@ top: 2637px;
 /* Artboard 4 copy 4 */
 .img5{
 position: absolute;
-width: 315px;
-height: 650.65px;
-left: 375px;
-top: 3308px;
+/* width: 315px; */
+width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 69.94%;
+bottom: 16.31%;
 
 /* background: url(Artboard 4 copy 4.png); */
 
@@ -70,10 +76,12 @@ top: 3308px;
 /* Artboard 4 copy 5 */
 .img6{
 position: absolute;
-width: 650px;
-height: 650.65px;
-left: 375px;
-top: 3979px;
+/* width: 650px; */
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 84.12%;
+bottom: 2.12%;
 
 /* background: url(Artboard 4 copy 5.png); */
 }

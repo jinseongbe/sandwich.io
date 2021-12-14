@@ -1,0 +1,131 @@
+/* 문한얼_Group Identity */
+#canvas
+{position: relative;
+    width: 100%;
+    padding-bottom: 391.14%;
+
+/* height: 5476px; */
+
+background: #FFFFFF;
+}
+
+/* GroupBranding6_SNS */
+.img1
+{
+position: absolute;
+left: 26.79%;
+right: 50.71%;
+width: 22.5%;
+top: 66.03%;
+bottom: 21.55%;
+
+/* background: url(GroupBranding6_SNS.png); */
+}
+
+/* GroupBranding7_SNS */
+.img2
+{position: absolute;
+left: 50.71%;
+width: 22.5%;
+right: 26.79%;
+top: 66.03%;
+bottom: 21.55%;
+
+/* background: url(GroupBranding7_SNS.png); */
+}
+
+
+/* THUMB_GroupBranding */
+.img3
+{position: absolute;
+left: 26.79%;
+width: 46.42%;
+right: 26.79%;
+top: 11.91%;
+bottom: 69.05%;
+
+/* background: url(THUMB_GroupBranding.png); */
+}
+
+/* GroupBranding1 */
+.img4
+{position: absolute;
+left: 50.71%;
+right: 2.86%;
+width: 46.42%;
+top: 32.41%;
+bottom: 59.37%;
+
+/* background: url(GroupBranding1.png); */
+}
+
+/* GroupBranding2 */
+.img5
+{position: absolute;
+left: 2.86%;
+width: 46.42%;
+right: 50.71%;
+top: 32.41%;
+bottom: 59.37%;
+
+/* background: url(GroupBranding2.png); */
+
+}
+/* GroupBranding8_Flag */
+.img6
+{position: absolute;
+left: 2.86%;
+right: 50.71%;
+top: 80.28%;
+bottom: 1.83%;
+
+/* background: url(GroupBranding8_Flag.png); */
+}
+
+/* GroupBranding9_Flag */
+.img7
+{position: absolute;
+left: 50.71%;
+right: 2.86%;
+top: 80.28%;
+bottom: 1.83%;
+
+/* background: url(GroupBranding9_Flag.png); */
+}
+
+/* GroupBranding5 */
+.img8
+{position: absolute;
+left: 2.86%;
+right: 26.79%;
+top: 42.09%;
+width: 70.35%;
+bottom: 47.66%;
+
+/* background: url(GroupBranding5.png); */
+}
+
+/* GroupBranding3 */
+.img9
+{
+position: absolute;
+left: 2.86%;
+right: 50.71%;
+width: 46.42%;
+top: 52.7%;
+bottom: 35.43%;
+
+/* background: url(GroupBranding3.png); */
+}
+
+/* GroupBranding4 */
+.img10
+{position: absolute;
+left: 50.71%;
+right: 2.86%;
+width: 46.42%;
+top: 52.7%;
+bottom: 35.43%;
+
+/* background: url(GroupBranding4.png); */
+}

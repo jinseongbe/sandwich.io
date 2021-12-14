@@ -1,0 +1,234 @@
+/* 정세윤_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 523.28%;
+/* height: 7326px; */
+
+background: #000000;
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 8.15%;
+bottom: 91.85%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 28.75%;
+bottom: 71.25%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 7 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 49.34%;
+bottom: 50.66%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 29.62%;
+bottom: 70.07%;
+
+
+
+color: #FFFFFF;
+}
+
+
+/* book, moving poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 83.21%;
+top: 50.22%;
+bottom: 49.47%;
+
+
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 9.02%;
+bottom: 90.66%;
+
+
+
+color: #FFFFFF;
+}
+
+
+/* 맥시멀리즘의 특징 중, 여러 요소가 합쳐졌을 때 색다른 모습으로 표현되는 것에서 매력을 느껴 죽순과 아르데코 양식을 믹스하였다. 동양적인 식물인 죽순과 서양 양식인 아르데코를 조화롭게 혼합하려 하였다. */
+#d1{
+position: absolute;
+left: 2.86%;
+right: 31.36%;
+top: 30.47%;
+bottom: 68.8%;
+
+
+color: #FFFFFF;
+}
+
+
+/* 우후죽순 고사성어를 주제로 스크립트를 기반으로 무빙 포스터를 대량생산하였다. 시각디자인 1 수업에서 만들었던 10장의 포스터들이 중심축이 되어 새로운 매체로 변환되었다. 각 포스터는 통일된 요소안에서 다양한 모습으로 변주될 수 있도록 하였다. 그 후 포스터들을 설명하는 글과 함께 소책자로 무선제본하였다. 표지에는 무빙포스터를 볼 수 있게 QR코드를 삽입하였고, 각 페이지에는 포스터의 모습과 그에 대한 설명글, QR코드, 변주된 한자타이포의 모습을 번갈아가며 배치하였다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 7.86%;
+top: 51.06%;
+bottom: 47.82%;
+
+
+
+color: #FFFFFF;
+}
+
+
+/* 터 죽순을 주제로 미니멀 포스터로 만들었다. 죽순을 뜻하는 말 중 일본어 竹の子는 대나무의 자식이라는 뜻으로, 죽순을 나타내는 가장 본질적인 표현이라 생각해 미니멀이 보여주는 본질적인 모습을 표현했다. */
+#d3{
+position: absolute;
+left: 2.93%;
+right: 40.57%;
+top: 9.87%;
+bottom: 89.39%;
+
+
+color: #FFFFFF;
+}
+
+
+/* 죽순 미니멀 포스터 */
+#t1{
+position: absolute;
+left: 2.86%;
+right: 81.57%;
+top: 8.56%;
+bottom: 90.99%;
+
+
+color: #FFFFFF;
+
+}
+
+/* 죽순 멕시멀 포스터 */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 81.57%;
+top: 29.17%;
+bottom: 70.38%;
+
+
+color: #FFFFFF;
+}
+
+
+
+
+
+/* THUMB_mn1 */
+.img1{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 12.11%;
+bottom: 75.35%;
+
+/* background: url(THUMB_mn1.png); */
+}
+
+/* THUMB_m1 */
+.img2{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 32.71%;
+bottom: 54.74%;
+
+/* background: url(THUMB_m1.png); */
+}
+
+/* 雨後竹筍 */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 88.86%;
+top: 49.75%;
+bottom: 49.8%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 33px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 2 */
+.img3{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 53.66%;
+bottom: 22.52%;
+
+/* background: url(2.png); */
+}
+
+/* THUMB_js1 */
+.img4{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 77.75%;
+bottom: 12.13%;
+
+/* background: url(THUMB_js1.png); */
+}
+
+/* Rectangle255 */
+.img5{
+position: absolute;
+width: 94.28%;
+height: 10.49%;
+left: 2.86%;
+right: 2.86%;
+top: 88.14%;
+bottom: 1.37%;
+
+/* background: #C4C4C4; */
+}
+

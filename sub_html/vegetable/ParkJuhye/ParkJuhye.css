@@ -1,0 +1,257 @@
+/* 박주혜_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 775.57%;
+/* height: 10858px; */
+
+background: #FFFFFF;
+
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 6.01%;
+bottom: 93.99%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 23.68%;
+bottom: 76.11%;
+
+
+color: #000000;
+
+}
+
+/* Video, Objects */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 87.21%;
+top: 40.27%;
+bottom: 59.51%;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 6.6%;
+bottom: 93.18%;
+
+color: #000000;
+
+}
+
+/* 꽃양배추의 다양한 종들 이름만을 모으고, 형태 또한 모아져 있으니 숲을 연상시켜 맥시멀 포스터로 진행시켰다. */
+#d1{
+position: absolute;
+left: 2.86%;
+right: 41.64%;
+top: 24.25%;
+bottom: 75.51%;
+
+
+color: #000000;
+}
+
+
+/* 야채 중 선택한 꽃양배추를 소재로, 시스템을 제작하는 과제. 꽃양배추가 관상용으로 많이 쓰인다는 점을 반영하여 내가 주로 머무르는 장소들의 사람들로부터 어절들을 모아, 가드닝 하는 과정을 영상으로 표현하였다. 수확물로 어절들을 연결해 끊임없이 문장을 만드는 단어집을 얻었다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 40.85%;
+bottom: 58.68%;
+
+color: #000000;
+}
+
+
+/* White Peacock Ornamental Kale, 꽃양배추를 선택했던 중에, 꽃양배추의 종류 중 하얀공작 종이 있었다. 미니멀 포스터에 어떤게 미니멀한 것일까 고민하다 이름만을 남기는 작업이 가장 본질적이고 미니멀 하다 생각하여 다음과 같은 작업으로 진행시켰다. */
+#d3{
+position: absolute;
+left: 2.93%;
+right: 2.86%;
+top: 7.17%;
+bottom: 92.35%;
+
+color: #000000;
+}
+
+
+/* MAXIMAL POSTER */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 76.43%;
+top: 23.29%;
+bottom: 76.28%;
+
+
+color: #000000;
+}
+
+
+/* GENERATIVE SYSTEM, GARDENING WORD */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 48.86%;
+top: 39.89%;
+bottom: 59.69%;
+
+
+color: #000000;
+}
+
+
+/* MINIMAL POSTER */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 77%;
+top: 6.22%;
+bottom: 93.36%;
+
+
+color: #000000;
+}
+
+
+
+
+/* 11.jpg */
+.img1{
+position: absolute;
+width: 70.35%;
+left: 18.79%;
+right: 18.71%;
+top: 8.92%;
+bottom: 79.67%;
+
+/* background: url(편집-11.png); */
+}
+
+/* 12.jpg */
+.img2{
+position: absolute;
+width: 70.35%;
+left: 18.79%;
+right: 20.64%;
+top: 25.86%;
+bottom: 63.08%;
+
+/* background: url(편집-12.png); */
+}
+
+/* 14.jpg */
+.img3{
+position: absolute;
+width: 94.28%;
+left: 3.79%;
+right: 3.64%;
+top: 51.17%;
+bottom: 41.01%;
+
+/* background: url(편집2-01.png); */
+}
+
+/* 15.jpg */
+.img4{
+position: absolute;
+width: 94.28%;
+left: 3.71%;
+right: 3.71%;
+top: 58.99%;
+bottom: 33.19%;
+
+background: url(편집2-02.png);
+}
+
+/* 13.jpg */
+
+.img5{
+position: absolute;
+width: 70.35%;
+left: 14.29%;
+right: 14.21%;
+top: 42.61%;
+bottom: 49.57%;
+
+background: url(편집2-03.png);
+}
+
+/* Line 8 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 23.09%;
+bottom: 76.91%;
+
+border: 1px solid #000000;
+transform: matrix(0.71, 0, inf, -nan, 0, 0);
+}
+
+/* 18.jpg */
+.img7{
+position: absolute;
+width: 70.35%;
+left: 0%;
+right: 28.71%;
+top: 88.65%;
+bottom: 0.92%;
+
+/* background: url(편집2-05.png); */
+}
+
+/* 17.jpg */
+.img8{
+position: absolute;
+width: 70.35%;
+left: 31.07%;
+right: 0%;
+top: 79.22%;
+bottom: 7.31%;
+
+/* background: url(편집2-06.png); */
+}
+
+/* 16.jpg */
+.img9{
+position: absolute;
+width: 70.35%;
+left: 14.43%;
+right: 14.36%;
+top: 67.58%;
+bottom: 21.98%;
+
+/* background: url(편집2-04.png); */
+}
+
+/* Line 7 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 39.69%;
+bottom: 60.31%;
+
+border: 1px solid #000000;
+}

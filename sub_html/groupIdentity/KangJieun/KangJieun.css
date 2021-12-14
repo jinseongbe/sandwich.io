@@ -1,0 +1,158 @@
+/* 강지은 Group Identity */
+#canvas
+{position: relative;
+    width: 100%;
+    padding-bottom: 286.85%;
+height: 8412px;
+
+background: #FFFFFF;
+}
+
+
+/* 1 */
+.img1
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 7.42%;
+width: 94.28%;
+bottom: 78.09%;
+
+/* background: url(스크린샷 2021-12-02 오후 11.05.png); */
+}
+
+/* a */
+.img2
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 22.15%;
+width: 94.28%;
+bottom: 67.39%;
+
+/* background: url(1.png); */
+}
+
+/* 2 */
+.img3
+{position: absolute;
+left: 2.86%;
+right: 50.71%;
+top: 32.85%;
+width: 46.42%;
+bottom: 56.26%;
+
+/* background: url(2.jpg); */
+}
+
+
+/* 3 */
+.img4
+{position: absolute;
+left: 50.71%;
+right: 26.79%;
+top: 32.85%;
+width: 22.5%;
+bottom: 63.41%;
+
+/* background: url(3.jpg); */
+}
+
+/* 4 */
+.img5
+{position: absolute;
+left: 74.64%;
+right: 2.86%;
+top: 32.85%;
+width: 22.5%;
+bottom: 63.41%;
+
+/* background: url(4.jpg); */
+}
+
+/* 5 */
+.img6
+{position: absolute;
+left: 50.71%;
+right: 26.79%;
+top: 36.83%;
+width: 22.5%;
+bottom: 59.43%;
+
+/* background: url(5.jpg); */
+}
+
+/* 14 */
+.img7
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+width: 94.28%;
+top: 44.7%;
+bottom: 46.48%;
+
+/* background: url(대지 14@4x.png); */
+}
+
+
+
+/* 15 */
+.img8
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+width: 94.28%;
+top: 53.76%;
+bottom: 37.42%;
+
+/* background: url(대지 1@4x.png); */
+}
+
+/* 16 */
+.img9
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+width: 94.28%;
+top: 62.82%;
+bottom: 28.36%;
+
+/* background: url(대지 12@4x.png); */
+}
+
+/* 17 */
+.img10
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+width: 94.28%;
+top: 71.87%;
+bottom: 19.3%;
+
+/* background: url(대지 5@4x.png); */
+}
+
+/* 18 */
+.img11
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+width: 94.28%;
+top: 80.93%;
+bottom: 10.25%;
+
+/* background: url(대지 7@4x.png); */
+}
+
+/* 19 */
+.img12
+{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 89.99%;
+bottom: 1.19%;
+width: 94.28%;
+
+/* background: url(대지 13@4x.png); */
+}

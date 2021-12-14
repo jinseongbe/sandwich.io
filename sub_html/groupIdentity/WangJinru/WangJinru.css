@@ -1,0 +1,89 @@
+/* 왕근여_Group Identity */
+#canvas
+{
+position: relative;
+width: 100%;
+padding-bottom: 450.64%;
+
+/* height: 6309px; */
+
+background: #FFFFFF;
+}
+
+
+
+/* 1 */
+.img1
+{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 10.33%;
+width: 94.28%;
+bottom: 74.89%;
+
+/* background: url(발눈손_왕근여_1.png); */
+
+}
+/* 2 */
+.img2
+{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+width: 94.28%;
+top: 25.42%;
+bottom: 59.8%;
+
+/* background: url(발눈손_왕근여_2.png); */
+}
+
+/* 3 */
+.img3
+{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+width: 94.28%;
+top: 40.51%;
+bottom: 44.71%;
+
+/* background: url(발눈손_왕근여_3.png); */
+}
+
+/* 4 */
+.img4
+{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 55.6%;
+width: 94.28%;
+bottom: 29.62%;
+
+/* background: url(발눈손_왕근여_4.png); */
+
+}
+/* 5 */
+.img5
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+width: 94.28%;
+top: 70.69%;
+bottom: 15.34%;
+
+/* background: url(발눈손_왕근여_5.png); */
+}
+
+/* 6 */
+.img6
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 84.97%;
+bottom: 1.59%;
+width: 94.28%;
+
+/* background: url(발눈손_왕근여_6.png); */
+}

@@ -1,0 +1,199 @@
+/* 조혜지_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 495.78%;
+/* height: 6941px; */
+
+/* background: #FFFFFF; */
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 9.41%;
+bottom: 90.59%;
+
+border: 1px solid #000000;
+
+}
+/* Poster */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 10.33%;
+bottom: 89.34%;
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 32.43%;
+bottom: 67.24%;
+}
+
+
+/* 야채 리서치 과정 중, 고구마 꽃은 희귀하여 행운의 상징임을 알게 되었다. 이를 메시지 대화로 나타냈다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 45.43%;
+top: 11.22%;
+bottom: 88.4%;
+}
+
+
+
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 54.55%;
+bottom: 45.12%;
+}
+
+
+
+/* MINIMAL POSTER */
+#t2{
+position: absolute;
+left: 2.93%;
+right: 77%;
+top: 9.72%;
+bottom: 89.61%;
+}
+
+
+
+/* 고구마의 답답함을 드러내기 위에 쌓여있는 것처럼 연출하면서, ‘고구마 꽃의 희귀함’이란 주제를 이어나갔다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 42.64%;
+top: 33.32%;
+bottom: 66.3%;
+}
+
+
+
+/* ‘고답이’는 고구마처럼 답답한 상황이나 사람을 나타내는 신조어이다. 빼곡하게 나열된 빌딩이 이와 유사하다고 생각하여, 커뮤니티 글을 분석하여 ‘고답이 빌딩숲’을 완성하였다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 43.79%;
+top: 55.44%;
+bottom: 43.78%;
+}
+
+
+/* MAXIMAL POSTER */
+#t1{
+position: absolute;
+left: 2.86%;
+right: 76.43%;
+top: 31.83%;
+bottom: 67.51%;
+}
+
+
+/* GENERATIVE SYSTEM */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 73.36%;
+top: 53.94%;
+bottom: 45.4%;
+}
+
+
+
+
+/* Line 4 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 31.51%;
+bottom: 68.49%;
+
+border: 1px solid #000000;
+}
+
+/* Line 6 */
+.l3{
+position: absolute;
+
+left: 2.86%;
+right: 2.86%;
+top: 53.62%;
+bottom: 46.38%;
+
+border: 1px solid #000000;
+}
+
+/* THUMB_MinimalPoster1 */
+.img1{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 13.96%;
+bottom: 72.81%;
+}
+/* background: url(THUMB_MinimalPoster.png); */
+
+
+/* THUMB_MaximalPoster1 */
+.img2{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 36.06%;
+bottom: 50.7%;
+}
+/* background: url(THUMB_MaximalPoster.png); */
+
+
+/* 2_Generativesystem */
+.img3{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 58.18%;
+bottom: 28.61%;
+}
+/* background: url(2_Generativesystem.png); */
+
+
+/* 3_Generativesystem */
+.img4{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 71.68%;
+bottom: 1.44%;
+}
+/* background: url(3_Generativesystem.png); */
+
+
+/* THUMB_Generativesystem */
+.img5{
+    width: 46.42%;
+position: absolute;
+left: 2.86%;
+right: 50.79%;
+top: 58.18%;
+bottom: 28.58%;
+}
+/* background: url(THUMB_Generativesystem.png); */

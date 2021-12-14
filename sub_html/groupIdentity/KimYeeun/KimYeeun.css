@@ -1,0 +1,72 @@
+/* 김예은 Group Identity */
+#canvas
+{position: relative;
+width: 100%;
+padding-bottom: 431.07%;
+/* height: 6035px; */
+
+background: #FFFFFF;}
+
+
+
+
+/* THUMB_Asset */
+.img1
+{position: absolute;
+left: 26.79%;
+right: 26.79%;
+width: 46.42%;
+top: 9.88%;
+bottom: 77.85%;
+
+/* background: url(THUMB_Asset 34.png); */
+}
+
+
+/* Asset2 */
+.img2
+{position: absolute;
+left: 26.79%;
+right: 26.79%;
+width: 46.42%;
+top: 22.49%;
+bottom: 70.5%;
+/* background: url(Asset 2.png); */
+}
+
+/* Asset47 */
+.img3
+{
+position: absolute;
+left: 26.79%;
+right: 26.79%;
+width: 46.42%;
+top: 29.83%;
+bottom: 45.84%;
+
+/* background: url(Asset 47.png); */
+}
+
+/* flag */
+.img4
+{position: absolute;
+left: 26.79%;
+right: 26.79%;
+width: 46.42%;
+top: 54.5%;
+bottom: 29.35%;
+
+/* background: url(Vertical-Flag-MockupsForFree.png); */
+}
+
+
+/* Asset48 */
+.img5
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+width: 94.28%;
+top: 70.97%;
+bottom: 1.65%;
+/* background: url(Asset 48.png); */
+}

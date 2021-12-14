@@ -1,0 +1,329 @@
+/* 김예은_Vegetable */
+
+#canvas{
+    position: relative;
+    
+    width: 100%;
+    padding-bottom: 814.85%;
+    /* height: 11408px; */
+
+    background: #000000;
+}
+
+
+
+/* Line 5 */
+
+.l1{position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 5.72%;
+bottom: 94.28%;
+
+border: 1px solid #FFFFFF;}
+
+
+/* Poster */
+
+#r1{position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 27.48%;
+bottom: 72.32%;
+
+
+color: #FFFFFF;}
+
+
+
+/* Generative System */
+
+#r3{position: absolute;
+left: 2.86%;
+right: 84.36%;
+top: 39.88%;
+bottom: 59.91%;
+
+
+color: #FFFFFF;}
+
+
+
+/* Poster */
+
+#r2{position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 6.29%;
+bottom: 93.51%;
+
+
+
+color: #FFFFFF;}
+
+
+
+/* 호박은 한 해살이 식물로 1년이라는 작은 시간동안 거대한 열매를 만들어냅니다. 1년단위로 끊어져 있는 달력이라는 매체를 활용해 우리가 일년동안 겪었던 일들을 수집한 이미지 달력을 제작했습니다. */
+
+#d1{position: absolute;
+left: 2.86%;
+right: 37.57%;
+top: 40.43%;
+bottom: 59.1%;
+
+color: #FFFFFF;}
+
+
+
+/* 호박이 복스럽다라는 통념으로부터 출발해 굴러오는 호박, 빛나는 호박을 표현. */
+
+#d2{position: absolute;
+left: 2.93%;
+right: 57.79%;
+top: 6.83%;
+bottom: 92.94%;
+
+
+color: #FFFFFF;}
+
+
+
+/* MAXIMAL POSTER */
+
+#t1{position: absolute;
+left: 2.86%;
+right: 76.43%;
+top: 27.11%;
+bottom: 72.48%;
+
+
+color: #FFFFFF;}
+
+
+
+/* MINIMAL POSTER */
+
+#t2{position: absolute;
+left: 2.93%;
+right: 77%;
+top: 5.92%;
+bottom: 93.68%;
+
+color: #FFFFFF;}
+
+
+
+/* Asset 40 */
+
+.img1{position: absolute;
+    width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 8.02%;
+bottom: 83.93%;
+
+/* background: url(Asset\ 40.png); */
+}
+
+
+/* Asset 41 */
+
+.img2{position: absolute;
+    
+    width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 16.24%;
+bottom: 75.71%;
+
+/* background: url(Asset\ 41.png); */
+}
+
+
+/* Asset 39 1 */
+
+.img3{position: absolute;
+    width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 28.65%;
+bottom: 63.3%;
+
+/* background: url(Asset\ 39\ 1.png); */
+}
+
+
+/* ‘복' 달력 만들기 */
+
+#t3{position: absolute;
+    
+left: 2.86%;
+right: 84.14%;
+top: 39.59%;
+bottom: 60.12%;
+
+color: #FFFFFF;}
+
+
+
+/* THUMB_glOvkT */
+
+.img4{position: absolute;
+    width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 41.87%;
+bottom: 54.87%;
+
+/* background: url(THUMB_glOvkT.png); */
+}
+
+
+/* Asset 12 */
+
+.img5{position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 45.3%;
+bottom: 48.19%;
+
+background: url(Asset\ 12.png);}
+
+
+/* Asset 31 */
+
+.img6{position: absolute;
+    width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 51.98%;
+bottom: 40.29%;
+
+/* background: url(Asset\ 31.png); */
+}
+
+
+/* Asset 29 */
+
+.img7{position: absolute;
+    width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 59.89%;
+bottom: 36.37%;
+
+/* background: url(Asset\ 29.png); */
+}
+
+
+/* Asset 32 */
+
+
+.img8{position: absolute;
+    width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 63.81%;
+bottom: 28.46%;
+
+/* background: url(Asset\ 32.png); */
+}
+
+
+/* Asset 27 */
+
+.img9{position: absolute;
+    width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 71.72%;
+bottom: 24.53%;
+
+/* background: url(Asset\ 27.png); */
+}
+
+
+/* Asset 26 */
+
+.img10{position: absolute;
+    width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 71.73%;
+bottom: 24.52%;
+
+/* background: url(Asset\ 26.png); */
+}
+
+
+/* Asset 33 */
+
+.img11{position: absolute;
+    width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 75.65%;
+bottom: 16.62%;
+
+/* background: url(Asset\ 33.png); */
+}
+
+
+/* Asset 25 */
+
+.img12{position: absolute;
+    width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 83.56%;
+bottom: 12.7%;
+
+/* background: url(Asset\ 25.png); */
+}
+
+
+/* Asset 24 */
+
+.img13{position: absolute;
+    width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 83.56%;
+bottom: 12.7%;
+
+background: url(Asset\ 24.png);}
+
+
+/* Asset 30 */
+
+.img14{position: absolute;
+    width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 87.47%;
+bottom: 4.8%;
+
+background: url(Asset\ 30.png);}
+
+
+/* Line 4 */
+
+.l2{position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 26.92%;
+bottom: 73.08%;
+
+border: 1px solid #FFFFFF;}
+
+
+/* Line 7 */
+
+.l3{position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 39.32%;
+bottom: 60.68%;
+
+border: 1px solid #FFFFFF;}

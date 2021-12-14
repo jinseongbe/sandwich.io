@@ -1,8 +1,9 @@
 /* 강지은 Collected Book */
 #canvas{
 position: relative;
-width: 1400px;
-height: 5086px;
+width: 100%;
+padding-bottom: 362.28%;
+/* height: 5086px; */
 
 background: #FFFFFF;
 }
@@ -11,65 +12,74 @@ background: #FFFFFF;
 /* 1 */
 .img1{
 position: absolute;
-width: 650px;
-height: 870.02px;
-left: 40px;
-top: 648px;
+/* width: 650px; */
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 12.74%;
+bottom: 70.15%;
 
-background: url(1.png);
+/* background: url(1.png); */
 
 }
 /* 2 */
 .img2{
 position: absolute;
-width: 650px;
-height: 864.5px;
-left: 710px;
-top: 648px;
-
-background: url(2.png);
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 12.74%;
+bottom: 70.26%;
+/* background: url(2.png); */
 }
 
 /* 3 */
 .img3{
 position: absolute;
-width: 1320px;
-height: 738.54px;
-left: 40px;
-top: 1538px;
-
-background: url(3.png);
+/* width: 1320px; */
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 30.24%;
+bottom: 55.24%;
+/* background: url(3.png); */
 
 }
 /* 4 */
 .img4{
 position: absolute;
-width: 1320px;
-height: 966.9px;
-left: 40px;
-top: 2297px;
+/* width: 1320px; */
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 45.16%;
+bottom: 35.83%;
 
-background: url(4.png);
+/* background: url(4.png); */
 }
 
 /* 5 */
 .img5{
 position: absolute;
-width: 1320px;
-height: 491.7px;
-left: 40px;
-top: 3284px;
+/* width: 1320px; */
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 64.57%;
+bottom: 25.76%;
 
-background: url(5.png);
+/* background: url(5.png); */
 
 }
 /* Rectangle 256 */
 .img6{
 position: absolute;
-width: 650px;
-height: 1190px;
-left: 40px;
-top: 3796px;
+/* width: 650px; */
+width: 46.23%;
+left: 2.86%;
+right: 50.71%;
+top: 74.64%;
+bottom: 1.97%;
 
 background: #C4C4C4;
 }

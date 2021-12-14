@@ -1,36 +1,35 @@
 /* 강소연 Collected Book */
 #canvas{
 position: relative;
-width: 1400px;
-height: 2339px;
+width: 100%;
+padding-bottom: 167.07%;
+
+/* height: 2339px; */
 
 background: #FFFFFF;
 }
 
 
-
- 
-
-
-
 /* THUMB_collected book */
 .img1{
 position: absolute;
-width: 1320px;
-height: 818.4px;
-left: 40px;
-top: 596px;
-
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 25.48%;
+bottom: 39.53%;
 /* background: url(THUMB_collected book.png); */
 }
 
 /* Asset 11최소규정 */
 .img2{
 position: absolute;
-width: 1320px;
-height: 805.02px;
-left: 40px;
-top: 1434px;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 61.31%;
+bottom: 4.27%;
 
 /* background: url(Asset 11최소규정.png); */
 }
+

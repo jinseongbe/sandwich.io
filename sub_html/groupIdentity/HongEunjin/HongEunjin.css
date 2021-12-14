@@ -1,0 +1,57 @@
+/* 홍은진_Group Identity */
+#canvas
+{position: relative;
+    width: 100%;
+    padding-bottom: 213.14%;
+/* height: 2984px; */
+
+background: #FFFFFF;}
+
+
+/* group1 */
+.img1
+{position: absolute;
+    width: 46.42%;
+left: 2.86%;
+right: 51%;
+top: 19%;
+bottom: 37.6%;
+}
+/* background: url(group1.png);} */
+
+
+
+/* group2 */
+.img2
+{position: absolute;
+    width: 46.42%;
+left: 51%;
+right: 3.21%;
+top: 19%;
+bottom: 37.6%;
+}
+/* background: url(group2.png);} */
+
+
+/* group3 */
+.img3
+{position: absolute;
+    width: 46.42%;
+left: 2.86%;
+right: 51%;
+top: 65.75%;
+bottom: 8.21%;
+}
+/* background: url(group3.png);} */
+
+
+/* group4 */
+.img4
+{position: absolute;
+    width: 46.42%;
+left: 51%;
+right: 3.21%;
+top: 65.75%;
+bottom: 3.89%;
+}
+/* background: url(group4.png);} */

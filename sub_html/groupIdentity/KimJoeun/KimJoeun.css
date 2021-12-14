@@ -1,0 +1,195 @@
+/* 김조은_Group Identity */
+#canvas{
+position: relative;
+/* width: 1400px; */
+width: 100%;
+padding-bottom: 755.85%;
+
+/* height: 10582px; */
+
+background: #000000;
+}
+
+
+
+/* 2 */
+
+.img1{position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 13.37%;
+bottom: 79.94%;
+
+/* background: url(2.png); */
+}
+
+
+/* 1 */
+
+.img2{position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 2.79%;
+top: 6.09%;
+bottom: 86.89%;
+
+/* background: url(1.png); */
+}
+
+
+/* 3 */
+
+.img3{position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 20.25%;
+bottom: 73.06%;
+
+/* background: url(3.png); */
+}
+
+/* 4 */
+
+.img4{position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 3%;
+top: 27.13%;
+bottom: 66.19%;
+
+/* background: url(4.png); */
+}
+
+
+/* 5 */
+
+.img5{position: absolute;
+    width: 94.28%;
+left: 4.29%;
+right: 3%;
+top: 34%;
+bottom: 59.13%;
+
+/* background: url(5.png); */
+}
+
+
+/* 7 */
+
+.img6{position: absolute;
+    width: 94.28%;
+left: 3.57%;
+right: 2.86%;
+top: 48.12%;
+bottom: 45.1%;
+
+/* background: url(7.png); */
+}
+
+
+/* 6 */
+
+.img7{position: absolute;
+    width: 94.28%;
+left: 4.29%;
+right: 3%;
+top: 41.14%;
+bottom: 52.15%;
+
+/* background: url(6.png ); */
+}
+
+
+/* Rectangle 274 */
+
+.img8{position: absolute;
+    width: 100%;
+left: 4.29%;
+right: 86.64%;
+top: 40.58%;
+bottom: 59.13%;
+
+z-index: -1;
+background: #FFFFFF;}
+
+
+/* Rectangle 275 */
+
+.img9{position: absolute;
+    width: 100%;
+left: 0%;
+right: 0%;
+top: 55.85%;
+bottom: 0%;
+z-index: -1;
+
+background: #FFFFFF;}
+
+
+
+
+
+/* 8 */
+
+.img10{position: absolute;
+    width: 46.42%;
+left: 9.14%;
+right: 54.21%;
+top: 60.11%;
+bottom: 36.6%;
+
+/* background: url( 8.png); */
+}
+
+
+/* 9 */
+
+.img11{position: absolute;
+    width: 46.42%;
+left: 47.86%;
+right: 5.71%;
+top: 58.09%;
+bottom: 34.58%;
+
+/* background: url( 9.png); */
+}
+
+
+/* 10 */
+
+.img12{position: absolute;
+    width: 94.28%;
+left: 2.71%;
+right: 3%;
+top: 65.66%;
+bottom: 15.63%;
+
+/* background: url(10.png); */
+}
+
+
+/* 11 */
+
+.img13{position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 84.67%;
+bottom: 8.32%;
+
+/* background: url(11.png); */
+}
+
+/* 12 */
+
+.img14{position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 92.04%;
+bottom: 0.95%;
+
+/* background: url(12.png); */
+}

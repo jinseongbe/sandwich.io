@@ -1,0 +1,62 @@
+/* 이보현_Group Identity */
+#canvas
+{position: relative;
+    width: 100%;
+    padding-bottom: 329.35%;
+
+/* height: 4611px; */
+
+background: #000000;
+}
+
+/* 1 */
+.img1
+{
+position: absolute;
+left: 2.86%;
+right: 50.79%;
+width: 46.42%;
+top: 14.14%;
+bottom: 68.99%;
+
+/* background: url(개봉박두2.png); */
+}
+
+/* thumb */
+.img2
+{position: absolute;
+left: 2.86%;
+right: 50.79%;
+width: 46.42%;
+top: 31.45%;
+bottom: 51.68%;
+
+/* background: url(THUMB_개봉박두.png); */
+}
+
+
+
+/* 4 */
+.img3
+{position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 78.75%;
+bottom: 2.17%;
+width: 94.28%;
+
+/* background: url(개봉박두4.png); */
+}
+
+/* 3 */
+.img4
+{
+position: absolute;
+left: 50.71%;
+right: 2.86%;
+top: 50.08%;
+width: 46.42%;
+bottom: 22.99%;
+
+/* background: url(개봉박두3.png); */
+}

@@ -1,0 +1,186 @@
+/* 강소연_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 408.85%;
+/* height: 5724px; */
+
+background: #FFFFFF;
+}
+
+/* Line 4 */
+.l1{
+position: absolute;
+left: 2.93%;
+right: 2.79%;
+top: 36.3%;
+bottom: 63.7%;
+
+border: 1px solid #000000;
+}
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 62.18%;
+bottom: 37.82%;
+
+border: 1px solid #000000;
+}
+
+/* Line 5 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 10.43%;
+bottom: 89.57%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 37.42%;
+bottom: 62.18%;
+}
+
+
+
+/* 책자 */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 94.64%;
+top: 63.29%;
+bottom: 36.3%;
+}
+
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 11.55%;
+bottom: 88.05%;
+}
+
+
+
+/* 제일 좋아하는 자식새끼입니다. 일단 예쁘잖아요. */
+#d2{
+position: absolute;
+left: 2.93%;
+right: 72.57%;
+top: 38.5%;
+bottom: 61.04%;
+}
+
+
+/* 자, 우리가 양파라고 가정을 해봅시다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 78.29%;
+top: 64.4%;
+bottom: 35.15%;
+}
+
+
+
+/* 안과 안과 안. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 90.43%;
+top: 12.63%;
+bottom: 86.91%;
+}
+
+
+
+/* MAXIMAL */
+#t2{
+position: absolute;
+left: 2.93%;
+right: 85.64%;
+top: 36.69%;
+bottom: 62.51%;
+}
+
+
+
+/* MINIMAL */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 86.29%;
+top: 10.81%;
+bottom: 88.38%;
+}
+
+
+
+/* 당신은 양파입니까? */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 80.93%;
+top: 62.7%;
+bottom: 36.72%;
+}
+
+/* 3 */
+
+.img1{
+    position: absolute;
+    width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 15.01%;
+bottom: 68.93%;
+}
+/* background: url(Asset 3최소규정.png); */
+
+
+/* 4 */
+.img2{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 40.88%;
+bottom: 43.07%;
+}
+/* background: url(Asset 4최소규정.png); */
+
+
+/* 1 */
+.img3{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 66.77%;
+bottom: 17.66%;
+}
+/* background: url(대지 1@4x-100.jpg); */
+
+
+/* 2 */
+.img4{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 82.69%;
+bottom: 1.75%;
+}
+/* background: url(대지 2@4x-100.jpg); */

@@ -1,8 +1,9 @@
 /* 홍은진_컬렉티드북 */
 #canvas{
 position: relative;
-width: 1400px;
-height: 6085px;
+width: 100%;
+padding-bottom: 434.64%;
+/* height: 6085px; */
 
 background: #000000;
 }
@@ -50,10 +51,12 @@ color: #FFFFFF;
 /* collected 1 1 */
 .img1{
 position: absolute;
-width: 985px;
-height: 985px;
-left: 375px;
-top: 652px;
+/* width: 985px; */
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 10.71%;
+bottom: 73.1%;
 
 /* background: url(collected 1.png); */
 
@@ -61,10 +64,12 @@ top: 652px;
 /* collected 2 */
 .img2{
 position: absolute;
-width: 985px;
-height: 985px;
-left: 40px;
-top: 1657px;
+/* width: 985px; */
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 27.23%;
+bottom: 56.58%;
 
 /* background: url(collected 2.png); */
 }
@@ -72,10 +77,12 @@ top: 1657px;
 /* collected 4 */
 .img3{
 position: absolute;
-width: 985px;
-height: 985px;
-left: 375px;
-top: 3995px;
+/* width: 985px; */
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 65.65%;
+bottom: 18.16%;
 
 /* background: url(collected 4.png); */
 }
@@ -83,10 +90,12 @@ top: 3995px;
 /* collected 5 */
 .img4{
 position: absolute;
-width: 985px;
-height: 985px;
-left: 40px;
-top: 5000px;
+/* width: 985px; */
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 82.17%;
+bottom: 1.64%;
 
 /* background: url(collected 5.png); */
 }
@@ -94,10 +103,11 @@ top: 5000px;
 /* collected 3 */
 .img5{
 position: absolute;
-width: 1315px;
-height: 1315px;
-left: 43px;
-top: 2660px;
+width: 94.28%;
+left: 3.07%;
+right: 3%;
+top: 43.71%;
+bottom: 34.68%;
 
 /* background: url(collected 3.png); */
 }

@@ -1,0 +1,145 @@
+/* 성슬기_Group Identity */
+#canvas
+{position: relative;
+    width: 100%;
+    padding-bottom: 389.5%;
+
+/* height: 5453px; */
+
+background: #000000;
+
+}
+/* 10396 */
+.img1
+{
+    position: absolute;
+left: 2.86%;
+right: 50.71%;
+top: 34.09%;
+width: 46.42%;
+bottom: 53.99%;
+
+/* background: url(6.png); */
+
+}
+/* 10397 */
+.img2
+{position: absolute;
+left: 2.86%;
+right: 73.21%;
+width: 22.5%;
+top: 46.36%;
+bottom: 42.97%;
+
+/* background: url(6.png); */
+}
+
+/* 10392 */
+.img3
+{position: absolute;
+left: 50.71%;
+right: 2.86%;
+top: 11.96%;
+width: 46.42%;
+bottom: 71.15%;
+
+/* background: url(6.png); */
+}
+
+/* 10393 */
+.img4
+{position: absolute;
+left: 50.71%;
+right: 2.86%;
+width: 46.42%;
+top: 41.5%;
+bottom: 43.48%;
+
+/* background: url(6.png); */
+
+}
+/* 10395 */
+.img5
+{position: absolute;
+left: 50.71%;
+right: 2.86%;
+top: 29.21%;
+bottom: 58.87%;
+width: 46.42%;
+/* background: url(6.png); */
+}
+
+/* THUMB_6 */
+.img6
+{position: absolute;
+left: 2.93%;
+right: 50.71%;
+top: 16.87%;
+width: 46.42%;
+bottom: 66.28%;
+
+/* background: url(THUMB_6.png); */
+}
+
+
+
+/* 10400 */
+.img7
+{position: absolute;
+left: 50.71%;
+right: 2.86%;
+top: 57.99%;
+width: 46.42%;
+bottom: 25.12%;
+
+/* background: url(6.png); */
+}
+
+/* 10398 */
+.img8
+{position: absolute;
+left: 50.71%;
+right: 2.86%;
+width: 46.42%;
+top: 75.24%;
+bottom: 12.84%;
+
+/* background: url(6.png); */
+}
+
+/* 10399 */
+.img9
+{position: absolute;
+left: 2.86%;
+right: 50.71%;
+top: 79.46%;
+width: 46.42%;
+bottom: 8.64%;
+
+/* background: url(6.png); */
+
+}
+/* 10401 */
+.img10
+{position: absolute;
+left: 50.71%;
+right: 25.36%;
+top: 87.53%;
+width: 22.5%;
+bottom: 1.83%;
+
+/* background: url(6.png); */
+}
+
+/* THUMB_6.2_Group_1 */
+.img11
+{
+position: absolute;
+left: 2.86%;
+right: 50.71%;
+width: 46.42%;
+top: 67.16%;
+bottom: 20.91%;
+
+/* background: url(THUMB_6.2_Group_1.png); */
+}

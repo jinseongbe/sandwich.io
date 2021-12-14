@@ -1,0 +1,243 @@
+/* 송혜주_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 552.21%;
+/* height: 7731px; */
+
+background: #FFFFFF;
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 8.45%;
+bottom: 91.55%;
+
+border: 1px solid #000000;
+}
+
+/* Line 7 */
+.l2{
+position: absolute;
+left: 2.93%;
+right: 2.79%;
+top: 28.21%;
+bottom: 71.79%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 29.04%;
+bottom: 70.66%;
+}
+
+
+
+
+/* Generative System */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 84.36%;
+top: 48.79%;
+bottom: 50.91%;
+}
+
+
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 9.27%;
+bottom: 90.43%;
+}
+
+
+
+/* 콩의 의성어 의태어로의 확장, 사방으로 통통 튀는 움직임을 이용하여 Maximal 포스터를 제작해 보았다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 44.79%;
+top: 29.84%;
+bottom: 69.82%;
+}
+
+
+
+/* 콩의 소리, 콩의 넝쿨지지대를 반영한 시스템을 따라 콩의 언어체계를 구성해보았다. 알파벳이 조합되어 단어가 되는시스템이 블록이 쌓아올려 구조물이 되는 과정과 비슷하다고 생각하여 콩 블록으로 완성했다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 15.36%;
+top: 49.59%;
+bottom: 49.71%;
+}
+
+
+
+
+/* 미니멀은 작가가 보여주고 싶은 부분만을 집중적으로 보여주는 것이라고 생각했다. 이런 미니멀의 의미와 콩이 많은 속담에서 중요한 곡식, 작은 것, 팥과 다른 곡식 이라는 의미를 함축하고 있는것이 비슷하다고 생각하여 보여주고싶은 부분만 함축적으로 보여주는 미니멀 포스터를 제작하였다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 7.57%;
+top: 10.08%;
+bottom: 89.25%;
+}
+
+
+
+
+/* Bean Maximal Poster */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 73.57%;
+top: 28.5%;
+bottom: 70.91%;
+}
+
+
+
+
+/* BE AN BEAN */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 83%;
+top: 48.25%;
+bottom: 51.16%;
+}
+
+
+/* Bean Minimal Poster */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 74.43%;
+top: 8.73%;
+bottom: 90.67%;
+}
+
+
+
+/* Line 10 */
+.l3{
+position: absolute;
+left: 2.14%;
+right: 3.57%;
+top: 47.96%;
+bottom: 52.04%;
+border: 1px solid #000000;
+}
+
+
+
+
+/* mini2 */
+.img1{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 12.53%;
+bottom: 75.55%;
+
+/* background: url(미니멀 2.png); */
+}
+
+/* mini22 */
+.img2{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 12.53%;
+bottom: 75.57%;
+
+/* background: url(bean1_circle.png); */
+}
+
+/* box */
+.img3{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 52.05%;
+bottom: 40.93%;
+
+/* background: url(알파벳박스.png); */
+}
+
+/* box.1 */
+.img4{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 52.05%;
+bottom: 40.93%;
+
+/* background: url(블록 2.png); */
+}
+
+/* THUMB_maxi_1 */
+.img5{
+position: absolute;
+width: 46.42%;
+left: 50.93%;
+right: 2.64%;
+top: 32.3%;
+bottom: 55.81%;
+
+/* background: url(THUMB_maxi_1.png); */
+}
+
+/* maximal2 */
+.img6{
+    width: 46.42%;
+position: absolute;
+left: 2.93%;
+right: 50.5%;
+top: 32.3%;
+bottom: 55.81%;
+
+/* background: url(maximal2.png); */
+}
+
+/* poster.jpg */
+.img7{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 60.11%;
+bottom: 15.02%;
+
+/* background: url(콩 언어 검.png); */
+}
+
+/* block.jpg */
+.img8{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 85.14%;
+bottom: 1.32%;
+
+/* background: url(블록 1.png); */
+}

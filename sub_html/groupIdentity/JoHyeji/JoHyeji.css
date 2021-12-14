@@ -1,0 +1,61 @@
+/* 조혜지_Group Identity */
+#canvas
+{
+    position: relative;
+    width: 100%;
+    padding-bottom: 286.85%;
+
+/* height: 4016px; */
+
+background: #000000;}
+
+
+
+
+/* THUMB_GroupIdentity */
+.img1
+{position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 16.24%;
+bottom: 64.02%;
+}
+/* background: url(THUMB_GroupIdentity.png);} */
+
+
+/* 2_GroupIdentity */
+.img2
+{position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 36.48%;
+bottom: 41.58%;
+}
+/* background: url(2_GroupIdentity.png);} */
+
+
+/* 3_GroupIdentity */
+.img3
+{position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 60.41%;
+bottom: 13.3%;
+}
+/* background: url(3_GroupIdentity.png);} */
+
+
+/* 4_GroupIdentity */
+.img4
+{position: absolute;
+    width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 88.7%;
+bottom: 2.49%;
+}
+/* background: url(4_GroupIdentity.png);} */
+

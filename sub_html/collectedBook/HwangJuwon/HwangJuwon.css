@@ -1,8 +1,9 @@
 /* 황주원_컬렉티드북 */
 #canvas{
 position: relative;
-width: 1400px;
-height: 4317px;
+width: 100%;
+padding-bottom: 308.35%;
+/* height: 4317px; */
 
 background: #000000;
 
@@ -14,10 +15,12 @@ background: #000000;
 /* 황주원 collected book3 */
 .img1{
 position: absolute;
-height: 626px;
-width: 1320px;
-/* left: 1360px; */
-top: 3370px;
+/* width: 1320px; */
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 82.26%;
+bottom: 3.24%;
 
 /* background: url(황주원 collected book3.png); */
 /* transform: rotate(90deg); */
@@ -26,10 +29,12 @@ top: 3370px;
 /* 황주원 collected book1 */
 .img2{
 position: absolute;
-width: 1302px;
-height: 928px;
-left: 40px;
-top: 652px;
+/* width: 1302px; */
+width: 94.28%;
+left: 2.86%;
+right: 4.14%;
+top: 15.1%;
+bottom: 63.4%;
 
 /* background: url(황주원 collected book1.png); */
 }
@@ -37,10 +42,12 @@ top: 652px;
 /* 황주원 collected book2 */
 .img3{
 position: absolute;
-height: 1761px;
-width: 1320px;
-/* left: 1360px; */
-top: 1580px;
+/* width: 1320px; */
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 38.45%;
+bottom: 20.76%;
 
 /* background: url(황주원 collected book2.png); */
 /* transform: rotate(90deg); */

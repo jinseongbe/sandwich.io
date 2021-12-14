@@ -1,0 +1,68 @@
+/* 황주원_Group Identity */
+#canvas
+{position: relative;
+width: 100%;
+padding-bottom: 332%;
+/* height: 4648px; */
+
+background: #000000;}
+
+
+/* 14 */
+.img1
+{position: absolute;
+    width: 71.42%;
+left: 14.29%;
+right: 14.29%;
+top: 14.03%;
+bottom: 41.74%;
+}
+/* background: url(14.png);} */
+
+
+/* 15 */
+.img2
+{position: absolute;
+    width: 71.42%;
+left: 14.29%;
+right: 14.29%;
+top: 59.01%;
+bottom: 8.71%;
+}
+/* background: url(15.png);} */
+
+
+/* 2 */
+.img3
+{position: absolute;
+    width: 24.12%;
+left: 24.64%;
+right: 51.21%;
+top: 92.08%;
+bottom: 2.15%;
+}
+/* background: url(2.png);} */
+
+
+/* 3 */
+.img4
+{position: absolute;
+    width: 24.12%;
+left: 48.79%;
+right: 27%;
+top: 92.08%;
+bottom: 2.15%;
+}
+/* background: url(3.png);} */
+
+
+/* 4 */
+.img5
+{position: absolute;
+    width: 24.12%;
+left: 73%;
+right: 2.86%;
+top: 92.08%;
+bottom: 2.15%;
+}
+/* background: url(4.png);} */

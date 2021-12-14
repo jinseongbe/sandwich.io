@@ -1,8 +1,9 @@
 /* 황보나현_Collected Book */
 #canvas{
 position: relative;
-width: 1400px;
-height: 4300px;
+width: 100%;
+padding-bottom: 307.14%;
+/* height: 4300px; */
 
 background: #000000;
 }
@@ -10,10 +11,11 @@ background: #000000;
 /* 상세페이지ai에 있는 사진 1 */
 .img1{
 position: absolute;
-width: 1310px;
-height: 3552px;
-left: 50px;
-top: 652px;
+width: 94.28%;
+left: 3.57%;
+right: 2.86%;
+top: 15.19%;
+bottom: 2.05%;
 
 /* background: url(상세페이지ai에 있는 사진.png); */
 }

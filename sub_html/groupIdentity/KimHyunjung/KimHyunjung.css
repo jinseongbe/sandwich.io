@@ -1,0 +1,35 @@
+/* 김현정_Group Identity */
+#canvas
+{position: relative;
+    width: 100%;
+    padding-bottom: 267.35%;
+
+/* height: 3743px; */
+
+background: #000000;
+}
+
+
+/* Artboard25 */
+.img1
+{position: absolute;
+left: 2.86%;
+right: 3%;
+width: 94.28%;
+top: 17.42%;
+bottom: 60.75%;
+
+/* background: url(Artboard 25.png); */
+}
+
+/* Artboard26 */
+.img2
+{position: absolute;
+left: 2.86%;
+right: 3%;
+width: 94.28%;
+top: 39.78%;
+bottom: 2.67%;
+
+/* background: url(Artboard 26.png); */
+}

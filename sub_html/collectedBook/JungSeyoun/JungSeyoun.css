@@ -1,8 +1,9 @@
 /* 정세윤 Collected Book */
 #canvas{
 position: relative;
-width: 1400px;
-height: 2597px;
+width: 100%;
+padding-bottom: 184.78%;
+/* height: 2597px; */
 
 background: #000000;
 }
@@ -11,10 +12,10 @@ background: #000000;
 /* THUMB_ccb */
 .img1{
 position: absolute;
-width: 1320px;
-height: 1901.46px;
-left: 40px;
-top: 596px;
-
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 22.95%;
+bottom: 3.83%;
 /* background: url(THUMB_ccb.png); */
 }

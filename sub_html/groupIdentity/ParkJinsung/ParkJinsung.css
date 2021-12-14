@@ -1,0 +1,72 @@
+/* 박진성_Group Identity */
+#canvas
+{position: relative;
+    width: 100%;
+    padding-bottom: 328.78%;
+
+/* height: 4603px; */
+
+background: #FFFFFF;
+}
+
+
+/* 1 */
+.img1
+{position: absolute;
+left: 2.86%;
+right: 26.93%;
+top: 14.16%;
+width: 70.35%;
+bottom: 70.74%;
+
+/* background: url(group1.png); */
+}
+
+
+/* 2 */
+.img2
+{position: absolute;
+left: 50.71%;
+right: 2.86%;
+width: 46.42%;
+top: 29.7%;
+bottom: 54.12%;
+
+/* background: url(group2.png); */
+}
+
+/* 3 */
+.img3
+{position: absolute;
+left: 2.86%;
+right: 50.79%;
+width: 46.42%;
+top: 42.45%;
+bottom: 36.37%;
+
+/* background: url(group4.png); */
+}
+
+/* 4 */
+.img4
+{position: absolute;
+left: 26.93%;
+right: 2.86%;
+top: 64.07%;
+width: 70.35%;
+bottom: 21.7%;
+
+/* background: url(group3.png); */
+}
+
+/* THUMB_group */
+.img5
+{position: absolute;
+left: 2.86%;
+width: 94.28%;
+right: 2.86%;
+top: 78.73%;
+bottom: 2.17%;
+
+/* background: url(THUMB_group.png); */
+}
