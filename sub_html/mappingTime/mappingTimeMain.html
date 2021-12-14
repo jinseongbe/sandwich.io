@@ -3,18 +3,22 @@
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="../mainPageStyle.css">
-        <link rel="stylesheet" href="css/navigationStyle.css">
-        <script type="text/javascript" src="js/pageMove.js"></script>                
-        <script type="text/javascript" src="js/iframeChange.js"></script> 
+        <script type="text/javascript" src="../../js/pageMove.js"></script>                
+        <script type="text/javascript" src="../../js/iframeChange.js"></script> 
+        <script type="text/javascript" src="../../js/rand.js"></script> 
 
     </head>
 
     <body>
         <div class="randContainer">
-
-            <img id="first" src="KimJoeun/연습용.gif">
-
+            
+            <script >
+                document.write( '<img src="random/'+random2(11)+'.jpg" class="randimg">');
+            </script>
+    
         </div>
+
+    
         
     </body>
 </html>

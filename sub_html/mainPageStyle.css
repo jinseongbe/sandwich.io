@@ -2,9 +2,10 @@
 html{
     margin: 0;
     position: relative;
-    width: 1400px;
+    width: 100%;
     -ms-overflow-style: none; /* IE and Edge */
     scrollbar-width: none; /* Firefox */   
+    
 }
 
 
@@ -12,16 +13,24 @@ html::-webkit-scrollbar {
     display: none; /* Chrome, Safari, Opera*/
 }
 
-
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    /* height: 100%; */
+}
 
 .randContainer{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vw;
-    height: 100vh;
 }
 
-#first{
-    height: 800px;
+
+.randimg{
+    position: relative;
+    top: 50px;
+    height: 90vh;
 }
