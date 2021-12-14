@@ -1,0 +1,682 @@
+/* 김조은_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 1323%;
+/* height: 18522px; */
+
+background: #000000;
+}
+
+/* Rectangle 273 */
+.box{
+position: absolute;
+width: 100%;
+left: 0%;
+right: 0%;
+top: 39.73%;
+bottom: 0%;
+z-index: -1;
+
+background: #FFFFFF;
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 3.53%;
+bottom: 96.47%;
+
+border: 1px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Line 8 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 13.03%;
+bottom: 86.97%;
+
+border: 1px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 13.37%;
+bottom: 86.5%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 40.23%;
+bottom: 59.65%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 3.87%;
+bottom: 96%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* 맥시멀리즘은 앞선 미니멀리즘과는 다르게 작가의 주관이 가득가득 들어갔다고 생각합니다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 49.71%;
+top: 13.71%;
+bottom: 85.9%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+/* 옥수수의 대표적인 특징은 “변화무쌍함"이라고 생각했고 이를 바탕으로 제너러티브 시스템을 만들었다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 45.64%;
+top: 40.56%;
+bottom: 59.3%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* 1. 옥수수의 탄생 과정 2. 옥수수의 맛 */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 85.93%;
+top: 4.21%;
+bottom: 95.5%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* MAXIMAL POSTER */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 76.43%;
+top: 13.15%;
+bottom: 86.61%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+/* CORN SYSTEM */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 80.64%;
+top: 40%;
+bottom: 59.75%;
+color: #000000;
+}
+
+
+/* MINIMAL POSTER */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 77%;
+top: 3.64%;
+bottom: 96.11%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+/* 미니멀리즘에 대한 여러 해석 작가의 주관을 배제하고 사물의 고유헌 특성을 제시하는 것. 목적에만 부합하는 최소한의 요소들만 남기는 것. 또는 중요한 것만 그리는 심플한 아름다움이다 등등 2. 나의 해석 어느 주관적인 감정의 표출이나 장식적인 것들을 배제하고 대상의 "본질"만을 표현하는 본질에 가까워지고자 한 표현방식 3. 스타일 우리가 흔히 '미니멀리즘' 하면 생각나는 '흰 배경에 물체 배치하기', '글자만 심플하게 배치하기', '도형으로 단순화하기' 등은 결국 수단으로서의 스타일일 뿐이라고 생각했다. 그래서 포스터를 만들 때도 스타일을 따라하는 데 집중하기보다는 대상의 본질만을 표현하는 데에 집중하려고 했다. */
+#txt1{
+position: absolute;
+left: 23.71%;
+right: 23%;
+top: 10.7%;
+bottom: 87.57%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* <SCRIPT> */
+#txt3{
+position: absolute;
+left: 47.14%;
+right: 35%;
+top: 47.51%;
+bottom: 52.25%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <CORN PACKAGE> */
+#txt4{
+position: absolute;
+left: 44.36%;
+right: 37.79%;
+top: 53.9%;
+bottom: 45.85%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* 옥수수는 변화무쌍합니다. 옥수수 종에는 여러 종류가 있으며 각 종류 별 수분 함량, 당분 함량, 껍데기의 단단함 등이 모두 다르고, 이 여러 요소들은 또 온도, 압력, 조리 방식, 추가 재료 등의 외부 요소들과 함께 다양하게 조합되어 팝콘이 되기도, 강냉이가 되기도, 스프가 되기도, 스위트 콘이 되기도 합니다. 팝콘을 예로 들어 봅시다. 옥수수 내부의 수분과 유분은 외부에 의해 가열되어 수증기로 변화하고, 이에 내부 압력이 계속 올라가게 되면, 옥수수가 빵 터지면서 내부의 단백질과 전분이 거품으로 올라오며, 그게 순식간에 굳으면서 팝콘이 탄생합니다. */
+#txt2{
+position: absolute;
+left: 23.07%;
+right: 22.86%;
+top: 46.4%;
+bottom: 52.76%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #000000;
+}
+
+
+/* 투명 스티커/ 아트지 스티커 제작 */
+#txt6{
+position: absolute;
+left: 29.57%;
+right: 34%;
+top: 73.7%;
+bottom: 26.09%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #000000;
+}
+
+
+/* 매끈한 종이보다는 재질감이 조금 느껴지는 종이가 옥수수와 잘 어울린다고 생각해서 선택 */
+#txt7{
+position: absolute;
+left: 24.5%;
+right: 24.43%;
+top: 82.73%;
+bottom: 16.91%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #000000;
+}
+
+
+/* 설문조사 때 참가들이 적어주신 닉네임을 활용한 네임카드 제작 */
+#txt5{
+position: absolute;
+left: 55.86%;
+right: 7.71%;
+top: 66.68%;
+bottom: 33.11%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #000000;
+}
+
+
+/* 0 */
+.img1{
+position: absolute;
+width: 77.21%;
+left: 11.43%;
+right: 11.36%;
+top: 41.59%;
+bottom: 54.09%;
+
+/* background: url(스크린샷 2021-12-01 오후 11.50.png); */
+}
+
+/* book */
+.img2{
+position: absolute; 
+width: 54.85%;
+left: 23.29%;
+right: 21.86%;
+top: 74.13%;
+bottom: 21.72%;
+
+/* background: url(책-01.png); */
+}
+
+/* 7 */
+.img3{
+position: absolute;
+width: 56.07%;
+left: 2.86%;
+right: 41.07%;
+top: 25%;
+bottom: 69.61%;
+
+/* background: url(스크린샷 2021-12-01 오후 11.49.png); */
+
+}
+
+/* 8 */
+.img4{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 3%;
+top: 30.55%;
+bottom: 66.86%;
+
+/* background: url(스크린샷 2021-12-01 오후 11.49.png); */
+/* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+
+}
+/* 0_1 */
+.img5{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 3.14%;
+top: 54.25%;
+bottom: 40.41%;
+
+/* background: url(KakaoTalk_Photo_2021-12-01-16-53-53.jpg); */
+}
+
+/* 0_8 */
+.img6{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 68.46%;
+bottom: 26.53%;
+
+/* background: url(스크린샷 2021-12-02 오전 12.35.png); */
+}
+
+/* _3 */
+.img7{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 83.23%;
+bottom: 11.43%;
+
+/* background: url(목업_3.jpg); */
+}
+
+/* _4 */
+.img8{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 88.67%;
+bottom: 5.99%;
+
+/* background: url(목업_14.jpg); */
+}
+
+/* _5 */
+.img9{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 94.12%;
+bottom: 0.54%;
+
+/* background: url(수정목업.jpg); */
+}
+
+/* 10 */
+.img10{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 33.3%;
+bottom: 61.74%;
+
+/* background: url(편집최종2.jpg); */
+/* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+}
+
+/* 9 */
+.img11{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 33.3%;
+bottom: 61.74%;
+
+/* background: url(중간최종2.jpg); */
+/* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+}
+
+/* 2 */
+.img12{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 5.23%;
+bottom: 89.8%;
+
+/* background: url(중간최종2.jpg); */
+/* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+}
+
+/* 3 */
+.img13{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 14.73%;
+bottom: 80.31%;
+
+/* background: url(편집최종2.jpg); */
+/* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+
+}
+/* 4 */
+.img14{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 19.8%;
+bottom: 78.79%;
+
+/* background: url(스크린샷 2021-12-01 오후 11.48.png); */
+/* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+}
+
+/* 0_2 */
+.img15{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 59.7%;
+bottom: 37.67%;
+
+/* background: url(KakaoTalk_Photo_2021-06-16-12-34-04.jpg); */
+}
+
+/* 0_3 */
+.img16{
+position: absolute;
+width: 49.35%;
+left: 47.79%;
+right: 2.86%;
+top: 59.7%;
+bottom: 37.67%;
+
+/* background: url(스크린샷 2021-12-02 오전 12.34.png); */
+
+}
+/* 0_6 */
+.img17{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 62.74%;
+bottom: 35.42%;
+
+/* background: url(스크린샷 2021-12-02 오전 12.34.png); */
+}
+
+/* book1 */
+.img18{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 78.6%;
+bottom: 17.4%;
+
+/* background: url(스크린샷 2021-12-02 오전 12.36.png); */
+}
+
+/* bool2 */
+.img19{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.93%;
+top: 78.6%;
+bottom: 17.4%;
+
+/* background: url(스크린샷 2021-12-02 오전 12.36.png); */
+}
+
+/* 1 */
+.img20{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.57%;
+top: 5.23%;
+bottom: 89.8%;
+
+/* background: url(맛 최종.jpg); */
+/* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+}
+
+/* 0_7 */
+.img21{
+position: absolute;
+width: 46.42%;
+left: 51%;
+right: 2.86%;
+top: 64.69%;
+bottom: 33.47%;
+
+/* background: url(스크린샷 2021-12-02 오전 12.34.png); */
+}
+
+/* 6 */
+.img22{
+position: absolute;
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 23.19%;
+bottom: 75.16%;
+
+/* background: url(스크린샷 2021-12-07 오전 1.27.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+}
+
+/* 5 */
+.img23{
+position: absolute;
+width: 70.35%;
+left: 0%;
+right: 29.79%;
+top: 21.32%;
+bottom: 76.92%;
+
+/* background: url(스크린샷 2021-12-07 오전 1.22.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+}
+
+/* 00 */
+.img24{
+position: absolute;
+left: 25.64%;
+right: 49.93%;
+top: 47.75%;
+bottom: 46.46%;
+
+/* background: url(알갱이노랑-02.jpg); */
+}
+
+/* 000 */
+.img25{
+position: absolute;
+left: 50.07%;
+right: 25.57%;
+top: 47.75%;
+bottom: 46.46%;
+
+/* background: url(알갱이노랑-04.jpg); */
+}
+
+/* 0_4 */
+.img26{
+position: absolute;
+left: 2.14%;
+right: 73.86%;
+top: 62.67%;
+bottom: 31.65%;
+
+/* background: url(알갱이검정-03.jpg); */
+}
+
+/* 0_5 */
+.img27{
+position: absolute;
+left: 26.14%;
+right: 50%;
+top: 62.67%;
+bottom: 31.65%;
+
+/* background: url(알갱이검정-05.jpg); */
+}

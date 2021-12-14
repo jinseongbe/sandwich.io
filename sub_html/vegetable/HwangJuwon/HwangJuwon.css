@@ -1,0 +1,277 @@
+/* 황주원_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 448.28%;
+/* height: 6276px; */
+
+background: #000000;
+}
+
+/* 4-100 1 */
+.img1{
+position: absolute;
+left: 24.79%;
+right: 25.07%;
+top: 15.44%;
+bottom: 68.75%;
+
+/* background: url(ㄱㅊ4-100.png); */
+}
+
+/* shape */
+.img2{
+position: absolute;
+width: 46.42%;
+left: 22.07%;
+right: 22.64%;
+top: 43.48%;
+bottom: 39.09%;
+
+/* background: url(color shape texture identity-100.png); */
+}
+
+/* gener */
+.img3{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 70.73%;
+bottom: 21.94%;
+
+/* background: url(황주원 gener.png); */
+}
+
+/* generer */
+.img4{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 70.73%;
+bottom: 21.94%;
+
+/* background: url(황주원 generer.png); */
+
+}
+/* gene */
+.img5{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50%;
+top: 86.14%;
+bottom: 3.35%;
+
+/* background: url(황주원 gene.png); */
+}
+
+/* gene2 */
+.img6{
+position: absolute;
+width: 46.42%;
+left: 50%;
+right: 2.86%;
+top: 86.14%;
+bottom: 3.35%;
+
+/* background: url(황주원 gene2.png); */
+}
+
+/* hongxture-100 */
+.img7{
+position: absolute;
+width: 23.57%;
+left: 2.86%;
+right: 73.57%;
+top: 78.38%;
+bottom: 14.18%;
+
+/* background: url(황주원 hongxture-100.png); */
+}
+
+/* jwexture-100 */
+.img8{
+position: absolute;
+width: 23.57%;
+left: 26.43%;
+right: 50%;
+top: 78.38%;
+bottom: 14.18%;
+
+/* background: url(황주원 jwexture-100.png); */
+}
+
+/* kyuxture-100 */
+.img9{
+position: absolute;
+width: 23.57%;
+left: 50%;
+right: 26.43%;
+top: 78.38%;
+bottom: 14.18%;
+
+/* background: url(황주원 kyuxture-100.png); */
+}
+
+/* yexture-100 */
+.img10{
+position: absolute;
+width: 23.57%;
+left: 73.57%;
+right: 2.86%;
+top: 78.38%;
+bottom: 14.18%;
+
+/* background: url(황주원 yexture-100.png); */
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 10.4%;
+bottom: 89.6%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 7 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 38.45%;
+bottom: 61.55%;
+
+border: 1px solid #FFFFFF;
+}
+
+
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 39.47%;
+bottom: 60.17%;
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 66.71%;
+bottom: 32.92%;
+
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 11.42%;
+bottom: 88.21%;
+
+
+color: #000000;
+}
+
+
+/* 맥시멀리즘은 앞선 미니멀리즘과는 다르게 작가의 주관이 가득가득 들어갔다고 생각합니다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 49.71%;
+top: 40.46%;
+bottom: 58.38%;
+
+color: #FFFFFF;
+}
+
+
+/* 참여자들이 직접 각기 다른 종류의 고추 텍스트를 보고 떠오르는 색과 질감을 직접 페 인팅한 것들을 수집하여 각 개인의 페퍼 텍스쳐를 제작해 f제공한다. 붉은 색인줄만 알았던 고추에게도 다양한 텍스쳐가 있 음을 알려주는 프로젝트. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 20.64%;
+top: 67.7%;
+bottom: 31.44%;
+
+color: #FFFFFF;
+}
+
+
+/* 미니멀리즘이란 가장 단순하고 적은 요소를 사용하여 최대의 효과를 창출하는 것이다 . 고추의 한글 초성으로 그 형태를 표현했다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 32.71%;
+top: 12.41%;
+bottom: 87.17%;
+
+
+color: #FFFFFF;
+}
+
+
+/* MAXIMAL POSTER */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 76.43%;
+top: 38.8%;
+bottom: 60.47%;
+
+
+color: #FFFFFF;
+}
+
+
+/* GENERATIVE SYSTEM */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 73.36%;
+top: 66.05%;
+bottom: 33.22%;
+
+
+color: #FFFFFF;
+}
+
+
+/* MINIMAL POSTER */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 77%;
+top: 10.76%;
+bottom: 88.51%;
+
+
+color: #FFFFFF;
+}
+
+
+/* Line 9 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 65.69%;
+bottom: 34.31%;
+
+border: 1px solid #FFFFFF;
+}

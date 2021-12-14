@@ -1,0 +1,457 @@
+/* 황보나현_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 739.35%;
+/* height: 10351px; */
+
+background: #000000;
+}
+
+/* Rectangle 236 */
+
+.vid1{
+    position: absolute;
+    width: 94.28%;
+    height: 7.178%;
+left: 2.86%;
+right: 2.86%;
+top: 14.42%;
+bottom: 78.4%;
+
+background: #C4C4C4;
+}
+
+/* Rectangle 237 */
+.vid2{
+    width: 46.21%;
+    height: 3.516%;
+position: absolute;
+left: 2.93%;
+right: 50.86%;
+top: 66.28%;
+bottom: 30.2%;
+
+background: #C4C4C4;
+
+}
+/* Rectangle 239 */
+.vid3{
+    width: 46.21%;
+    height: 3.516%;
+
+position: absolute;
+left: 50.71%;
+right: 3.07%;
+top: 66.28%;
+bottom: 30.2%;
+
+background: #C4C4C4;
+}
+
+/* Rectangle 240 */
+.vid4{
+    width: 46.21%;
+    height: 3.516%;
+
+position: absolute;
+left: 2.86%;
+right: 50.93%;
+top: 69.99%;
+bottom: 26.49%;
+
+background: #C4C4C4;
+}
+
+/* Rectangle 241 */
+.vid5{
+    width: 46.21%;
+    height: 3.516%;
+
+position: absolute;
+left: 50.64%;
+right: 3.14%;
+top: 69.99%;
+bottom: 26.49%;
+
+background: #C4C4C4;
+}
+
+/* Rectangle 242 */
+.vid6{
+    width: 46.21%;
+    height: 3.516%;
+
+position: absolute;
+left: 2.93%;
+right: 50.86%;
+top: 73.7%;
+bottom: 22.78%;
+
+background: #C4C4C4;
+}
+
+/* Rectangle 243 */
+.vid7{
+    width: 46.21%;
+    height: 3.516%;
+
+position: absolute;
+left: 50.71%;
+right: 3.07%;
+top: 73.7%;
+bottom: 22.78%;
+
+background: #C4C4C4;
+}
+
+/* Rectangle 244 */
+.vid8{
+    width: 46.21%;
+    height: 3.516%;
+
+position: absolute;
+left: 2.86%;
+right: 50.93%;
+top: 77.41%;
+bottom: 19.07%;
+
+background: #C4C4C4;
+}
+
+/* Rectangle 245 */
+.vid9{
+    width: 46.21%;
+    height: 3.516%;
+
+position: absolute;
+left: 50.64%;
+right: 3.14%;
+top: 77.41%;
+bottom: 19.07%;
+
+background: #C4C4C4;
+}
+
+
+
+/* 15 */
+.img1{
+position: absolute;
+width: 22.5%;
+left: 26.79%;
+right: 50.86%;
+top: 9.36%;
+bottom: 86.35%;
+
+/* background: url(MinimalPoster 추가2.png); */
+}
+
+/* 14 */
+.img2{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 27%;
+top: 9.36%;
+bottom: 86.35%;
+
+/* background: url(MinimalPoster 추가3.png); */
+}
+
+/* 11 */
+.img3{
+position: absolute;
+width: 22.5%;
+left: 74.57%;
+right: 3.07%;
+top: 9.36%;
+bottom: 86.35%;
+
+/* background: url(THUMB_MinimalPoster.png); */
+}
+
+/* 4 */
+.img4{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.57%;
+top: 52.73%;
+bottom: 43%;
+
+/* background: url(GenerativeSystem 표지.png); */
+}
+
+/* 13 */
+.img5{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.64%;
+top: 22.37%;
+bottom: 73.31%;
+
+/* background: url(MinimalPoster 추가4.png); */
+}
+
+/* 12 */
+.img6{
+position: absolute;
+width: 22.5%;
+left: 26.79%;
+right: 50.86%;
+top: 22.37%;
+bottom: 73.32%;
+
+/* background: url(MinimalPoster 추가5.png); */
+}
+
+/* 10 */
+.img7{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 32.63%;
+bottom: 58.46%;
+
+/* background: url(THUMB_MaximalPoster.png); */
+}
+
+/* 7 */
+.img8{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 81.7%;
+bottom: 14.75%;
+
+/* background: url(GenerativeSystem 목업3.png); */
+}
+
+/* 5 */
+.img9{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 95.52%;
+bottom: 0.97%;
+
+/* background: url(GenerativeSystem 컨셉포토2.png); */
+}
+
+/* 3 */
+.img10{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 85.44%;
+bottom: 10.17%;
+
+/* background: url(GenerativeSystem 목업2.png); */
+}
+
+/* 2 */
+.img11{
+position: absolute;
+width: 46.42%;
+left: 2.93%;
+right: 50.79%;
+top: 85.44%;
+bottom: 10.17%;
+
+/* background: url(GenerativeSystem 목업.png); */
+
+}
+/* 1 */
+.img12{
+position: absolute;
+width: 46.42%;
+left: 2.71%;
+right: 51%;
+top: 36.73%;
+bottom: 54.38%;
+
+/* background: url(MaximalPoster추가.png); */
+}
+
+/* 9 */
+.img13{
+position: absolute;
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 51.56%;
+bottom: 41.82%;
+
+/* background: url(GenerativeSystem  --_ 깨져서 사이즈 수정.png); */
+}
+
+/* 6 */
+.img14{
+position: absolute;
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 90.02%;
+bottom: 4.68%;
+
+/* background: url(GenerativeSystem 컨셉포토1.png); */
+}
+
+/* 8 */
+
+.img15{
+    position: absolute;
+    width: 94.28%;
+left: 2.86%;
+right: 2.79%;
+top: 58.37%;
+bottom: 34.48%;
+
+/* background: url(GenerativeSystem 과정.png); */
+}
+
+
+
+
+
+/* Line 7 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 29.58%;
+bottom: 70.42%;
+
+border: 1px solid #FFFFFF;
+
+}
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 6.31%;
+bottom: 93.69%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 30.2%;
+bottom: 69.58%;
+
+
+}
+
+
+/* Video, Book */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 88.93%;
+top: 49.13%;
+bottom: 50.65%;
+
+
+}
+
+
+/* Poster, Moving Poster */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 81.93%;
+top: 6.93%;
+bottom: 92.85%;
+
+color: #FFFFFF;
+}
+
+
+/* 구스베리의 시각특징과 gooseberry eyes를 활용한 맥시멀 포스터. 많은 정보를 담을 수 있지만 너무 많은 정보를 담으면 오히려 전달에 방해가 될 수 있다는 트릭을 포함한다. 이 트릭을 바탕으로 시각-텍스트 정보 사이의 모순을 찾아내기 어려울 것이라고 가정 후 포스터를 디자인하였다. 또한 최대한 많은 툴을 이용해 툴에 있어서도 맥시멀을 나타낸다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 3.71%;
+top: 30.8%;
+bottom: 68.68%;
+
+
+color: #FFFFFF;
+}
+
+
+/* 자신의 야채에 대한 시스템을 생성하고 이를 실행한다. 눈동자트래킹(eyetracking)을 통해 각자의 아이덴티티(eyedentity)를 부여하는 시스템을 제작하였고, 그 과정과 결과를 영상, 소책자로 담았다. 책의 부록으로 렌티큘러 카드가 있는데 평면에서도 3D 모션을 볼 수 있게 한다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 4.86%;
+top: 49.72%;
+bottom: 49.77%;
+
+
+
+color: #FFFFFF;
+}
+
+
+/* 첫번째 미니멀 포스터에서는 구스베리의 형태적 특징들(반투명해 내부 과육과 씨가 비치는, 줄무늬와 씨앗이 있는, 다채로운)을 표현하였다. 두번째 미니멀 포스터에서는 흐리멍텅하고 칙칙한 눈을 의미하는 ‘gooseberry eyes’를 표현하였다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 4.57%;
+top: 7.53%;
+bottom: 91.95%;
+
+
+/* or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* Maximal Poster_Gooseberry */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 64.64%;
+top: 29.79%;
+bottom: 69.76%;
+
+color: #FFFFFF;
+
+}
+
+/* Generative System_Gooseberry */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 61.71%;
+top: 48.72%;
+bottom: 50.84%;
+
+
+
+}
+/* Minimal Poster_Gooseberry */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 66.07%;
+top: 6.52%;
+bottom: 93.03%;
+
+
+color: #FFFFFF;
+
+}

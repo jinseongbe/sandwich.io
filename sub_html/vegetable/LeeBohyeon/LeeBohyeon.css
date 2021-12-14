@@ -1,0 +1,197 @@
+/* 이보현_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 713.71%;
+/* height: 9992px; */
+
+background: #000000;
+}
+
+/* GENERATIVE SYSTEM */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 73.36%;
+top: 44.55%;
+bottom: 54.99%;
+}
+
+
+
+/* MEXIMAL POSTER */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 76.93%;
+top: 20.89%;
+bottom: 78.65%;
+}
+
+
+
+/* MINIMAL POSTER */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 77%;
+top: 6.76%;
+bottom: 92.78%;
+}
+
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 6.54%;
+bottom: 93.46%;
+
+border: 1px solid #FFFFFF;
+}
+
+
+
+/* Line 7 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 20.67%;
+bottom: 79.33%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 8 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 44.33%;
+bottom: 55.67%;
+
+border: 1px solid #FFFFFF;
+
+}
+
+/* 2 */
+.img1{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 22.64%;
+bottom: 58.68%;
+
+/* background: url(야채 시러치2.png); */
+}
+
+/* 10 */
+.img2{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 3%;
+top: 90.46%;
+bottom: 1%;
+
+/* background: url(야채 리서치9.png); */
+}
+
+/* 9 */
+.img3{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 81.24%;
+bottom: 10.34%;
+
+/* background: url(야채 리서치10.png); */
+}
+
+/* Thumb */
+.img4{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 27.07%;
+top: 8.52%;
+bottom: 82.34%;
+
+/* background: url(THUMB_야채 시러치.png); */
+}
+
+/* 5 */
+
+.img5{
+position: absolute;
+width: 22.5%;
+left: 49.29%;
+right: 25.36%;
+top: 57.95%;
+bottom: 37.03%;
+
+/* background: url(야채 시러치3.png); */
+}
+
+/* 7 */
+.img6{
+position: absolute;
+width: 22.5%;
+left: 50.36%;
+right: 24.29%;
+top: 69.6%;
+bottom: 25.38%;
+
+/* background: url(야채 시러치4.png); */
+}
+
+/* 3 */
+.img7{
+position: absolute;
+width: 22.5%;
+left: 49.29%;
+right: 25.36%;
+top: 46.3%;
+bottom: 48.68%;
+
+/* background: url(야채 시러치5.png); */
+}
+
+/* 6 */
+.img8{
+position: absolute;
+left: 25.36%;
+right: 49.29%;
+top: 63.77%;
+bottom: 31.2%;
+
+/* background: url(야채 시러치6.png); */
+}
+
+/* 4 */
+.img9{
+position: absolute;
+width: 22.5%;
+left: 25.36%;
+right: 49.29%;
+top: 52.12%;
+bottom: 42.85%;
+
+/* background: url(야채 시러치7.png); */
+}
+
+/* 8 */
+.img10{
+position: absolute;
+width: 22.5%;
+left: 25.36%;
+right: 49.29%;
+top: 75.42%;
+bottom: 19.56%;
+
+/* background: url(야채 시러치8.png); */
+}

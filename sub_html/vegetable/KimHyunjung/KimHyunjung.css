@@ -1,0 +1,176 @@
+/* 김현정_Vegetable */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 470.28%;
+/* height: 6584px; */
+
+background: #000000;
+}
+
+/* Artboard23 */
+.img1{
+position: absolute;
+width: 94.28%;
+left: 3%;
+right: 2.93%;
+top: 61.28%;
+bottom: 24.42%;
+
+/* background: url(Artboard 23.png); */
+
+}
+
+/* Artboard24 */
+.img2{
+position: absolute;
+width: 94.28%;
+left: 3%;
+right: 2.93%;
+top: 77.05%;
+bottom: 2.6%;
+
+/* background: url(Artboard 24.png); */
+}
+
+/* mini */
+.img3{
+position: absolute;
+width: 46.42%;
+left: 27.14%;
+right: 26.79%;
+top: 14.63%;
+bottom: 71.52%;
+
+/* background: url(김현정_미니멀.png); */
+}
+
+/* maxi */
+.img4{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 37.93%;
+bottom: 48.12%;
+
+/* background: url(김현정_맥시멀.png); */
+}
+
+
+
+
+
+/* Line 4 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 33.13%;
+bottom: 66.87%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 56.68%;
+bottom: 43.32%;
+
+border: 1px solid #FFFFFF;
+
+}
+/* Line 5 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 9.92%;
+bottom: 90.08%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 34.1%;
+bottom: 65.55%;
+}
+
+
+/* Generative System */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 84.36%;
+top: 57.65%;
+bottom: 42%;
+}
+
+
+/* 다양한 색깔을 가지고 끊임없이 바뀌는 파프리카의 출현을 잡지의 가십거리처럼 취급해 2000년대 가십잡지의 양식을 빌려 표현했다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 30.43%;
+top: 35.04%;
+bottom: 64.57%;
+}
+
+
+
+/* 매운맛을 가지고 있었지만 사람들이 좋아하는 맛을 가지기 위해 끊임없는 개량을 거쳐 지금의 달달한 맛을 가진 파프리카를 사람의 사회화와 연결지어 디자인했다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 16.07%;
+top: 11.83%;
+bottom: 87.77%;
+}
+
+
+/* 월간 파프리카 */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 85.71%;
+top: 33.6%;
+bottom: 65.9%;
+}
+
+
+
+/* BELL CARD */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 85.07%;
+top: 57.02%;
+bottom: 42.28%;
+}
+
+/* Spicy To Sweet */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 80.64%;
+top: 10.25%;
+bottom: 89.05%;
+}
+
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 10.89%;
+bottom: 88.76%;
+}

@@ -1,6 +1,6 @@
 /* main page */
 function moveHome() {
-	location.href = "../../home.html";
+	location.href = "../../index.html";
 }
 
 function moveAbout() {
