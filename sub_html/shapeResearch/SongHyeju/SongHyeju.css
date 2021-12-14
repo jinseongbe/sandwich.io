@@ -1,0 +1,294 @@
+/* 송혜주_Shape Research */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 520.42%;
+/* height: 7286px; */
+
+background: #FFFFFF;
+}
+
+/* 1 */
+.img1{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 13%;
+bottom: 74.38%;
+
+/* background: url(어항.png); */
+}
+
+/* 2 */
+.img2{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.79%;
+top: 18.49%;
+bottom: 68.89%;
+
+/* background: url(점.png); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 28.84%;
+bottom: 58.55%;
+
+/* background: url(THUMB_maskpack.png); */
+}
+
+/* maskpack-2 */
+.img4{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.79%;
+top: 49.86%;
+bottom: 37.48%;
+
+/* background: url(maskpack-2.png); */
+}
+
+/* maskpack */
+.img5{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 54.23%;
+bottom: 33.16%;
+
+/* background: url(maskpack.png); */
+}
+
+/* THUMB */
+.img6{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 64.86%;
+bottom: 22.45%;
+
+/* background: url(THUMB.png); */
+}
+
+/* THUMB 1 */
+.img7{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 86%;
+bottom: 1.37%;
+
+/* background: url(THUMB.png); */
+}
+
+
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 8.96%;
+bottom: 91.04%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 46.4%;
+bottom: 53.28%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 9.84%;
+bottom: 89.84%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 세가지 시안 중 마스크팩을 이용한 포스터를 발전시켰다. 마스크 팩의 크기는 동일하지만, 사용자의 얼굴에 따라 원 안의 눈코입이 다르게 추출된다는 점과, 눈코입 구멍을 거꾸로 했을때 알파벳 ‘A’가 연상된다는 점을 이용하여 ‘MASK PACK TEXT’를 디자인, 사용하였다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 4.43%;
+top: 47.26%;
+bottom: 52.03%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+
+}
+
+/* 최종 포스터로, 총 세가지 유형의 포스터를 제작했다. 특히 참여형 포스터는 참여자의 얼굴 모양을 직접 추출해볼 수 있도록 제작했다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 30.71%;
+top: 83.39%;
+bottom: 16.25%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* 신체의 점, 둥근 어항 속 물고기의 시점, 마스크 팩을 주제로 세가지 시안을 제작해보았다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 52.43%;
+top: 10.69%;
+bottom: 88.95%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* Shape Porster_2 */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 79%;
+top: 45.83%;
+bottom: 53.54%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* WHOES MASK PACK IS IT? */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 67.5%;
+top: 81.97%;
+bottom: 17.4%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* Shape poster_1 */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 79.79%;
+top: 9.26%;
+bottom: 90.1%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* Line 7 */
+.l2{
+position: absolute;
+left: 2.79%;
+right: 2.93%;
+top: 45.53%;
+bottom: 54.47%;
+
+border: 1px solid #000000;
+}
+
+/* Line 8 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 81.66%;
+bottom: 18.34%;
+
+border: 1px solid #000000;
+}
+/* Poster */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 82.54%;
+bottom: 17.14%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}

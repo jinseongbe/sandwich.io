@@ -1,0 +1,297 @@
+/* 김현정_Shape Research */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 360.92%;
+/* height: 5053px; */
+
+background: #FFFFFF;
+}
+
+/* Artboard 13 1 */
+.img1{
+position: absolute;
+width: 22.5%;
+left: 74.71%;
+right: 2.86%;
+top: 28.3%;
+bottom: 62.87%;
+
+/* background: url(Artboard 13.png); */
+}
+
+/* Artboard 12 1 */
+.img2{
+position: absolute;
+width: 22.5%;
+left: 2.93%;
+right: 74.64%;
+top: 19.18%;
+bottom: 72.02%;
+
+/* background: url(Artboard 12.png); */
+}
+
+/* Artboard 15 */
+.img3{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.86%;
+top: 49.42%;
+bottom: 41.86%;
+
+/* background: url(Artboard 15.png); */
+}
+
+/* Artboard 16 */
+.img4{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 3%;
+top: 58.84%;
+bottom: 32.4%;
+
+/* background: url(Artboard 16.png); */
+}
+
+/* Artboard 14 1 */
+.img5{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 19.18%;
+bottom: 62.66%;
+
+/* background: url(Artboard 14.png); */
+
+}
+/* Artboard 17 */
+.img6{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 49.42%;
+bottom: 32.4%;
+
+/* background: url(Artboard 17.png); */
+border: 0.2px solid #000000;
+box-sizing: border-box;
+}
+
+/* Artboard 18 1 */
+.img7{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.93%;
+top: 79.79%;
+bottom: 1.98%;
+
+/* background: url(Artboard 18.png); */
+}
+
+
+/* Line 4 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 43.16%;
+bottom: 56.84%;
+
+border: 1px solid #000000;
+}
+
+/* Line 6 */
+.l2{
+
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 73.54%;
+bottom: 26.46%;
+
+border: 1px solid #000000;
+
+}
+/* Line 5 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 12.92%;
+bottom: 87.08%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 44.43%;
+bottom: 55.12%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 14.19%;
+bottom: 85.36%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 74.75%;
+bottom: 24.8%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 1차 포스터 작업에서 나온 3가지 주제 중 트러스 구조를 주제로 파생된 3개의 포스터이다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 52.36%;
+top: 45.66%;
+bottom: 53.83%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+
+}
+
+/* 트러스 구조를 주제로 제작한 포스터이다. 삼각형의 축적을 통해 단단하고 연속적인 구조물의 모습을 표현했다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 41.64%;
+top: 75.97%;
+bottom: 23.51%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* 각각 인공적, 자연적, 심리적인 영역에서의 삼각형에 대해 생각해보고, 이에 따른 포스터를 제작한다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 46.79%;
+top: 15.42%;
+bottom: 84.07%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* Truss */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 91.71%;
+top: 43.6%;
+bottom: 55.49%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* TRU>> */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 90.14%;
+top: 73.92%;
+bottom: 25.17%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* Truss, Fractal, The most Suspicious one */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 55.43%;
+top: 13.36%;
+bottom: 85.73%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}

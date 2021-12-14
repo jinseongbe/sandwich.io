@@ -1,0 +1,371 @@
+/* 황보나현_Shape Research */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 528.57%;
+/* height: 7400px; */
+
+background: #000000;
+}
+
+/* Rectangle 236 */
+.vid{
+position: absolute;
+width: 94.28%;
+height: 10.04%;
+left: 2.86%;
+right: 2.86%;
+top: 88.64%;
+bottom: 1.32%;
+
+background: #C4C4C4;
+}
+
+
+/* 4 */
+.img4{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 20.2%;
+bottom: 67.35%;
+
+/* background: url(ShapePoster1 추가.png); */
+}
+
+/* 5 */
+.img5{
+position: absolute;
+width: 46.42%;
+left: 50.79%;
+right: 2.86%;
+top: 27.08%;
+bottom: 60.47%;
+
+/* background: url(ShapePoster1 추가2.png); */
+}
+
+/* 6 */
+.img6{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 27.07%;
+top: 23.46%;
+bottom: 64.16%;
+
+/* background: url(THUMB_ShapePoster1.png); */
+}
+
+/* 10 */
+.img10{
+position: absolute;
+width: 46.42%;
+left: 26.86%; 
+right: 26.79%;
+top: 60.78%;
+bottom: 26.77%;
+
+/* background: url(ShapePoster2 추가3.png); */
+}
+
+/* THUMB_ShapePoster2 */
+.img{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 48.05%;
+bottom: 39.49%;
+
+/* background: url(THUMB_ShapePoster2.png); */
+}
+
+/* 1 */
+.img1{
+position: absolute;
+width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 13.09%;
+bottom: 80.86%;
+
+/* background: url(ShapePoster1 추가.png); */
+}
+
+/* 2 */
+.img2{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 13.09%;
+bottom: 80.88%;
+
+/* background: url(ShapePoster1 추가2.png); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.93%;
+top: 13.09%;
+bottom: 80.88%;
+
+/* background: url(THUMB_ShapePoster1.png); */
+}
+
+/* 11 */
+.img11{
+position: absolute;
+width: 22.5%;
+left: 26.93%;
+right: 50.71%;
+top: 74.31%;
+bottom: 19.69%;
+
+/* background: url(ShapePoster2 추가2.png); */
+}
+
+/* 9 */
+.img9{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.57%;
+top: 74.31%;
+bottom: 19.64%;
+
+/* background: url(ShapePoster2 추가4.png); */
+}
+
+/* 8 */
+.img8{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.93%;
+top: 74.31%;
+bottom: 19.69%;
+
+/* background: url(ShapePoster2 추가5.png); */
+}
+
+/* 7 */
+.img7{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.86%;
+top: 74.31%;
+bottom: 19.69%;
+
+/* background: url(ShapePoster2 추가6.png); */
+}
+
+
+
+/* Line 4 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 43.78%;
+bottom: 56.22%;
+
+border: 1px solid #000000;
+
+}
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.79%;
+right: 2.93%;
+top: 84.42%;
+bottom: 15.58%;
+
+border: 1px solid #000000;
+
+}
+
+/* Line 5 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 8.82%;
+bottom: 91.18%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 44.65%;
+bottom: 55.04%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Moving Poster */
+#r3{
+position: absolute;
+left: 2.79%;
+right: 87.29%;
+top: 85.28%;
+bottom: 14.41%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 9.69%;
+bottom: 90%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+/* 첫번째 포스터 중 sea-floating triangles를 택해 해파리의 시각적 특징(투명한, 다채로운, 빛나는, 곡선의, 흐름 등)에 집중하여 다양하게 발전시켰다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 21.64%;
+top: 45.49%;
+bottom: 54.16%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+
+}
+
+/* 해파리의 움직임을 분석해 3D로 모델링한 뒤, 앞에서 다룬 여러 특징들도 함께 녹여 무빙 포스터로 디자인하였다. */
+#d3{
+position: absolute;
+left: 2.79%;
+right: 40.93%;
+top: 86.12%;
+bottom: 13.53%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 삼각형의 여러 사회적 의미 중에서도 기하학적 특징, 형태에 집중해 -ing triangles 포스터 시리즈를 디자인하였다. 차례대로 sea-floating triangles, flying triangles, snowing triangles */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 38.79%;
+top: 10.53%;
+bottom: 88.77%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* Shape Poster_Triangles 2 */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 69.5%;
+top: 44.08%;
+bottom: 55.3%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+
+
+}
+/* Shape Poster_Triangles 3 */
+#t3{
+position: absolute;
+left: 2.79%;
+right: 69.57%;
+top: 84.72%;
+bottom: 14.66%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* Shape Poster_-ing triangles */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 66.86%;
+top: 9.12%;
+bottom: 90.26%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}

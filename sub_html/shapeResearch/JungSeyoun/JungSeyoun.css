@@ -1,0 +1,262 @@
+/* 정세윤_ShapeResearch */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 423.85%;
+/* height: 5934px; */
+
+background: #000000;
+}
+
+
+/* THUMB_1 */
+.img1{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 15.42%;
+bottom: 67.16%;
+
+/* background: url(THUMB_1.png); */
+}
+
+/* THUMB_2 */
+.img2{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 42.32%;
+bottom: 41.48%;
+
+/* background: url(THUMB_2.png); */
+}
+
+/* THUMB_3 */
+.img3{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 67.98%;
+bottom: 14.97%;
+
+/* background: url(THUMB_3.png); */
+}
+
+/* Rectangle255 */
+.vid{
+position: absolute;
+width: 94.28%;
+height: 12.95%;
+left: 2.86%;
+right: 2.86%;
+top: 85.36%;
+bottom: 1.69%;
+
+background: #C4C4C4;
+}
+
+
+/* Line 4 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 37.9%;
+bottom: 62.1%;
+
+border: 1px solid #FFFFFF;
+/* transform: matrix(0.71, 0, inf, -nan, 0, 0); */
+}
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 63.57%;
+bottom: 36.43%;
+
+border: 1px solid  #FFFFFF;
+/* transform: matrix(0.71, 0, inf, -nan, 0, 0); */
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 11%;
+bottom: 89%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 38.98%;
+bottom: 60.63%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Moving Poster */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 87.21%;
+top: 64.64%;
+bottom: 34.97%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 12.08%;
+bottom: 87.53%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 첫번째 과제에서 선택한 포스터의 디자인 요소를 다양한 방법으로 변주하였다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 58.21%;
+top: 40.02%;
+bottom: 59.54%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 질서를 상징하는 사각형을 무빙포스터로 표현하였다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 70.71%;
+top: 65.69%;
+bottom: 33.87%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 우주,사회,개인을 주제로 거시에서 미시적 관점으로 사각형을 리서치해 포스터로 표현했다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 51.79%;
+top: 13.13%;
+bottom: 86.43%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* RECTANGLE SYSTEM */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 74.29%;
+top: 38.27%;
+bottom: 60.95%;
+
+font-family: Futura PT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* ORDER : SQUARE */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 77.57%;
+top: 63.94%;
+bottom: 35.29%;
+
+font-family: Futura PT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* RECTANGLE FOR... */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 76.36%;
+top: 11.38%;
+bottom: 87.85%;
+
+font-family: Futura PT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}

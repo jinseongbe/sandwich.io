@@ -1,0 +1,233 @@
+/* 김예은_ShapeResearch */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 332.64%;
+/* height: 4657px; */
+
+background: #000000;
+}
+
+/* 1 */
+.img1{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 19.67%;
+bottom: 60.59%;
+
+/* background: url(시디 삼각형 1-01.png); */
+}
+
+/* 2 */
+.img2{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 52.63%;
+bottom: 27.64%;
+
+/* background: url( THUMB_Asset 38.png); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 84.43%;
+bottom: 2.15%;
+
+/* background: url(32sAft.png); */
+}
+
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 14.02%;
+bottom: 85.98%;
+
+border: 1px solid #FFFFFF;
+}
+
+
+
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 15.4%;
+bottom: 84.11%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+/* X축과 Y축으로만 이루어진 좌표평면에서 Z에 점 하나가 찍어지면 그 점과 연결되는 무수한 선이 생겨 입체물이 되고 그 단면은 필연적으로 삼각형이 될 수 밖에 없다. */
+#d1{
+position: absolute;
+left: 2.86%;
+right: 14.64%;
+top: 16.75%;
+bottom: 82.69%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 색종이 크기로 제작된 디지털 종이접기의 화면 책자. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 71.21%;
+top: 81.51%;
+bottom: 17.93%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+
+}
+
+/* 일상에서 볼 수 있는 종이접기의 흔적들 이러한 구조는 사면체의 피라미드처럼 보일 수도 있고 단단한 다리의 트러스 구조처럼 보일의 수도 있으며 접혔다 펴지는 아코디언의 옆모습처럼 보일 수도 있다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 24.07%;
+top: 48.57%;
+bottom: 50.27%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* DIGITAL ORIGAMI */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 76.64%;
+top: 79.28%;
+bottom: 19.73%;
+
+font-family: Futura PT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;}
+
+
+
+/* RISE */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 92.21%;
+top: 14.49%;
+bottom: 84.52%;
+
+font-family: Futura PT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 47.22%;
+bottom: 52.29%;
+
+font-family: NEXON Lv2 Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* FOLD ORIGAMI */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 79.57%;
+top: 46.32%;
+bottom: 52.69%;
+
+font-family: Futura PT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* Line 4 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 45.84%;
+bottom: 54.16%;
+
+border: 1px solid #FFFFFF;
+
+}
+
+/* Line 7 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 78.81%;
+bottom: 21.19%;
+
+border: 1px solid #FFFFFF;
+
+}

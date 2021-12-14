@@ -1,0 +1,302 @@
+/* 조혜지_ShapeResearch */
+
+#canvas{
+    position: relative;
+width: 100%;
+padding-bottom: 450.42%;
+/* height: 6306px; */
+
+background: #FFFFFF;
+}
+
+/* 3_ShapePoster2 */
+.img1{
+ position: absolute; width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 52.73%;
+bottom: 32.71%;
+
+/* background: url(3_ShapePoster2.png); */
+}
+
+/* 3_ShapePoster1 */
+.img2{
+ position: absolute; width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 15.38%;
+bottom: 70.08%;
+
+/* background: url(3_ShapePoster1.png); */
+}
+
+/* 2_ShapePoster1 */
+.img3{
+ position: absolute; width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 23.03%;
+bottom: 69.66%;
+
+/* background: url(2_ShapePoster1.png); */
+}
+
+/* THUMB_ShapePoster1 */
+.img4{
+ position: absolute; width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 15.38%;
+bottom: 77.29%;
+
+/* background: url(THUMB_ShapePoster1.png); */
+}
+
+/* 2_ShapePoster2 */
+.img5{
+ position: absolute; width: 46.42%;
+left: 2.86%;
+right: 50.79%;
+top: 37.9%;
+bottom: 47.54%;
+
+/* background: url(2_ShapePoster2.png); */
+}
+
+/* THUMB_ShapePoster2 */
+.img6{
+ position: absolute; width: 46.42%;
+left: 50.71%;
+right: 3%;
+top: 37.9%;
+bottom: 47.54%;
+
+/* background: url(THUMB_ShapePoster2.png); */
+}
+
+/* THUMB_ShapePoster3 */
+.img7{
+position: absolute;
+width: 70.35%;
+left: 2.93%;
+right: 26.79%;
+top: 77.05%;
+bottom: 12.62%;
+}
+/* background: url(THUMB_ShapePoster3.png); */
+
+
+/* 2_ShapePoster3 */
+.img8{
+position: absolute;
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 87.98%;
+bottom: 1.59%;
+}
+/* background: url(2_ShapePoster3.png); */
+
+
+
+/* 삼각형과 골프 자세와의 연관성에 대한 정보를 전달하기 위한 리플렛을 제작하였다. */
+#d3{
+position: absolute;
+left: 2.79%;
+right: 55.71%;
+top: 74.04%;
+bottom: 25.55%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* SHAPE POSTER3 */
+#t3{
+position: absolute;
+left: 2.79%;
+right: 78.93%;
+top: 72.39%;
+bottom: 26.88%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 10.36%;
+bottom: 89.64%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 11.37%;
+bottom: 88.27%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 33.9%;
+bottom: 65.73%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;}
+
+
+
+/* 골프 자세, 사람의 코, 건축물 구조에서 각각 삼각형의 모습을 찾아 흑백 포스터로 나타내었다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 50.5%;
+top: 12.35%;
+bottom: 87.23%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+
+}
+
+/* 첫번째 포스터 작업 중 ‘골프 자세 속 삼각형’을 골라 발전된 포스터를 제작하였다. */
+#d2{
+position: absolute;
+left: 2.93%;
+right: 56.43%;
+top: 34.89%;
+bottom: 64.7%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* SHAPE POSTER1 */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 78.79%;
+top: 10.7%;
+bottom: 88.57%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* SHAPE POSTER2 */
+#t2{
+position: absolute;
+left: 2.93%;
+right: 78.79%;
+top: 33.24%;
+bottom: 66.03%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* Line 9 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 72.04%;
+bottom: 27.96%;
+
+border: 1px solid #000000;
+}
+
+/* Line 10 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 32.89%;
+bottom: 67.11%;
+
+border: 1px solid #000000;
+}
+
+/* Leaflet */
+#r3{
+position: absolute;
+left: 2.79%;
+right: 92.5%;
+top: 73.06%;
+bottom: 26.58%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+
+}

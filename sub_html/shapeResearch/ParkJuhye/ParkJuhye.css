@@ -1,0 +1,126 @@
+/* 박주혜_Shape Research */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 468.42%;
+/* height: 6558px; */
+
+background: #FFFFFF;
+}
+
+
+
+/* 1 */
+.img1{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 25.64%;
+top: 14.78%;
+bottom: 63.45%;
+
+/* background: url(편집-06.png); */
+}
+
+/* 2 */
+.img2{
+position: absolute;
+width: 70.35%;
+left: 2.93%;
+right: 25.57%;
+top: 45.94%;
+bottom: 32.13%;
+
+/* background: url(편집-10.png); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 25.71%;
+top: 77.23%;
+bottom: 1.52%;
+
+/* background: url(편집-09.png); */
+}
+
+/* Line 4 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 41.13%;
+bottom: 58.87%;
+
+border: 1px solid #000000;
+/* transform: matrix(0.71, 0, inf, -nan, 0, 0); */
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 9.96%;
+bottom: 90.04%;
+
+border: 1px solid #000000;
+}
+
+/* ‘사람들은 이야기를 좋아한다’ 를 전재로, 이야기들이 담기는 형태에 집중했다. 그것이 신화로서, 연극의 형태로든, 공연의 형태든, 퍼포먼스의 형태로든지 말이다. 제일 기본이 되는 것인 책이다.(이건 전의 작업이라 아래 이미지에는 포함되어 있지 않다.) */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 2.86%;
+top: 11.88%;
+bottom: 87.33%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+
+}
+
+/* 사각형,프레임1 */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 73.07%;
+top: 10.41%;
+bottom: 88.66%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 54px;
+line-height: 61px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 사각형,프레임2 */
+#t2{
+position: absolute;
+left: 2.93%;
+right: 73.07%;
+top: 41.58%;
+bottom: 57.49%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 54px;
+line-height: 61px;
+/* identical to box height */
+
+color: #000000;
+}

@@ -1,0 +1,276 @@
+/* 홍은진_ShapeResearch */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 352.64%;
+/* height: 4937px; */
+
+background: #FFFFFF;
+}
+
+/* shapeposter2 1 */
+.img1{
+position: absolute;
+width: 100%;
+left: 0%;
+right: 0.14%;
+top: 47.84%;
+bottom: 36.44%;
+
+/* background: url(shapeposter2.png); */
+}
+
+/* shapeposter1 1 */
+.img2{
+position: absolute;
+width: 100%;
+left: 0%;
+right: 0.07%;
+top: 19.63%;
+bottom: 64.63%;
+
+/* background: url(shapeposter1.png); */
+}
+
+/* Rectangle 271 */
+.box{
+position: absolute;
+width: 94.28%;
+left: 2.9%;
+right: 2.9%;
+top: 75.98%;
+bottom: 2.03%;
+
+background: #000000;
+}
+
+/* shapeposter3 1 */
+.img3{
+position: absolute;
+width: 46.42%;
+left: 26.88%;
+right: 26.81%;
+top: 77.82%;
+bottom: 3.87%;
+
+/* background: url(shapeposter3.png); */
+}
+
+/* Line 11 */
+.l1{
+position: absolute;
+left: 2.9%;
+right: 1.45%;
+top: 69.64%;
+bottom: 30.36%;
+
+border: 1px solid #000000;
+}
+
+/* Line 5 */
+.l2{
+position: absolute;
+left: 2.9%;
+right: 1.45%;
+top: 13.23%;
+bottom: 86.77%;
+
+border: 1px solid #000000;
+}
+
+/* Line 10 */
+.l3{
+position: absolute;
+left: 2.9%;
+right: 1.45%;
+top: 41.44%;
+bottom: 58.56%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.9%;
+right: 92.54%;
+top: 42.74%;
+bottom: 56.8%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.9%;
+right: 92.54%;
+top: 70.93%;
+bottom: 28.6%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.97%;
+right: 92.46%;
+top: 14.52%;
+bottom: 85.01%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 홍채를 주제로 한 포스터를 선택하여 [문자를 점자로/흑백을 컬러로/폰트를 볼드하게] 변형하였다. */
+#d2{
+position: absolute;
+left: 2.9%;
+right: 46.45%;
+top: 43.99%;
+bottom: 55.48%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* 오늘날 홍채는 마치 휴대폰의 잠금 패턴처럼 보안을 위한 훌륭한 잠금장치로 사용된다. 때때로 누군가는 마치 옷을 갈아입듯 콘텍트 렌즈를 착용해 자신의 홍채에 새로운 색깔과 패턴을 입히기도 한다. */
+#d3{
+position: absolute;
+left: 2.9%;
+right: 40.87%;
+top: 72.19%;
+bottom: 26.72%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* SHAPE POSTER2 */
+#t2{
+position: absolute;
+left: 2.9%;
+right: 78.55%;
+top: 41.89%;
+bottom: 57.18%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* SHAPE POSTER3 */
+#t3{
+position: absolute;
+left: 2.9%;
+right: 78.55%;
+top: 70.08%;
+bottom: 28.99%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* SHAPE POSTER1 */
+#t1{
+position: absolute;
+left: 2.97%;
+right: 78.48%;
+top: 13.67%;
+bottom: 85.4%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.97%;
+right: 92.46%;
+top: 14.52%;
+bottom: 85.01%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 기본 도형인 원이 중첩되어 배열을 만들어내는 세 가지 원들인 나이테, 홍채, 지문을 주제로 한 포스터. 각각의 원들은 그 개체의 정체성을 보여준다. */
+#d1{
+position: absolute;
+left: 2.97%;
+right: 22.25%;
+top: 15.8%;
+bottom: 83.67%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}

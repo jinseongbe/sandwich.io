@@ -1,0 +1,220 @@
+/* 이보현_Shape Research */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 335.78%;
+/* height: 4701px; */
+
+background: #000000;
+} 
+
+/* 1 */
+.img1{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.64%;
+top: 18.1%;
+bottom: 72.45%;
+
+/* background: url(일루미나티2.png); */
+}
+
+/* 2 */
+.img2{
+position: absolute;
+width: 22.5%;
+left: 26.36%;
+right: 50.43%;
+top: 18.1%;
+bottom: 72.11%;
+
+/* background: url(일루미나티3.png); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 22.5%;
+left: 74.86%;
+right: 2.86%;
+top: 18.1%;
+bottom: 72.54%;
+
+/* background: url(일루미나티4.png); */
+}
+
+/* 4 */
+.img4{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.64%;
+top: 38.14%;
+bottom: 52.41%;
+
+/* background: url(일루미나티5.png); */
+}
+
+/* 5 */
+.img5{
+position: absolute;
+width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 38.14%;
+bottom: 52.37%;
+
+/* background: url(일루미나티6.png); */
+}
+
+/* 6 */
+.img6{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 38.14%;
+bottom: 52.37%;
+
+/* background: url(일루미나티7.png); */
+}
+
+/* 7 */
+.img7{
+position: absolute;
+width: 94.28%;
+left: 2.93%;
+right: 2.86%;
+top: 58.2%;
+bottom: 2.13%;
+}
+
+
+
+
+
+/* 찌라시 오브 일루미나티 */
+#t3{
+position: absolute;
+left: 2.93%;
+right: 77.93%;
+top: 54.67%;
+bottom: 44.63%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 33px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* SHAPE POSTER2 */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 78.86%;
+top: 34.42%;
+bottom: 64.6%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* SHAPE POSTER1 */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 78.79%;
+top: 14.36%;
+bottom: 84.66%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* Line 4 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 33.95%;
+bottom: 66.05%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 54.01%;
+bottom: 45.99%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 5 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 13.89%;
+bottom: 86.11%;
+
+border: 1px solid #FFFFFF;
+
+}
+/* Poster */
+#r3{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 55.37%;
+bottom: 44.14%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;}
+
+
+
+/* 당신은 일루미나티의 존재를 믿습니까? */
+#d3{
+position: absolute;
+left: 3.07%;
+right: 77.29%;
+top: 56.69%;
+bottom: 42.76%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}

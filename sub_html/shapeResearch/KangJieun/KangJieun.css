@@ -1,0 +1,281 @@
+/* 강지은_ShapeResearch */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom:  327.78%;
+/* height: 4589px; */
+
+background: #FFFFFF;
+}
+
+/* 1 */
+.img1{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.64%;
+top: 19.92%;
+bottom: 70.37%;
+
+background: url(1.jpg);
+}
+
+/* 3 */
+.img2{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 19.92%;
+bottom: 70.38%;
+
+background: url(3.jpg);
+}
+
+/* 2 */
+.img3{
+position: absolute;
+width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 19.92%;
+bottom: 70.37%;
+
+background: url(2.jpg);
+}
+
+/* 2 */
+.img4{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 41.88%;
+bottom: 48.4%;
+
+background: url(2.png);
+
+}
+/* 3 */
+.img5{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 41.88%;
+bottom: 48.4%;
+
+background: url(3.jpg);
+}
+
+/* 1 925 */
+.img6{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 64.46%;
+bottom: 19.38%;
+
+background: url(1.png);
+}
+
+/* Rectangle 256 */
+.vid1{
+position: absolute;
+width: 94.28%;
+height: 16.75%;
+left: 2.86%;
+right: 2.86%;
+top: 81.06%;
+bottom: 2.18%;
+
+background: #C4C4C4;
+}
+
+
+
+/* Line 4 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 36.17%;
+bottom: 63.83%;
+
+border: 1px solid #000000;
+
+}
+/* Line 6 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 58.14%;
+bottom: 41.86%;
+
+border: 1px solid #000000;
+/* transform: matrix(0.71, 0, inf, -nan, 0, 0); */
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 14.23%;
+bottom: 85.77%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 37.57%;
+bottom: 61.93%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Moving Poster */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 87.21%;
+top: 59.53%;
+bottom: 39.97%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 15.62%;
+bottom: 83.87%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Karl Gestner의 변주 시스템을 적용해 그리드, 서체, 배치를 변화시킨 3장의 스크린타임 포스터를 만들었다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 42.86%;
+top: 38.92%;
+bottom: 60.51%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+
+}
+
+
+
+
+/* 하루 대부분의 시간은 사각형 매체를 통해 활용, 소유된다. 사각형 매체가 나를 이루는 하나의 시스템임을 보여주는 포스터 연작을 제작했다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 27.57%;
+top: 16.98%;
+bottom: 82.46%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* KARL GESTNER’S SQUARE */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 67.71%;
+top: 36.65%;
+bottom: 62.34%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* SCREENTIME MAKES MY WHOLE SYSTEM */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 51%;
+top: 58.62%;
+bottom: 40.38%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* SQUARE IN TIMETABLE */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 71.43%;
+top: 14.71%;
+bottom: 84.29%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}

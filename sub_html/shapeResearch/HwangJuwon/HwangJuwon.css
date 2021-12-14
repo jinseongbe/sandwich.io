@@ -1,0 +1,290 @@
+/* 황주원_ShapeResearch */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 315.92%;
+/* height: 4423px; */
+
+background: #000000;
+}
+
+
+/* 2 */
+.img1{
+position: absolute;
+width: 30.85%;
+left: 34.28%;
+right: 34.28%;
+top: 21.8%;
+bottom: 64.37%;
+
+/* background: url(황주원 shape poster 1 2.png); */
+}
+
+/* 1 */
+.img2{
+position: absolute;
+width: 30.85%;
+left: 2.97%;
+right: 65.72%;
+top: 21.8%;
+bottom: 64.37%;
+
+/* background: url(황주원 shape poster1 1.png); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 30.85%;
+left: 65.72%;
+right: 2.9%;
+top: 21.8%;
+bottom: 64.37%;
+
+/* background: url(황주원 shapeposter1.png); */
+}
+
+
+
+/* 5 */
+.img4{
+position: absolute;
+width: 30.85%;
+left: 34.28%;
+right: 34.49%;
+top: 49.56%;
+bottom: 36.63%;
+
+/* background: url(황주원 shape poster2-1.png); */
+}
+
+/* 4 */
+.img5{
+position: absolute;
+width: 30.85%;
+left: 2.97%;
+right: 65.72%;
+top: 49.56%;
+bottom: 36.63%;
+
+/* background: url(황주원 shape poster2.png); */
+}
+
+/* 6 */
+.img6{
+position: absolute;
+width: 30.85%;
+left: 65.51%;
+right: 3.19%;
+top: 49.56%;
+bottom: 36.63%;
+
+/* background: url(황주원 shape-2.png); */
+}
+
+/* 7 */
+.img7{
+position: absolute;
+width: 46.42%;
+left: 2.97%;
+right: 50.72%;
+top: 77.3%;
+bottom: 2.26%;
+
+/* background: url(황주원 shape poster3.png); */
+}
+
+/* 8 */
+.img8{
+position: absolute;
+width: 46.42%;
+left: 50.72%;
+right: 2.9%;
+top: 77.3%;
+bottom: 2.26%;
+
+/* background: url(황주원 Shapeposter 32.png); */
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.9%;
+right: 1.45%;
+top: 14.76%;
+bottom: 85.24%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 13 */
+.l2{
+position: absolute;
+left: 2.9%;
+right: 1.45%;
+top: 42.41%;
+bottom: 57.59%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 14 */
+.l3{
+position: absolute;
+left: 2.9%;
+right: 1.45%;
+top: 70.16%;
+bottom: 29.84%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.9%;
+right: 92.54%;
+top: 43.86%;
+bottom: 55.62%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.9%;
+right: 92.54%;
+top: 71.6%;
+bottom: 27.88%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.97%;
+right: 92.46%;
+top: 16.21%;
+bottom: 83.27%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 첫번째 포스터 중 가운데 포스터를 골라 변주시켰다. */
+#d2{
+position: absolute;
+left: 2.9%;
+right: 70.8%;
+top: 45.26%;
+bottom: 54.15%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* ‘네모의 꿈’ 이란 가사 속 네모난 것들이 프레임만 남긴 채 사라졌다. 이미지 박스와 텍스트의 배치로 보이지 않는 사각형 프레임을 표현했다. */
+#d3{
+position: absolute;
+left: 2.9%;
+right: 26.3%;
+top: 73%;
+bottom: 26.41%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* SHAPE POSTER2 */
+#t2{
+position: absolute;
+left: 2.9%;
+right: 78.55%;
+top: 42.91%;
+bottom: 56.05%;
+
+font-family: Futura PT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* SHAPE POSTER3 */
+#t3{
+position: absolute;
+left: 2.9%;
+right: 78.55%;
+top: 70.65%;
+bottom: 28.31%;
+
+font-family: Futura PT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* SHAPE POSTER1 */
+#t1{
+position: absolute;
+left: 2.97%;
+right: 78.48%;
+top: 15.26%;
+bottom: 83.7%;
+
+font-family: Futura PT;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+

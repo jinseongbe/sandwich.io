@@ -1,0 +1,259 @@
+/* 강소연_ShapeResearch */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 344.42%;
+/* height: 4822px; */
+
+background: #FFFFFF;
+}
+
+/* 1 */
+.img1{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 17.79%;
+bottom: 63.14%;
+
+/* background: url(대지 1@4x-100.jpg); */
+}
+
+/* 2 */
+.img2{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 17.79%;
+bottom: 63.15%;
+
+/* background: url(대지 2@4x-100.jpg); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 48.51%;
+bottom: 32.43%;
+
+/* background: url(Asset 7최소규정.png); */
+}
+
+/* 4 */
+.img4{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 79.22%;
+bottom: 2.07%;
+
+/* background: url(Asset 6최소규정.png); */
+}
+
+/* Line 4 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 43.07%;
+bottom: 56.93%;
+
+border: 1px solid #000000;
+}
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 73.79%;
+bottom: 26.21%;
+
+border: 1px solid #000000;
+}
+
+/* Line 5 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 12.38%;
+bottom: 87.62%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 44.4%;
+bottom: 55.12%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 75.11%;
+bottom: 24.41%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Poster */
+#r3{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 13.71%;
+bottom: 85.82%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 윤회는 원과 같습니다. 원을 잘 나타내는 요소 중 하나였다고 생각합니다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 60.93%;
+top: 45.69%;
+bottom: 53.77%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+
+
+/* 원에서 떠올릴 수 있는 것들을 포스터로 제작했습니다. 가령 시력검사의 구멍이라 든지, 무수히 반복되는 원들로 이루어진 썬캐쳐 같은 것 말입니다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 23.86%;
+top: 14.99%;
+bottom: 84.47%;
+
+ 
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* RINNE THE CIRCLE */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 76.57%;
+top: 43.53%;
+bottom: 55.52%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* RINNE */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 89.64%;
+top: 74.24%;
+bottom: 24.8%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* SHAPE RESEARCH POSTER(CIRCLE) */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 58.36%;
+top: 12.84%;
+bottom: 86.21%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* 원은 회전하고 인간의 삶도 순환합니다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 77.5%;
+top: 76.4%;
+bottom: 23.06%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+
+}
