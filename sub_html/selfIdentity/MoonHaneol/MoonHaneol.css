@@ -145,175 +145,191 @@ bottom: 89.05%;
 /* THUMB_SelfIdentity_Pattern2 */
 .img1{
 position: absolute;
+width: 46.42%;
 left: 50.71%;
 right: 2.86%;
 top: 37.93%;
 bottom: 48.24%;
 
-background: url(THUMB_SelfIdentity_Pattern2.jpg);
+/* background: url(THUMB_SelfIdentity_Pattern2.jpg); */
 }
 
 /* SelfIdentity_Pattern1 */
 .img2{
 position: absolute;
+width: 22.5%;
 left: 2.86%;
 right: 74.64%;
 top: 45.05%;
 bottom: 48.24%;
 
-background: url(SelfIdentity_Pattern1.jpg);
+/* background: url(SelfIdentity_Pattern1.jpg); */
 }
 
 /* SelfIdentity_Pattern3 */
 .img3{
 position: absolute;
+width: 22.5%;
 left: 2.86%;
 right: 74.64%;
 top: 37.93%;
 bottom: 55.36%;
 
-background: url(SelfIdentity_Pattern3.jpg);
+/* background: url(SelfIdentity_Pattern3.jpg); */
 }
 
 /* SelfIdentity_Pattern4 */
 .img4{
 position: absolute;
+width: 22.5%;
 left: 26.79%;
 right: 50.71%;
 top: 45.05%;
 bottom: 48.24%;
 
-background: url(SelfIdentity_Pattern4.jpg);
+/* background: url(SelfIdentity_Pattern4.jpg); */
 }
 
 /* SelfIdentity_Pattern5 */
 .img5{
 position: absolute;
+width: 22.5%;
 left: 26.79%;
 right: 50.71%;
 top: 37.93%;
 bottom: 55.36%;
 
-background: url(SelfIdentity_Pattern5.jpg);
+/* background: url(SelfIdentity_Pattern5.jpg); */
 }
 
 /* SelfBranding7 */
 .img6{
 position: absolute;
+width: 46.42%;
 left: 26.79%;
 right: 26.79%;
 top: 87.27%;
 bottom: 1.52%;
 
-background: url(SelfBranding7.jpg);
+/* background: url(SelfBranding7.jpg); */
 }
 
 /* SelfBranding1 */
 .img7{
 position: absolute;
+width: 46.42%;
 left: 2.86%;
 right: 50.71%;
 top: 68.29%;
 bottom: 26.09%;
 
-background: url(SelfBranding1.jpg);
+/* background: url(SelfBranding1.jpg); */
 
 }
 /* SelfBranding2 */
 .img8{
 position: absolute;
+width: 46.42%;
 left: 50.71%;
 right: 2.86%;
 top: 68.29%;
 bottom: 26.09%;
 
-background: url(SelfBranding2.jpg);
+/* background: url(SelfBranding2.jpg); */
 }
 
 /* SelfBranding3 */
 .img9{
 position: absolute;
+width: 46.42%;
 left: 2.86%;
 right: 50.71%;
 top: 74.51%;
 bottom: 19.87%;
 
-background: url(SelfBranding3.jpg);
+/* background: url(SelfBranding3.jpg); */
 }
 
 /* SelfBranding5 */
 .img10{
 position: absolute;
+width: 46.42%;
 left: 2.86%;
 right: 50.71%;
 top: 80.44%;
 bottom: 13.94%;
 
-background: url(SelfBranding5.jpg);
+/* background: url(SelfBranding5.jpg); */
 }
 
 /* SelfBranding6 */
 .img11{
 position: absolute;
+width: 46.42%;
 left: 50.71%;
 right: 2.86%;
 top: 80.44%;
 bottom: 13.94%;
 
-background: url(SelfBranding6.jpg);
+/* background: url(SelfBranding6.jpg); */
 }
 
 /* SelfIdentity3 */
 .img12{
 position: absolute;
+width: 46.42%;
 left: 26.79%;
 right: 26.79%;
 top: 21.02%;
 bottom: 71.43%;
 
-background: url(SelfIdentity3.jpg);
+/* background: url(SelfIdentity3.jpg); */
 }
 
 /* SelfIdentity1 */
 .img13{
 position: absolute;
+width: 46.42%;
 left: 50.71%;
 right: 2.86%;
 top: 14.72%;
 bottom: 79.28%;
 
-background: url(SelfIdentity1.jpg);
+/* background: url(SelfIdentity1.jpg); */
 }
 
 /* SelfIdentity2 */
 .img14{
 position: absolute;
+width: 46.42%;
 left: 2.86%;
 right: 50.71%;
 top: 14.72%;
 bottom: 79.28%;
 
-background: url(SelfIdentity2.jpg);
+/* background: url(SelfIdentity2.jpg); */
 }
 
 /* image 2 */
 .img15{
 position: absolute;
+width: 46.42%;
 left: 26.79%;
 right: 26.79%;
 top: 61.12%;
 bottom: 32.93%;
 
-background: url(image\ 2.jpg);
+/* background: url(image\ 2.jpg); */
 }
 
 /* image 3 */
 .img16{
 position: absolute;
+width: 46.42%;
 left: 50.71%;
 right: 2.86%;
 top: 74.51%;
 bottom: 19.87%;
 
-background: url(image\ 3.jpg);
+/* background: url(image\ 3.jpg); */
 }

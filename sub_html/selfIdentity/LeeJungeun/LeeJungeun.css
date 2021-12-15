@@ -1,0 +1,442 @@
+/* 이정은_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 523%;
+/* height: 7322px; */
+
+background: #FFFFFF;
+}
+
+
+
+/* pattern1 */
+.img1{
+    width: 22.5%;
+position: absolute;
+left: 26.79%;
+right: 50.71%;
+top: 31.92%;
+bottom: 62%;
+
+}
+
+/* pattern2 */
+.img2{
+    width: 22.5%;
+position: absolute;
+left: 50.71%;
+right: 26.71%;
+top: 31.92%;
+bottom: 62%;
+
+
+}
+
+/* pattern4 */
+.img3{
+    width: 22.5%;
+position: absolute;
+left: 50.71%;
+right: 26.79%;
+top: 38.23%;
+bottom: 55.7%;
+
+}
+
+/* THUMB_Pattern */
+.img4{
+    width: 22.5%;
+position: absolute;
+left: 26.79%;
+right: 50.71%;
+top: 38.23%;
+bottom: 55.7%;
+
+}
+
+/* 20 objects2 */
+.img5{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 18.51%;
+bottom: 76.5%;
+
+/* background: url(20 objects2.png); */
+}
+
+/* THUMB_SelfidentityPoster */
+.img6{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 13.23%;
+bottom: 81.77%;
+
+/* background: url(THUMB_SelfidentityPoster.png); */
+}
+
+/* pattern5 */
+.img7{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 44.54%;
+bottom: 49.19%;
+
+}
+
+
+/* sb1 */
+.img8{
+position: absolute;
+width: 46.42%;
+left: 2.93%;
+right: 50.71%;
+top: 59.22%;
+bottom: 35.78%;
+
+/* background: url(sb1.png); */
+}
+
+/* sb2 */
+.img9{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.93%;
+top: 59.22%;
+bottom: 35.78%;
+
+/* background: url(sb2.png); */
+}
+
+/* sb3 */
+.img10{
+position: absolute;
+width: 46.42%;
+left: 2.93%;
+right: 50.71%;
+top: 64.49%;
+bottom: 30.52%;
+
+/* background: url(sb3.png); */
+}
+
+/* sb4 */
+.img11{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.93%;
+top: 64.49%;
+bottom: 30.52%;
+
+/* background: url(sb4.png); */
+}
+
+/* sb5 */
+.img12{
+position: absolute;
+width: 46.42%;
+left: 2.93%;
+right: 50.71%;
+top: 69.75%;
+bottom: 25.27%;
+
+/* background: url(sb5.png); */
+}
+
+/* sb6 */
+.img13{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.93%;
+top: 69.75%;
+bottom: 25.25%;
+
+/* background: url(sb6.png); */
+}
+
+/* THUMB_Selfbranding */
+.img14{
+position: absolute;
+width: 46.42%;
+left: 3%;
+right: 50.57%;
+top: 74.95%;
+bottom: 19.99%;
+
+/* background: url(THUMB_Selfbranding.png); */
+}
+
+/* sb9 */
+.img15{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.86%;
+top: 80.22%;
+bottom: 14.79%;
+
+/* background: url(sb9.png); */
+}
+
+/* sb10 */
+.img16{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.93%;
+top: 80.22%;
+bottom: 14.79%;
+
+/* background: url(sb10.png); */
+}
+
+/* sb12 */
+.img17{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 85.48%;
+bottom: 8.6%;
+
+/* background: url(sb12.png); */
+}
+
+/* sb13 */
+.img18{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 91.67%;
+bottom: 1.37%;
+
+/* background: url(sb13.png); */
+}
+
+/* sb14 */
+.img19{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.93%;
+top: 91.67%;
+bottom: 1.37%;
+
+/* background: url(sb14.png); */
+}
+
+/* sb8 */
+.img20{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.93%;
+top: 75.02%;
+bottom: 19.99%;
+
+/* background: url(sb8.png); */
+}
+
+/* sb11 */
+.img21{
+    width: 46.42%;
+position: absolute;
+left: 2.57%;
+right: 50.86%;
+top: 85.47%;
+bottom: 8.59%;
+
+/* background: url(sb11.png); */
+}
+
+/* Line 4 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 27.6%;
+bottom: 72.4%;
+
+border: 1px solid #000000;
+}
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 54.9%;
+bottom: 45.1%;
+
+border: 1px solid #000000;
+}
+
+/* Line 5 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 8.92%;
+bottom: 91.08%;
+
+border: 1px solid #000000;
+}
+
+/* A3 Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 90.43%;
+top: 28.48%;
+bottom: 71.21%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Identity Design */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 87%;
+top: 55.78%;
+bottom: 43.91%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 셀프 큐레이션 과정에서 도출한 ‘나의 공간’이라는 키워드로 나를 이루는 공간을 패턴으로 구성했다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 47.14%;
+top: 29.32%;
+bottom: 70.32%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* ‘do-us’라는 개인의 공간을 구성하는 동시에 각자들의 작업을 공유해 협업이 가능 하고, 판매까지 가능한 아트 스튜디오를 브랜딩했다. 웹사이트와 명함, 그리고 브랜드의 굿즈인 수첩과 연필을 제작했다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 56.62%;
+bottom: 42.67%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* 나를 이루는 20개의 오브젝트들을 모아 나의 마을의 이미지를 구성했다. 각각의 오브제들은 나의 이야기를 담고 있다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 38.29%;
+top: 10.64%;
+bottom: 89.01%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+
+}
+
+/* PATTERN */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 87.14%;
+top: 27.92%;
+bottom: 71.46%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* DO-US ( Art Studio) */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 75.43%;
+top: 55.2%;
+bottom: 44.17%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+
+}
+
+/* Collage- Object Village */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 70%;
+top: 9.22%;
+bottom: 90.15%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+
+}

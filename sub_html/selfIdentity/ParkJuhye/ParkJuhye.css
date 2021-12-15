@@ -1,4 +1,4 @@
-/* 박주혜_SelfIdentity */
+/* 박주혜_SelfIdentity */
 #canvas{
 position: relative;
 width: 100%;
@@ -62,7 +62,6 @@ right: 55.29%;
 top: 24.19%;
 bottom: 75.53%;
 
-font-family: NEXON Lv2 Gothic;
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
@@ -108,183 +107,200 @@ bottom: 92.44%;
 
 
 /* 17 */
-.img1{
+.img17{
+    width: 94.28%;
 position: absolute;
 left: 2.86%;
 right: 2.86%;
 top: 70.97%;
 bottom: 19.17%;
 
-background: url(17.jpg);
+/* background: url(17.jpg); */
 }
 
 /* 16 */
-.img2{
+.img16{
+    width: 94.28%;
 position: absolute;
 left: 2.86%;
 right: 3.29%;
 top: 81.04%;
 bottom: 9.13%;
 
-background: url(16.jpg);
+/* background: url(16.jpg); */
 }
 
 /* 15 */
-.img3{
+.img15{
+    width: 94.28%;
 position: absolute;
 left: 2.86%;
 right: 2.86%;
 top: 91.41%;
 bottom: 1.05%;
 
-background: url(15.jpg);
+/* background: url(15.jpg); */
 }
 
 /* 14 */
-.img4{
+.img14{
+    width: 46.42%;
 position: absolute;
 left: 2.86%;
 right: 50.79%;
 top: 65.88%;
 bottom: 30.07%;
 
-background: url(14.jpg);
+/* background: url(14.jpg); */
 }
 
 /* 13 */
-.img5{
+.img13{
+    width: 46.42%;
 position: absolute;
 left: 2.86%;
 right: 50.71%;
 top: 61.65%;
 bottom: 34.29%;
 
-background: url(13.jpg);
+/* background: url(13.jpg); */
 }
 
 /* 12 */
-.img6{
+.img12{
+    width: 20.5%;
 position: absolute;
 left: 74.57%;
 right: 2.86%;
 top: 36.54%;
 bottom: 58.83%;
 
-background: url(12.jpg);
+/* background: url(12.jpg); */
 }
 
 /* 11 */
-.img7{
+.img11{
+    width: 46.42%;
 position: absolute;
 left: 24.21%;
 right: 29.36%;
 top: 52.49%;
 bottom: 43.53%;
 
-background: url(11.jpg);
+/* background: url(11.jpg); */
 }
 
 /* 10 */
-.img8{
+.img10{
+    width: 46.42%;
 position: absolute;
 left: 50.71%;
 right: 2.93%;
 top: 57.41%;
 bottom: 38.53%;
 
-background: url(10.jpg);
+/* background: url(10.jpg); */
 }
 
 /* 9 */
 .img9{
+    width: 46.42%;
 position: absolute;
 left: 2.86%;
 right: 50.71%;
 top: 57.41%;
 bottom: 38.53%;
 
-background: url(9.jpg);
+/* background: url(9.jpg); */
 }
 
 /* 1 */
-.img10{
+.img1{
+    width: 70.35%;
 position: absolute;
 left: 2.86%;
 right: 28.14%;
 top: 10.16%;
 bottom: 79.68%;
 
-background: url(1.jpg);
+/* background: url(1.jpg); */
 }
 
 /* 3 */
-.img11{
+.img3{
+    width: 46.42%;
 position: absolute;
 left: 50.79%;
 right: 2.86%;
 top: 26.18%;
 bottom: 64.2%;
 
-background: url(3.jpg);
+/* background: url(3.jpg); */
 }
 
 /* 8 */
-.img12{
+.img8{
+    width: 20.5%;
 position: absolute;
 left: 2.86%;
 right: 74.64%;
 top: 36.54%;
 bottom: 58.83%;
 
-background: url(8.jpg);
+/* background: url(8.jpg); */
 }
 
 /* 2 */
-.img13{
+.img2{
+    width: 46.42%;
 position: absolute;
 left: 2.86%;
 right: 50.64%;
 top: 26.18%;
 bottom: 64.16%;
 
-background: url(2.jpg);
+/* background: url(2.jpg); */
 }
 
 /* 7 */
-.img14{
+.img7{
+    width: 46.42%;
 position: absolute;
 left: 50.71%;
 right: 2.93%;
 top: 61.65%;
 bottom: 34.3%;
 
-background: url(7.jpg);
+/* background: url(7.jpg); */
 }
 
 /* 6 */
-.img15{
+.img6{
+    width: 46.42%;
 position: absolute;
 left: 50.71%;
 right: 2.93%;
 top: 65.89%;
 bottom: 30.07%;
 
-background: url(6.jpg);
+/* background: url(6.jpg); */
 }
 
 /* 5 */
-.img16{
+.img5{
+    width: 46.42%;
 position: absolute;
 left: 26.79%;
 right: 26.79%;
 top: 36.52%;
 bottom: 54.01%;
 
-background: url(5.jpg);
+/* background: url(5.jpg); */
 }
 
 /* Line 6 */
 .l3{
+
 position: absolute;
 left: 2.86%;
 right: 2.86%;
@@ -296,6 +312,7 @@ border: 1px solid #000000;
 
 /* Identity Design */
 #r2{
+
 position: absolute;
 left: 2.86%;
 right: 87%;
@@ -309,6 +326,7 @@ color: #000000;
 
 /* 대학교에 와서 과제물부터 개인 작업까지, 하나의 결과물들을 도출하기 이전 과정의단계에 초점을 맞춘 개인 스튜디오 브랜드를 제작하였다. 이름이 박주혜인점과 박의 영어 park 가 공원, 주차장이라는 점을 고려해 생각이부영하는 공간을 제작했다. 이러한 아이디어들은 또하나의 다른 아이디어로 파생될 수 있다. */
 #d3{
+
 position: absolute;
 left: 2.86%;
 right: 2.86%;
@@ -320,6 +338,7 @@ bottom: 48.99%;
 
 /* ’mpark */
 #t3{
+
 position: absolute;
 left: 2.86%;
 right: 89.21%;
