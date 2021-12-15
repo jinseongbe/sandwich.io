@@ -862,3 +862,22 @@ line-height: 26px;
 
 color: #000000;
 }
+
+
+/* 작은 것들이 사실 정말 큰 것일지도 */
+.txt14{
+position: absolute;
+left: 23.71%;
+right: 23.71%;
+top: 61.56%;
+bottom: 38.2%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #000000;
+}
