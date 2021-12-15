@@ -1,0 +1,323 @@
+/* 김민지_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 431.14%;
+/* height: 6036px; */
+
+background: #FFFFFF;
+}
+
+/* 2 */
+.img2{
+position: absolute;
+width: 29.07%;
+left: 2.86%;
+right: 68.29%;
+top: 35.62%;
+bottom: 54.95%;
+
+/* background: url(대지 7.png); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 29.07%;
+left: 35.57%;
+right: 35.57%;
+top: 35.62%;
+bottom: 54.95%;
+
+/* background: url(대지 6.png); */
+}
+
+/* 4 */
+.img4{
+position: absolute;
+width: 29.07%;
+left: 20.5%;
+right: 50.71%;
+top: 46.37%;
+bottom: 44.23%;
+
+/* background: url(대지 8.png); */
+}
+
+/* 5 */
+.img5{
+position: absolute;
+width: 29.07%;
+left: 50.71%;
+right: 21.07%;
+top: 46.59%;
+bottom: 44.2%;
+
+/* background: url(THUMB_대지 4.png); */
+}
+
+/* 대지 5 */
+.img10{
+position: absolute;
+width: 29.07%;
+left: 68.07%;
+right: 2.86%;
+top: 35.55%;
+bottom: 54.9%;
+
+/* background: url(대지 5.png); */
+}
+
+/* 1 */
+.img1{
+position: absolute;
+width: 71.42%;
+left: 14.29%;
+right: 14.29%;
+top: 16.05%;
+bottom: 74.59%;
+}
+
+/* 6 */
+.img6{
+position: absolute;
+width: 49.28%;
+left: 25.36%;
+right: 25.36%;
+top: 65.97%;
+bottom: 25.3%;
+
+/* background: url(THUMB_브랜딩.png); */
+}
+
+/* 7 */
+.img7{
+position: absolute;
+width: 49.28%;
+left: 25.36%;
+right: 25%;
+top: 76.03%;
+bottom: 12.59%;
+
+/* background: url(대지 10.png); */
+}
+
+/* 8 */
+.img8{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 88.73%;
+bottom: 3.21%;
+
+/* background: url(대지 17.png); */
+}
+
+/* 9 */
+.img9{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 88.73%;
+bottom: 1.66%;
+
+/* background: url(대지 18.png); */
+}
+
+
+/* Line 4 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 30.38%;
+bottom: 69.62%;
+
+border: 1px solid #000000;
+}
+
+/* Line 5 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 10.82%;
+bottom: 89.18%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 31.35%;
+bottom: 68.27%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Identity Design */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 87%;
+top: 61.8%;
+bottom: 37.82%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Video */
+#r1{
+position: absolute;
+left: 2.86%;
+right: 93.21%;
+top: 11.93%;
+bottom: 87.69%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 거칠고 큰 동작. 눈에 보이지 않는 것에 대한 믿음. 귀 기울여야 하는 것을 좋아해. 하나를 깊이 알고 싶은, 순수한 마음을 전하는 것은 어려워. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 27.29%;
+top: 32.09%;
+bottom: 67.48%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* 데카르트의 주체적 자아, 생각하는 자아를 뜻하는 라틴어 단어 ‘cogito’와 뜨거운 상태로 흘러가는 용암을 뜻하는 ‘Lava’를 결합하여 ‘Lavacozito’라는 이름을 갖게 되었다. 자신만의 좋아하는 것을 찾고 이를 위해 뜨거운 마음을 가진다는 의미를 가진 영상스튜디오. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 62.82%;
+bottom: 36.32%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* 나의 성격과 가치관을 나타내는 물건을 정하여 대상들에게 느끼는 감정이나 겪었던 순간들을 움직임과 색으로 표현하였다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 36%;
+top: 12.54%;
+bottom: 87.03%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* 마음의 무늬 */
+#t2{
+position: absolute;
+left: 2.93%;
+right: 87.5%;
+top: 30.72%;
+bottom: 68.74%;
+
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 33px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* LAVACOZITO */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 82.36%;
+top: 61.1%;
+bottom: 38.14%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* 오랜 것들,영상 */
+#t1{
+position: absolute;
+left: 2.86%;
+right: 85.07%;
+top: 11.28%;
+bottom: 88.17%;
+
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 33px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+/* Line 7 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 60.85%;
+bottom: 39.15%;
+
+border: 1px solid #000000;
+}

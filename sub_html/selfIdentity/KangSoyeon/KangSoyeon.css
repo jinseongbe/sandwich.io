@@ -1,0 +1,261 @@
+/* 강소연_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 324%;
+/* height: 4536px; */
+
+background: #FFFFFF;
+}
+
+
+/* 1 */
+.img1{
+position: absolute;
+width: 94.28%;
+left: 2.93%;
+right: 2.79%;
+top: 18.94%;
+bottom: 64.69%;
+
+/* background: url(Asset 2최소규정.png); */
+
+}
+/* 2 */
+.img2{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 47.66%;
+bottom: 35.97%;
+
+/* background: url(발표자료 copy.jpg); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 64.46%;
+bottom: 29.72%;
+
+/* background: url(강소연 시각디자인2 패턴.png); */
+
+}
+/* 4 */
+.img4{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 82.67%;
+bottom: 2.2%;
+
+/* background: url(THUMB_logo.png); */
+}
+
+
+/* Line 4 */
+.l1{
+position: absolute;
+left: 2.93%;
+right: 2.79%;
+top: 41.91%;
+bottom: 58.09%;
+
+border: 1px solid #000000;
+}
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 76.9%;
+bottom: 23.1%;
+
+border: 1px solid #000000;
+}
+
+/* Line 5 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 13.16%;
+bottom: 86.84%;
+
+border: 1px solid #000000;
+
+}
+/* Poster */
+#r2{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 43.32%;
+bottom: 56.17%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Identity Design */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 87%;
+top: 78.31%;
+bottom: 21.19%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 책자 */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 94.57%;
+top: 14.57%;
+bottom: 84.92%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 우리는 유기적인 세계에서 살고 있다. */
+#d2{
+position: absolute;
+left: 2.93%;
+right: 78.57%;
+top: 44.69%;
+bottom: 54.74%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* 파티게더링 플랫폼. 입장팔찌를 모티브로 디자인 했습니다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 67.79%;
+top: 79.67%;
+bottom: 19.75%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* 나를 구성하는 것들. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 87.07%;
+top: 15.94%;
+bottom: 83.49%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* PATTERN */
+#t2{
+position: absolute;
+left: 2.93%;
+right: 87.07%;
+top: 42.39%;
+bottom: 56.59%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+
+}
+
+/* 아카이브 */
+#t1{
+position: absolute;
+left: 2.86%;
+right: 89.86%;
+top: 13.8%;
+bottom: 85.47%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 33px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 무라사키 스테이션 */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 82.07%;
+top: 77.56%;
+bottom: 21.72%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 33px;
+/* identical to box height */
+
+color: #000000;
+}

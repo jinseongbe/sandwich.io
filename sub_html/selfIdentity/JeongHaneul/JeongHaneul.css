@@ -1,0 +1,422 @@
+/* 정하늘_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 427.42%;
+/* height: 5984px; */
+
+background: #FFFFFF;
+}
+
+/* self-identity20 */
+
+.img20{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.64%;
+top: 16.93%;
+bottom: 71.99%;
+
+background: url(self-identity20.png);
+}
+
+
+/* 3 */
+
+.img3{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 41.73%;
+bottom: 50.84%;
+
+background: url(패턴2.png);
+}
+
+
+/* 5 */
+
+.img5{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 49.57%;
+bottom: 42.98%;
+
+background: url(패턴4.png);
+}
+
+
+/* 4 */
+
+.img4{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.93%;
+top: 41.73%;
+bottom: 50.84%;
+
+background: url(패턴3.png);
+}
+
+
+/* 6 */
+
+.img6{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 49.57%;
+bottom: 42.98%;
+
+background: url(패턴5.png);
+}
+
+
+/* 10 */
+
+.img10{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.64%;
+top: 75.32%;
+bottom: 19.42%;
+
+background: url(9.png);
+}
+
+
+/* 11 */
+
+.img11{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.64%;
+top: 80.9%;
+bottom: 13.84%;
+
+background: url(3.png);
+}
+
+
+/* 12 */
+
+.img12{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.64%;
+top: 86.46%;
+bottom: 10.03%;
+
+background: url(8.png);
+}
+
+
+/* 15 */
+
+.img15{
+position: absolute;
+width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 87.12%;
+bottom: 5.45%;
+
+background: url(10.png);
+}
+
+
+/* 17 */
+
+.img17{
+position: absolute;
+width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 94.77%;
+bottom: 1.72%;
+
+/* background: url(7.png); */
+}
+
+
+/* 19 */
+
+.img19{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 94.55%;
+bottom: 1.72%;
+
+/* background: url(스크린샷 2021-12-06 오전 4.03.png); */
+}
+
+
+/* 18 */
+
+.img18{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 94.55%;
+bottom: 1.67%;
+
+/* background: url(스크린샷 2021-12-06 오전 4.04.png); */
+}
+
+
+/* 13 */
+
+.img13{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.64%;
+top: 90.27%;
+bottom: 2.21%;
+
+/* background: url(스크린샷 2021-12-06 오전 4.04.png); */
+}
+
+
+/* 9 */
+
+.img9{
+position: absolute;
+width: 22.5%;
+left: 74.93%;
+right: 2.86%;
+top: 67.25%;
+bottom: 25.08%;
+
+background: url(1.png);
+}
+
+
+/* 8 */
+
+.img8{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 67.25%;
+bottom: 25.08%;
+
+background: url(2.png);
+}
+
+/* 1 */
+.img1{
+position: absolute;
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 16.29%;
+bottom: 71.37%;
+
+}
+
+/* 14 */
+.img14{
+position: absolute;
+width: 70.35%;
+left: 26.86%;
+right: 2.86%;
+top: 75.32%;
+bottom: 13.17%;
+
+}
+
+/* 7 */
+.img7{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 67.25%;
+bottom: 25.07%;
+
+/* background: url(대표이미지_정하늘.png); */
+
+}
+/* 16 */
+.img16{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 87.12%;
+bottom: 5.93%;
+
+/* background: url(6.png); */
+}
+
+/* 2 */
+.img2{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 41.73%;
+bottom: 42.9%;
+
+/* background: url(대표이미지_정하늘.png); */
+}
+
+
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 10.91%;
+bottom: 89.09%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 37.52%;
+bottom: 62.1%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Identity Design */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 87%;
+top: 63.03%;
+bottom: 36.58%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 브로슈어 */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 92.07%;
+top: 11.98%;
+bottom: 87.63%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* PATTERN */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 87.14%;
+top: 36.81%;
+bottom: 62.42%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* SELF BRANDING */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 78.5%;
+top: 62.33%;
+bottom: 36.9%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* Self Identity */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 84%;
+top: 11.28%;
+bottom: 87.95%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* Line 8 */
+.l2{
+position: absolute;
+left: 2.14%;
+right: 3.57%;
+top: 61.97%;
+bottom: 38.03%;
+
+border: 1px solid #000000;
+}
+
+/* Line 9 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 36.45%;
+bottom: 63.55%;
+
+border: 1px solid #000000;
+}
