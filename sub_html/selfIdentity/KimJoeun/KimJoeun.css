@@ -1,0 +1,864 @@
+/* 김조은_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 1361.5%;
+/* height: 19061px; */
+
+background: #FFFFFF;
+}
+
+
+/* 2 */
+.vid{
+position: absolute;
+width: 94.28%;
+height: 3.562%;
+left: 2.86%;
+right: 2.86%;
+top: 9.07%;
+bottom: 87.37%;
+
+background: #C4C4C4;
+}
+
+/* 14 */
+
+.img14{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 64.91%;
+bottom: 31.21%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.04.png); */ 
+}
+
+
+/* 1 */
+
+.img1{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 5.08%;
+bottom: 91.03%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.02.png); */ 
+}
+
+
+/* 6 */
+
+.img6{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 26.24%;
+bottom: 69.88%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.07.png); */ 
+}
+
+
+/* 8 */
+
+.img8{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 34.94%;
+bottom: 61.18%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.08.png); */ 
+}
+
+
+/* 7 */
+
+.img7{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 30.95%;
+bottom: 65.16%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.08.png); */ 
+}
+
+
+/* 12 */
+
+.img12{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 52.52%;
+bottom: 43.6%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.09.png); */ 
+}
+
+
+/* 13 */
+
+.img13{
+position: absolute;
+width: 94.28%;
+left: 3.57%;
+right: 3.14%;
+top: 57.28%;
+bottom: 38.88%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.09.png); */ 
+}
+
+
+/* 15 */
+
+.img15{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 71.75%;
+bottom: 24.36%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.04.png); */ 
+}
+
+
+/* 16 */
+
+.img16{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 76.23%;
+bottom: 19.05%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.05.png); */ 
+}
+
+
+/* 19 */
+
+.img19{
+position: absolute;
+width: 94.28%;
+left: 3.14%;
+right: 2.86%;
+top: 84.96%;
+bottom: 9.92%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.06.png); */ 
+}
+
+
+/* 20 */
+
+.img20{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 90.08%;
+bottom: 4.73%;
+
+/* background: url(브랜드.jpg); */ 
+}
+
+
+
+/* 3 */
+
+.img3{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 12.74%;
+bottom: 85.35%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.03.png); */ 
+}
+
+
+/* 4 */
+
+.img4{
+position: absolute;
+width: 46.42%;
+left: 50.36%;
+right: 3.21%;
+top: 12.74%;
+bottom: 85.35%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.03.png); */ 
+}
+
+
+/* 10 */
+
+.img10{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 38.92%;
+bottom: 56.25%;
+
+/* background: url(poster_4-03.jpg); */ 
+}
+
+
+/* 21 */
+
+.img21{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 95.43%;
+bottom: 0.52%;
+
+/* background: url(명함사진.jpg); */ 
+}
+
+
+/* 22 */
+
+.img22{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.64%;
+top: 95.43%;
+bottom: 0.52%;
+
+/* background: url(향수.jpg); */ 
+}
+
+/* 5 */
+
+.img5{
+position: absolute;
+width: 48.35%;
+left: 25.36%;
+right: 26.29%;
+top: 21.88%;
+bottom: 74.62%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.07.png); */ 
+}
+
+/* 9 */
+
+.img9{
+position: absolute;
+width: 23%;
+left: 74.07%;
+right: 2.93%;
+top: 41.36%;
+bottom: 56.25%;
+
+/* background: url(스크린샷 2021-12-06 오전 4.35.png); */ 
+}
+
+/* 11 */
+
+.img11{
+position: absolute;
+width: 64.28%;
+left: 19.21%;
+right: 16.43%;
+top: 44.59%;
+bottom: 48.71%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.08.png); */ 
+}
+
+/* 18 */
+
+.img18{
+position: absolute;
+width: 70.85%;
+left: 26.29%;
+right: 2.86%;
+top: 81.36%;
+bottom: 15.57%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.05.png); */ 
+}
+
+/* 17 */
+
+.img17{
+position: absolute;
+width: 23.12%;
+left: 3.14%;
+right: 73.71%;
+top: 82.23%;
+bottom: 15.57%;
+
+/* background: url(스크린샷 2021-12-02 오전 1.05.png); */ 
+}
+
+
+/* Line 4 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 16.52%;
+bottom: 83.48%;
+
+border: 1px solid #000000;
+
+
+}
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 63.25%;
+bottom: 36.75%;
+
+border: 1px solid #000000;
+
+}
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 3.43%;
+bottom: 96.57%;
+
+border: 1px solid #000000;
+}
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 16.85%;
+bottom: 83.03%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Identity Design */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 87%;
+top: 63.59%;
+bottom: 36.29%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+/* Screen Shot */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 88.79%;
+top: 3.76%;
+bottom: 96.12%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 나를 설명하는 문장 5개를 주제로 작업한 패턴포스터. 왼쪽부터 ‘조각조각 콜렉터 / 경계태세로 경계 넘기 / 깊게 들이마시고(흡) 남김 없이 내뱉기(후-) / 장르 불문 잡식가’의 문장을 나타낸 것이다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 25.71%;
+top: 17.18%;
+bottom: 82.54%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* 인간 내면의 것들을 그래픽디자인하고 일러스트로 만들어내는 작가로서의 나의 브랜드를 기획하고 디자인하였다. 인간의 마음속 그림자와 꿈틀거리는 마음을 사과와 지렁이로 상징화하였다 */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 40.43%;
+top: 63.92%;
+bottom: 35.8%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* 내가 살아오며 거부해온 것들을 모아 보여줌으로써 나의 정체성을 간접적으로 규정해써 보고자 한 작업이다. 휴지통 아카이브 내 하위 폴더는 ‘히스토리/ 라이프스타일/ 미래 삭제 예정/ 복구 예정’으로 구성되어 각각의 물건이 분류되어 있다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 31.5%;
+top: 4.09%;
+bottom: 95.63%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* PATTERN */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 87.14%;
+top: 16.63%;
+bottom: 83.13%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* JOAA */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 90.64%;
+top: 63.37%;
+bottom: 36.39%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* MY CORE OBJECT */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 76.71%;
+top: 3.55%;
+bottom: 96.21%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* Core Memory 개인의 생각, 행동에 결정적인 역할을 하고 하나의 인격을 만드는 역할 -> Core Object */
+#txt1{
+position: absolute;
+left: 25.07%;
+right: 22.36%;
+top: 14.94%;
+bottom: 84.38%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #000000;
+}
+
+
+/* 불분명명한 것들이 분명했으면 */
+#txt10{
+position: absolute;
+left: 23.71%;
+right: 23.71%;
+top: 51.84%;
+bottom: 47.92%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #000000;
+}
+
+
+/* 사소한 것도 아름답게 */
+#txt12{
+position: absolute;
+left: 23.71%;
+right: 23.71%;
+top: 56.84%;
+bottom: 42.92%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #000000;
+}
+
+
+/* 1. 힐링 브랜드 카테고리 별 정리 (공간, 제품, 체험, 관광, 게임, 음악 등의 카테고리) -> 이전부터 힐링 관련 브랜드들이 많이 생겨나고 있었지만, 최근 들어 코로나의 영향인지 셀프 가드닝, 공예 체험, 힐링 카페 등의 이용이 증가했다고 한다. 주변에 많이 생기고 있는 힐링 브랜드들과 컨텐츠들을 보기 쉽게 분류+정리해주기 2. 서로의 힐링 경험 공유 -> 리뷰와 별점을 통한 좋은 힐링 컨텐츠, 브랜드 파악 3. 오늘의 힐링 스토리 -> 인스타, 페이스북의 스토리 기능. 그 날의 사소한 경험들도 공유하고자 하는 특성(작은 공감과 위로의 순간) 4. 작은 고민 털어놓기 게시판(응원의 메세지) -> 에브리타임, 고민갤러리 등과 같이 어디가서 말하기 애매한 고민들을 털어놓는 소통의 장소 */
+#txt15{
+position: absolute;
+left: 18.21%;
+right: 18.21%;
+top: 69.27%;
+bottom: 28.52%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #000000;
+}
+
+
+/* 1. 느슨한 성실함 2. 미룰 수 있을 때까지 최선을 다해 미뤄버리기 3. 길쭉 흐느적 4. 투명한 물에 비치는 파아란 하늘과 떠다니는 유리구슬 5. 객관논리경험계획 6. 불분명한 것들이 분명할 수 있다면 7. 좋은조은 8. 잔잔하게 날카로운 9. 작은 순간도 아름답게 10. 무엇이든 만듭니다 11. 너한테 맡기느니 내가 한다 12. 치즈는 싫어하는데 피자는 좋아하고 회는 싫어하지만 초밥은 좋아하는 생각정리는 좋아하지만 책상정리는 안하는 13. 가끔 뜬금포 14. 홈 스위트 홈 15. 온전한 나만의 시간 16. 뭐든 일단 하자 17. 차분한 듯 안 차분한 18. 나는 내가 제일 소중해 19. 작은 것들이 사실 정말 큰 것일지도 20. 이상한 정원 */
+#txt3{
+position: absolute;
+left: 23.71%;
+right: 23.71%;
+top: 18.58%;
+bottom: 78.21%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+text-align: center;
+
+color: #000000;
+}
+
+
+/* 관련 문장 -미룰 수 있을 때까지 최선을 다해 미뤄버리기 -객관논리경험계획 사용 모듈 */
+#txt7{
+position: absolute;
+left: 53.79%;
+right: 23%;
+top: 39.71%;
+bottom: 59.42%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <20 SENTENCES> */
+#txt2{
+position: absolute;
+left: 44.36%;
+right: 44.43%;
+top: 18.17%;
+bottom: 81.59%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+
+
+/* <Main Module> */
+#txt4{
+position: absolute;
+left: 45.57%;
+right: 36.57%;
+top: 25.71%;
+bottom: 74.05%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+
+}
+
+/* <PATTERN_1> */
+#txt5{
+position: absolute;
+left: 45.57%;
+right: 36.57%;
+top: 30.41%;
+bottom: 69.36%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <PATTERN_2> */
+#txt8{
+position: absolute;
+left: 45.57%;
+right: 36.57%;
+top: 44.15%;
+bottom: 55.61%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <PATTERN_3> */
+#txt9{
+position: absolute;
+left: 45.57%;
+right: 36.57%;
+top: 51.64%;
+bottom: 48.12%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <PATTERN_4> */
+#txt11{
+position: absolute;
+left: 45.93%;
+right: 36.21%;
+top: 56.6%;
+bottom: 43.16%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <PATTERN_5> */
+#txt13{
+position: absolute;
+left: 45.93%;
+right: 36.21%;
+top: 61.32%;
+bottom: 38.44%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <BRAND MANUAL> */
+#txt16{
+position: absolute;
+left: 44.57%;
+right: 37.57%;
+top: 71.52%;
+bottom: 28.25%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <BRAND GRAPHIC> */
+#txt17{
+position: absolute;
+left: 44.57%;
+right: 37.57%;
+top: 76.11%;
+bottom: 23.66%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <PATTERN_2> */
+#txt6{
+position: absolute;
+left: 53.14%;
+right: 29%;
+top: 39.37%;
+bottom: 60.4%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <APP/ WEB> */
+#txt18{
+position: absolute;
+left: 46.57%;
+right: 35.57%;
+top: 81.03%;
+bottom: 18.73%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* <ELSE> */
+#txt19{
+position: absolute;
+left: 47.71%;
+right: 34.43%;
+top: 84.96%;
+bottom: 14.81%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
