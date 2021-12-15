@@ -1,0 +1,360 @@
+/* 송혜주_Self Identity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 558.92%;
+/* height: 7825px; */
+
+background: #FFFFFF;
+}
+
+/* 17 */
+
+.img17{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 26.84%;
+bottom: 61.47%;
+
+/* background: url(자산 1.png); */
+}
+
+
+/* 16 */
+
+.img16{
+position: absolute;
+width: 46.42%;
+left: 3.21%;
+right: 50.71%;
+top: 22.73%;
+bottom: 65.58%;
+
+/* background: url(pattern 4.png); */
+}
+
+
+/* 15 */
+
+.img15{
+position: absolute;
+width: 46.42%;
+left: 3.21%;
+right: 50.71%;
+top: 32.83%;
+bottom: 56.66%;
+
+/* background: url(pattern 2.png); */
+}
+
+
+/* 14 */
+
+.img14{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 14.84%;
+bottom: 73.42%;
+
+/* background: url(pattern_3.png); */
+}
+
+
+/* 1 */
+
+.img1{
+position: absolute;
+width: 46.42%;
+left: 3.21%;
+right: 50.71%;
+top: 10.85%;
+bottom: 77.52%;
+
+/* background: url(pattern2.png); */
+}
+
+
+/* 6 */
+
+.img6{
+position: absolute;
+width: 46.42%;
+left: 3.21%;
+right: 50.71%;
+top: 60.66%;
+bottom: 37.25%;
+
+/* background: url(명함 3.png); */
+}
+
+
+/* 7 */
+
+.img7{
+position: absolute;
+width: 46.42%;
+left: 3.21%;
+right: 50.71%;
+top: 62.75%;
+bottom: 35.17%;
+
+/* background: url(명함 4.png); */
+}
+
+
+/* 8 */
+
+.img8{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 64.83%;
+bottom: 33.12%;
+
+/* background: url(명함 2.png); */
+}
+
+
+/* 9 */
+
+.img9{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 66.88%;
+bottom: 31.03%;
+
+/* background: url(명함1.png); */
+}
+
+
+/* 10 */
+
+.img10{
+position: absolute;
+width: 46.42%;
+left: 27.07%;
+right: 27.07%;
+top: 51.19%;
+bottom: 45.42%;
+
+/* background: url(로고.png); */
+}
+
+
+/* 11 */
+
+.img11{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.71%;
+top: 90.39%;
+bottom: 1.28%;
+
+/* background: url(b3eDU.png); */
+}
+
+
+/* 13 */
+
+.img13{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.57%;
+top: 87.63%;
+bottom: 4.04%;
+
+/* background: url(mFpw7.png); */
+}
+
+/* 2 */
+
+.img2{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.64%;
+top: 55.63%;
+bottom: 40.41%;
+
+/* background: url(패턴 1.png); */
+}
+
+
+/* 3 */
+
+.img3{
+position: absolute;
+width: 22.5%;
+left: 26.79%;
+right: 50.71%;
+top: 55.63%;
+bottom: 40.35%;
+
+/* background: url(패턴 2.png); */
+}
+
+
+/* 4 */
+
+.img4{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 55.63%;
+bottom: 40.35%;
+
+/* background: url(패턴 3.png); */
+}
+
+
+/* 5 */
+
+.img5{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.5%;
+top: 55.63%;
+bottom: 40.28%;
+
+/* background: url(패턴 4.png); */
+}
+
+/* 12 */
+
+.img12{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 3.21%;
+top: 69.8%;
+bottom: 13.39%;
+
+/* background: url(gEh7a.png); */
+}
+
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 8.35%;
+bottom: 91.65%;
+
+border: 1px solid #000000;
+}
+
+/* Identity Design */
+#r3{
+position: absolute;
+left: 3.21%;
+right: 86.64%;
+top: 47.99%;
+bottom: 51.72%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Poster */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 92.57%;
+top: 9.16%;
+bottom: 90.54%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* 흩날려쓴 손글씨와 의미없는 낙서는 무의식의 identity를 가장 잘 반영한다고 생각했다. 사람들의 손글씨와 낙서를 수집하고, 모듈을 만들어 사용자의 identity 를 만들어주는 브랜드를 제작했다. 낙서,손글씨 모듈에서 시작한것처럼 대부분의 굿즈는 정사각형의 형태를 띄고 있고 정사각형을 쌓아 올리거나 조합하여 아이덴티티 제작 과정을 쉽게 이해해 볼 수 있다. */
+#d2{
+position: absolute;
+left: 3.21%;
+right: 4.5%;
+top: 48.78%;
+bottom: 50.56%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #000000;
+}
+
+
+/* MATTI DOOTI */
+#t2{
+position: absolute;
+left: 3.21%;
+right: 81.57%;
+top: 47.45%;
+bottom: 51.96%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* IDENTITY PATTERN POSTER */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 66.86%;
+top: 8.63%;
+bottom: 90.79%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* Line 11 */
+.l3{
+position: absolute;
+left: 3.57%;
+right: 2.14%;
+top: 47.17%;
+bottom: 52.83%;
+
+border: 1px solid #000000;
+}

@@ -1,0 +1,586 @@
+/* 성슬기_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 1148.21%;
+/* height: 16075px; */
+
+background: #000000;
+}
+
+/* 19 */
+
+.img19{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 45.99%;
+bottom: 51.27%;
+
+/* background: url(5.png); */
+}
+
+
+/* 22 */
+
+.img22{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 65.14%;
+bottom: 29.03%;
+
+/* background: url(5.png); */
+}
+
+
+/* 23 */
+
+.img23{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 71.47%;
+bottom: 22.72%;
+
+/* background: url(5.png); */
+}
+
+
+/* 24 */
+
+.img24{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 77.77%;
+bottom: 17.31%;
+
+/* background: url(5.png); */
+}
+
+
+/* 25 */
+
+.img25{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 83.19%;
+bottom: 7.25%;
+
+/* background: url(5.png); */
+}
+
+
+/* 26 */
+
+.img26{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 93.24%;
+bottom: 0.62%;
+
+/* background: url(5.png); */
+}
+
+
+/* 27 */
+
+.img27{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.93%;
+top: 53.46%;
+bottom: 34.99%;
+
+/* background: url(THUMB_5.png); */
+}
+
+/* 6 */
+
+.img6{
+position: absolute;
+width: 46.42%;
+left: 2.93%;
+right: 50.71%;
+top: 18.52%;
+bottom: 75.77%;
+
+/* background: url(THUMB_5.png); */
+}
+
+
+/* 7 */
+
+.img7{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 28.06%;
+bottom: 69.08%;
+
+/* background: url(5.png); */
+}
+
+
+/* 8 */
+
+.img8{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 28.06%;
+bottom: 69.08%;
+
+/* background: url(5.png); */
+}
+
+
+/* 9 */
+
+.img9{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 31.05%;
+bottom: 66.09%;
+
+/* background: url(5.png); */
+}
+
+
+/* 10 */
+
+.img10{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 31.05%;
+bottom: 66.08%;
+
+/* background: url(5.png); */
+}
+
+
+/* 11 */
+
+.img11{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 34.05%;
+bottom: 63.09%;
+
+/* background: url(5.png); */
+}
+
+
+/* 12 */
+
+.img12{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 34.05%;
+bottom: 63.09%;
+
+/* background: url(5.png); */
+}
+
+
+/* 13 */
+
+.img13{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 37.03%;
+bottom: 60.11%;
+
+/* background: url(5.png); */
+}
+
+
+/* 14 */
+
+.img14{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 37.03%;
+bottom: 60.11%;
+
+/* background: url(5.png); */
+}
+
+
+/* 15 */
+
+.img15{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 40.02%;
+bottom: 57.12%;
+
+/* background: url(5.png); */
+}
+
+
+/* 16 */
+
+.img16{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 40.02%;
+bottom: 57.12%;
+
+/* background: url(5.png); */
+}
+
+
+/* 17 */
+
+.img17{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 43%;
+bottom: 54.13%;
+
+/* background: url(5.png); */
+}
+
+
+/* 18 */
+
+.img18{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 43%;
+bottom: 54.13%;
+
+/* background: url(5.png); */
+}
+
+/* 2 */
+
+.img2{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 21.42%;
+bottom: 75.81%;
+
+/* background: url(5.png); */
+}
+
+
+/* 3 */
+
+.img3{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 21.42%;
+bottom: 75.81%;
+
+/* background: url(5.png); */
+}
+
+
+/* 4 */
+
+.img4{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 18.52%;
+bottom: 78.71%;
+
+/* background: url(5.png); */
+}
+
+
+/* 5 */
+
+.img5{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 18.52%;
+bottom: 78.71%;
+
+/* background: url(5.png); */
+}
+
+/* 1 */
+
+.img1{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 6.03%;
+bottom: 85.31%;
+
+/* background: url(5.png); */
+}
+
+/* 20 */
+
+.img20{
+position: absolute;
+width: 47.14%;
+left: 50%;
+right: 2.86%;
+top: 49.23%;
+bottom: 46.67%;
+
+/* background: url(5.png); */
+}
+
+
+/* 21 */
+
+.img21{
+position: absolute;
+width: 47.14%;
+left: 2.86%;
+right: 50%;
+top: 49.23%;
+bottom: 46.67%;
+
+/* background: url(5.png); */
+}
+
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 4.06%;
+bottom: 95.94%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 16.95%;
+bottom: 82.91%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Identity Design */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 87%;
+top: 26.49%;
+bottom: 73.36%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Screen Shot */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 88.79%;
+top: 4.46%;
+bottom: 95.4%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 부정적인 마음인 자의식과잉과 자기연민을 패턴화하고 포스터로 디자인하였다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 57.71%;
+top: 17.34%;
+bottom: 82.5%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 인간 내면의 것들을 그래픽디자인하고 일러스트로 만들어내는 작가로서의 나의 브랜드를 기획하고 디자인하였다. 인간의 마음속 그림자와 꿈틀거리는 마음을 사과와 지렁이로 상징화하였다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 40.43%;
+top: 26.88%;
+bottom: 72.78%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 빨갛고, 파랗고, 또 분홍분홍한 나의 이중적인 모습들을 20가지의 물건들로 표현하였다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 53%;
+top: 4.85%;
+bottom: 94.99%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* PATTERN */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 87.14%;
+top: 16.69%;
+bottom: 83.02%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* The */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 93.36%;
+top: 26.23%;
+bottom: 73.48%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+
+
+/* SELF IDENTITY */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 81.14%;
+top: 4.2%;
+bottom: 95.51%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* Line 10 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 26.1%;
+bottom: 73.9%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 11 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 16.55%;
+bottom: 83.45%;
+
+border: 1px solid #FFFFFF;
+}

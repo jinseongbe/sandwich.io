@@ -1,0 +1,341 @@
+/* 정세윤_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 603.14%;
+/* height: 8444px; */
+
+background: #000000;
+}
+
+/* 4 */
+.vid{
+position: absolute;
+width: 94.28%;
+height: 9.1%;
+left: 2.86%;
+right: 2.86%;
+top: 53.71%;
+bottom: 37.19%;
+
+background: #C4C4C4;
+}
+
+/* 1 */
+.img1{
+position: absolute;
+width: 94.28%;
+left: 2.93%;
+right: 2.79%;
+top: 10.54%;
+bottom: 73.83%;
+
+/* background: url(7680.png); */
+}
+
+/* 2 */
+.img2{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 26.41%;
+bottom: 57.96%;
+
+/* background: url(D_0.png); */
+}
+
+/* 3 */
+.img3{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 48.69%;
+bottom: 46.53%;
+
+/* background: url(Asset 3@4x.png); */
+}
+
+/* 5 */
+.img5{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 69.47%;
+bottom: 18.29%;
+
+/* background: url(Asset 5@4x.png); */
+}
+
+/* 10 */
+.img10{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 94.72%;
+bottom: 1.18%;
+
+/* background: url(Asset 6@4x.png); */
+}
+
+/* 6 */
+.img6{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 81.95%;
+bottom: 11.14%;
+
+/* background: url(Artboard 16@4x-100.jpg); */
+}
+
+/* 7 */
+.img7{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 81.95%;
+bottom: 13.72%;
+
+/* background: url(untitled.png); */
+}
+
+/* 8 */
+.img8{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 89.09%;
+bottom: 5.52%;
+
+/* background: url(Square_Book_Mockup_6.png); */
+}
+
+/* 9 */
+.img9{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 86.52%;
+bottom: 8.86%;
+
+/* background: url(Mockup_Business_Card_90x50_1.png); */
+}
+
+/* Rectangle 257 */
+.box{
+position: absolute;
+width: 100%;
+left: 0%;
+right: 0%;
+top: 66.37%;
+bottom: 0%;
+z-index: -1;
+background: #FFFFFF;
+}
+
+/* Line 6 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 66.37%;
+bottom: 33.63%;
+
+border: 1px solid #FFFFFF;
+transform: matrix(0.71, 0, inf, -nan, 0, 0);
+}
+
+/* Line 5 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 7.11%;
+bottom: 92.89%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Moving Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 87.21%;
+top: 46.35%;
+bottom: 53.38%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Identity Design */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 87%;
+top: 67.12%;
+bottom: 32.6%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* BLENDER */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 90.57%;
+top: 7.86%;
+bottom: 91.86%;
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 호르몬으로 대표되는 나를 5개의 포스터로 만들었다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 70.79%;
+top: 47.09%;
+bottom: 52.61%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 학습 커뮤니티 브랜드 뉴런을 브랜딩하였다. 로고타입, 브랜드 캐릭터, 알파벳 서체를 개발하였다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 48.64%;
+top: 67.86%;
+bottom: 31.83%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #000000;
+}
+
+
+/* 상상력과 동심을 주제로 스무가지 사물들을 큐레이팅. 어렸을 적에 사물들을 본래 용도와 다르게 여러가지 상상력으로 인식했던 기억을 바탕으로 그런 사물들을 보존하였다. 스무가지 사물들은 어릴적의 상상력을 간직하고있다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 24.93%;
+top: 8.6%;
+bottom: 90.76%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* SELF IDENTITY_HORMONE */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 67.07%;
+top: 45.86%;
+bottom: 53.6%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* NEWRUN */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 86.07%;
+top: 66.63%;
+bottom: 32.83%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #000000;
+}
+
+
+/* IMAGINE */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 86.43%;
+top: 7.37%;
+bottom: 92.09%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* Line 8 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 45.59%;
+bottom: 54.41%;
+
+border: 1px solid #FFFFFF;
+}

@@ -1,0 +1,432 @@
+/* 조혜지_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 501.92%;
+/* height: 7027px; */
+
+background: #000000;
+}
+
+/* 15 */
+
+.img15{
+position: absolute;
+width: 22.5%;
+left: 2.86%;
+right: 74.71%;
+top: 38.02%;
+bottom: 55.64%;
+
+/* background: url(2_Patterns.png); */ 
+}
+
+
+/* 14 */
+
+.img14{
+position: absolute;
+width: 22.5%;
+left: 26.79%;
+right: 50.79%;
+top: 38.02%;
+bottom: 55.64%;
+
+/* background: url(3_Patterns.png); */ 
+}
+
+
+/* 13 */
+
+.img13{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 38.02%;
+bottom: 55.64%;
+
+/* background: url(4_Patterns.png); */ 
+}
+
+
+/* 12 */
+
+.img12{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 44.64%;
+bottom: 49.01%;
+
+/* background: url(5_Patterns.png); */ 
+}
+
+
+/* 11 */
+
+.img11{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 44.64%;
+bottom: 49.01%;
+
+/* background: url(THUMB_Patterns.png); */ 
+}
+
+/* 10 */
+
+.img10{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 59.76%;
+bottom: 35.05%;
+
+/* background: url(2_branding.png); */ 
+}
+
+
+/* 9 */
+
+.img9{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 59.76%;
+bottom: 35.05%;
+
+/* background: url(3_branding.png); */ 
+}
+
+
+/* 8 */
+
+.img8{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 65.23%;
+bottom: 29.57%;
+
+/* background: url(4_branding.png); */ 
+}
+
+
+/* 7 */
+
+.img7{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 65.23%;
+bottom: 29.57%;
+
+/* background: url(5_branding.png); */ 
+}
+
+
+/* 6 */
+
+.img6{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 70.71%;
+bottom: 24.09%;
+
+/* background: url(6_branding.png); */ 
+}
+
+
+/* 5 */
+
+.img5{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 70.71%;
+bottom: 24.09%;
+
+/* background: url(7_branding.png); */ 
+}
+
+
+/* 4 */
+
+.img4{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 76.19%;
+bottom: 18.61%;
+
+/* background: url(8_branding.png); */ 
+}
+
+
+/* 3 */
+
+.img3{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 76.19%;
+bottom: 18.61%;
+
+/* background: url(9_branding.png); */ 
+}
+
+
+/* 2 */
+
+.img2{
+position: absolute;
+width: 70.35%;
+left: 26.79%;
+right: 2.86%;
+top: 90.68%;
+bottom: 1.42%;
+
+/* background: url(10_branding.png); */ 
+}
+
+
+/* 1 */
+
+.img1{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 82.52%;
+bottom: 9.61%;
+
+/* background: url(THUMB_branding.png); */ 
+}
+
+/* 16 */
+
+.img16{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 13.79%;
+bottom: 70.74%;
+
+/* background: url(THUMB_SelfIdentity.png); */ 
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 34.44%;
+bottom: 65.23%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Mixed Media */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 88.43%;
+top: 56.17%;
+bottom: 43.5%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Illustration */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 89.71%;
+top: 10.2%;
+bottom: 89.47%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 향에 예민함, 멀티페르소나, 사진 촬영을 좋아함 등 나의 특징을 패턴으로 나타내었다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 54.64%;
+top: 35.32%;
+bottom: 64.31%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 다양한 팀프로젝트 경험을 살려, 팀프로젝트에서 발생 가능한 문제에 대한 솔루션을 제공하는 브랜드에 대해 작업하였다. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 37.14%;
+top: 57.05%;
+bottom: 42.58%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 나와 관련된 물체를 다섯 개의 카테고리로 나누어 일러스트로 나타내었다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 60.43%;
+top: 11.09%;
+bottom: 88.54%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* PATTERN */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 87.14%;
+top: 33.84%;
+bottom: 65.5%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* SELF BRANDING */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 78.5%;
+top: 55.57%;
+bottom: 43.77%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+
+}
+
+/* SELF IDENTITY */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 81.14%;
+top: 9.61%;
+bottom: 89.74%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* Line 6 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 55.26%;
+bottom: 44.74%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 7 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 33.53%;
+bottom: 66.47%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 8 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 9.29%;
+bottom: 90.71%;
+
+border: 1px solid #FFFFFF;
+}

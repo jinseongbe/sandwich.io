@@ -1,0 +1,349 @@
+/* 김예은_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 796%;
+/* height: 11144px; */
+
+background: #000000;
+}
+
+
+/* 1 */
+
+.img1{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 7.12%;
+bottom: 81.04%;
+
+/* background: url(멋진 결과물을 만들어보자ai-01.png); */
+}
+
+
+/* 7 */
+
+.img7{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 37.31%;
+bottom: 40.86%;
+
+/* background: url(대지 10@4x-100.jpg); */
+}
+
+
+/* 10 */
+
+.img10{
+position: absolute;
+width: 94.28%;
+left: 2.86%;
+right: 2.86%;
+top: 71.8%;
+bottom: 0.05%;
+
+/* background: url(대지 9@4x-100.jpg); */
+}
+
+/* 2 */
+
+.img2{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 24%;
+bottom: 67.74%;
+
+/* background: url(Z8fa4M.png); */
+}
+
+
+/* 8 */
+
+.img8{
+position: absolute;
+width: 51.71%;
+left: 2.86%;
+right: 45.43%;
+top: 59.32%;
+bottom: 34.62%;
+
+/* background: url(Asset 21.png); */
+}
+
+
+/* 9 */
+
+.img9{
+position: absolute;
+width: 51.71%;
+left: 2.86%;
+right: 45.43%;
+top: 65.56%;
+bottom: 28.38%;
+
+/* background: url(Asset 20.png); */
+}
+
+/* 6 */
+
+.img6{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 28.18%;
+bottom: 67.82%;
+
+/* background: url(6lsttp.png); */
+}
+
+
+/* 5 */
+
+.img5{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 28.18%;
+bottom: 67.82%;
+
+/* background: url(bnBkIx.png); */
+}
+
+
+/* 3 */
+
+.img3{
+position: absolute;
+width: 22.5%;
+left: 50.71%;
+right: 26.79%;
+top: 24%;
+bottom: 72%;
+
+/* background: url(gJsoBf.png); */
+}
+
+
+/* 4 */
+
+.img4{
+position: absolute;
+width: 22.5%;
+left: 74.64%;
+right: 2.86%;
+top: 24%;
+bottom: 72%;
+
+/* background: url(OGQ9jY.png); */
+}
+
+/* Line 4 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 21.65%;
+bottom: 78.35%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 6 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 34.95%;
+bottom: 65.05%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 5 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 5.36%;
+bottom: 94.64%;
+
+border: 1px solid #FFFFFF;
+
+}
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 22.23%;
+bottom: 77.57%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Self Branding */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 88%;
+top: 35.53%;
+bottom: 64.27%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Self Identity */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 88.93%;
+top: 5.93%;
+bottom: 93.86%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* ‘잠, ’식사’, ‘운동’, ‘과제’, ‘독서’ 일상의 패턴을 이미지 패턴으로 전환 시켜 보았다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 55.71%;
+top: 22.78%;
+bottom: 76.98%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 전혀 연관성 없지만 ‘나’ 라는 존재를 통해서 이어지는 사물들을 수집해보았다. */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 57.86%;
+top: 6.49%;
+bottom: 93.28%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* PATTERN */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 87.14%;
+top: 21.85%;
+bottom: 77.74%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* FOGEUN */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 86.86%;
+top: 35.15%;
+bottom: 64.44%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* 전혀 관련없는 것들의 경계 허물기 */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 69.64%;
+top: 5.62%;
+bottom: 94.09%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 33px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 여러분의 무기력함을 덜어줄 증강현실 스튜디오 포근. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 70.43%;
+top: 36.09%;
+bottom: 63.68%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+
+}

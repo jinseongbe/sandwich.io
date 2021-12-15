@@ -1,0 +1,420 @@
+/* 황주원_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 577.35%;
+/* height: 8083px; */
+
+background: #000000;
+}
+
+/* 2 */
+
+.img2{
+position: absolute;
+width: 30.42%;
+left: 2.93%;
+right: 66.64%;
+top: 39.99%;
+bottom: 52.55%;
+
+/* background: url(나는야 몽상가.png); */ 
+}
+
+
+/* 4 */
+
+.img4{
+position: absolute;
+width: 30.42%;
+left: 2.93%;
+right: 66.64%;
+top: 47.73%;
+bottom: 44.81%;
+
+/* background: url(THUMB 암쏘베리해피.png); */ 
+}
+
+
+/* 5 */
+
+.img5{
+position: absolute;
+width: 30.42%;
+left: 35.14%;
+right: 34.43%;
+top: 47.73%;
+bottom: 44.81%;
+
+/* background: url(자유로움 반짝반짞2_대지 1.png); */ 
+}
+
+
+/* 3 */
+
+.img3{
+position: absolute;
+width: 30.42%;
+left: 35.14%;
+right: 34.36%;
+top: 39.99%;
+bottom: 52.55%;
+
+/* background: url(천방지축 어리둥절.png); */ 
+}
+
+
+/* 6 */
+
+.img6{
+position: absolute;
+width: 30.42%;
+left: 67.36%;
+right: 2.21%;
+top: 47.73%;
+bottom: 44.81%;
+
+/* background: url(폭주원_.png); */ 
+}
+
+
+/* 9 */
+
+.img9{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 62.81%;
+bottom: 31.5%;
+
+/* background: url(대지 93 사본.png); */ 
+}
+
+
+/* 7 */
+
+.img7{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 62.81%;
+bottom: 31.5%;
+
+/* background: url(대지 93.png); */ 
+}
+
+
+/* 8 */
+
+.img8{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 74.71%;
+bottom: 19.6%;
+
+/* background: url(대지 93 사본 10.png); */ 
+}
+
+
+/* 10 */
+
+.img10{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 74.71%;
+bottom: 19.58%;
+
+/* background: url(대지 93 사본 12.png); */ 
+}
+
+
+/* 11 */
+
+.img11{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.93%;
+top: 80.68%;
+bottom: 13.66%;
+
+/* background: url(대지 93 사본 14.png); */ 
+}
+
+
+/* 12 */
+
+.img12{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 2.86%;
+top: 80.68%;
+bottom: 13.63%;
+
+/* background: url(대지 93 사본 18.png); */ 
+}
+
+
+/* 13 */
+
+.img13{
+position: absolute;
+width: 46.42%;
+left: 25.93%;
+right: 24.5%;
+top: 86.64%;
+bottom: 1.24%;
+
+/* background: url(sticker jw.png); */ 
+}
+
+
+/* 14 */
+
+.img14{
+position: absolute;
+width: 46.42%;
+left: 2.93%;
+right: 50.64%;
+top: 68.75%;
+bottom: 25.55%;
+
+/* background: url(대지 93 사본 3.png); */ 
+}
+
+
+/* 15 */
+
+.img15{
+position: absolute;
+width: 46.42%;
+left: 50.79%;
+right: 2.71%;
+top: 68.75%;
+bottom: 25.55%;
+
+/* background: url(대지 93 사본 7.png); */ 
+}
+
+/* 1 */
+
+.img1{
+position: absolute;
+width: 71.42%;
+left: 14.29%;
+right: 14.29%;
+top: 11.25%;
+bottom: 68.5%;
+
+/* background: url(인벤토리2.png); */ 
+}
+
+
+/* Line 5 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 8.08%;
+bottom: 91.92%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 9 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 36.08%;
+bottom: 63.92%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 10 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 58.9%;
+bottom: 41.1%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 36.87%;
+bottom: 62.85%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Identity Design */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 87%;
+top: 59.69%;
+bottom: 40.02%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* mp4(동영상) */
+#r1{
+position: absolute;
+left: 2.93%;
+right: 89.29%;
+top: 8.87%;
+bottom: 90.84%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 평소 나의 성격과 분위기를 패턴으로 표현해보았다. */
+#d2{
+position: absolute;
+left: 2.86%;
+right: 71.57%;
+top: 37.63%;
+bottom: 62.04%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 미처 하지 못했던 말이나 감정을 뻔뻔스럽게 대신 전해주는 스튜디오. */
+#d3{
+position: absolute;
+left: 2.86%;
+right: 62.71%;
+top: 60.46%;
+bottom: 39.22%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* 동네에서 슬리퍼만 질질 끌고 다니는 애 황주원의 성격과 특징을 쯔꾸르 게임의 인트 로에서 한번 만나보자! */
+#d1{
+position: absolute;
+left: 2.93%;
+right: 43.86%;
+top: 9.64%;
+bottom: 90.04%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* PATTERNS */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 85.71%;
+top: 36.35%;
+bottom: 63.08%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* 뻔뻔 Studio */
+#t3{
+position: absolute;
+left: 2.93%;
+right: 86.29%;
+top: 59.28%;
+bottom: 40.31%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 33px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 새롬동 쓰레빠 */
+#t1{
+position: absolute;
+left: 2.93%;
+right: 85.64%;
+top: 8.44%;
+bottom: 91.15%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 33px;
+/* identical to box height */
+
+color: #FFFFFF;
+}

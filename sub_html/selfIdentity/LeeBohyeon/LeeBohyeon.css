@@ -1,0 +1,363 @@
+/* 이보현_SelfIdentity */
+#canvas{
+position: relative;
+width: 100%;
+padding-bottom: 913.78%;
+/* height: 12793px; */
+
+background: #000000;
+}
+
+/* 1 */
+
+.img1{
+position: absolute;
+width: 46.42%;
+left: 2.93%;
+right: 50.71%;
+top: 6.64%;
+bottom: 83.84%;
+
+/* background: url(아이덴티티.png); */
+}
+
+
+/* 2 */
+
+.img2{
+position: absolute;
+width: 46.42%;
+left: 50.86%;
+right: 2.86%;
+top: 6.64%;
+bottom: 83.84%;
+
+/* background: url(아이덴티티2.png); */
+}
+
+
+/* 3 */
+
+.img3{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 20.97%;
+bottom: 71.81%;
+
+/* background: url(THUMB_아이덴티티 포스터1.png); */
+}
+
+
+/* 4 */
+
+.img4{
+position: absolute;
+width: 46.42%;
+left: 2.86%;
+right: 50.71%;
+top: 52.21%;
+bottom: 40.57%;
+
+/* background: url(아이덴티티 포스터2.png); */
+}
+
+
+/* 5 */
+
+.img5{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 44.41%;
+bottom: 48.42%;
+
+/* background: url(아이덴티티 포스터3.png); */
+}
+
+
+/* 6 */
+
+.img6{
+position: absolute;
+width: 46.42%;
+left: 50.71%;
+right: 3%;
+top: 36.62%;
+bottom: 56.22%;
+
+/* background: url(아이덴티티 포스터4.png); */
+}
+
+
+/* 7 */
+
+.img7{
+position: absolute;
+width: 46.42%;
+left: 26.79%;
+right: 26.79%;
+top: 28.81%;
+bottom: 64%;
+
+/* background: url(아이덴티티 포스터5.png); */
+}
+
+
+/* 8 */
+
+.img8{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 63.32%;
+bottom: 32.33%;
+
+/* background: url(THUMB_셀프브랜딩.png); */
+}
+
+
+/* 9 */
+
+.img9{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 67.83%;
+bottom: 27.83%;
+
+/* background: url(셀프브랜딩2.png); */
+}
+
+
+/* 10 */
+
+.img10{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 72.33%;
+bottom: 23.33%;
+
+/* background: url(셀프브랜딩3.png); */
+}
+
+
+/* 11 */
+
+.img11{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 76.83%;
+bottom: 18.81%;
+
+/* background: url(셀프브랜딩4.png); */
+}
+
+
+/* 12 */
+
+.img12{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 81.34%;
+bottom: 14.31%;
+
+/* background: url(셀프브랜딩5.png); */
+}
+
+
+/* 13 */
+
+.img13{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 85.84%;
+bottom: 9.8%;
+
+/* background: url(셀프브랜딩6.png); */
+}
+
+
+/* 14 */
+
+.img14{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 90.35%;
+bottom: 5.29%;
+
+/* background: url(셀프브랜딩7.png); */
+}
+
+
+/* 15 */
+
+.img15{
+position: absolute;
+width: 70.35%;
+left: 2.86%;
+right: 26.79%;
+top: 94.86%;
+bottom: 0.78%;
+
+/* background: url(셀프브랜딩8.png); */
+}
+
+
+/* Publication */
+#r3{
+position: absolute;
+left: 2.86%;
+right: 89.43%;
+top: 62.28%;
+bottom: 37.54%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* ODOP */
+#t3{
+position: absolute;
+left: 2.86%;
+right: 89.93%;
+top: 61.95%;
+bottom: 37.69%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
+
+
+/* Poster */
+#r2{
+position: absolute;
+left: 2.86%;
+right: 92.64%;
+top: 19%;
+bottom: 80.82%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* SELF IDENTITY */
+#t1{
+position: absolute;
+left: 2.86%;
+right: 81.5%;
+top: 5.33%;
+bottom: 94.41%;
+
+
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 33px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* 작은 점과 같은 요소들이 모여 각기 다른 나를 이룬다. */
+#d2{
+position: absolute;
+left: 3%;
+right: 70.43%;
+top: 19.49%;
+bottom: 80.31%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+color: #FFFFFF;
+}
+
+
+/* Line 14 */
+.l1{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 61.78%;
+bottom: 38.22%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Line 15 */
+.l2{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 18.5%;
+bottom: 81.5%;
+ 
+border: 1px solid #FFFFFF;
+}
+
+/* Line 16 */
+.l3{
+position: absolute;
+left: 2.86%;
+right: 2.86%;
+top: 5.1%;
+bottom: 94.9%;
+
+border: 1px solid #FFFFFF;
+}
+
+/* DOT, DOT, DOT */
+#t2{
+position: absolute;
+left: 2.86%;
+right: 80.14%;
+top: 18.67%;
+bottom: 80.97%;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+}
